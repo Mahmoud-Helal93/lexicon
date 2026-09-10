@@ -33,7 +33,7 @@ export function Flashcard({
               onFlip()
             }
           }}
-          className="group block h-72 w-full cursor-pointer select-none focus-visible:outline-none sm:h-80"
+          className="group block h-96 w-full cursor-pointer select-none focus-visible:outline-none sm:h-[28rem]"
         >
           <div className={cn("flip-inner h-full w-full rounded-3xl", flipped && "is-flipped")}>
             {/* Front */}

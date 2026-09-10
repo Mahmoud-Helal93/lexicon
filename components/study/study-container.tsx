@@ -130,8 +130,8 @@ export function StudyContainer() {
     const word = wid ? getWord(wid) : undefined
     if (!word) return null
     return (
-      <div className="mx-auto max-w-3xl px-4 py-8 sm:px-6">
-        <div className="mb-5 flex items-center justify-between">
+      <div className="mx-auto flex min-h-[calc(100dvh-4rem)] max-w-4xl flex-col justify-center px-4 py-8 sm:px-6">
+        <div className="mb-6 flex items-center justify-between">
           <Button variant="ghost" size="sm" onClick={() => setPhase("setup")}>
             <ArrowLeft className="size-4" /> Exit
           </Button>
