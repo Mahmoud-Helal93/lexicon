@@ -44,11 +44,13 @@ export function QuestionCard({
         {word && <BookmarkButton wordId={word.id} size="sm" />}
       </div>
 
-      <div className="mt-6 text-center">
+      <div className="mt-8 text-center">
         <p
           className={cn(
-            "text-4xl font-bold tracking-tight text-balance sm:text-5xl",
-            question.promptIsArabic ? "text-arabic text-4xl text-primary sm:text-5xl" : "text-3xl sm:text-4xl",
+            "font-bold tracking-tight text-balance",
+            question.promptIsArabic
+              ? "text-arabic text-4xl text-primary sm:text-6xl"
+              : "text-3xl sm:text-5xl",
           )}
           lang={question.promptIsArabic ? "ar" : undefined}
         >

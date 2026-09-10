@@ -29,7 +29,7 @@ export function AnswerOption({
       onClick={onSelect}
       aria-label={`Option ${index + 1}: ${option.text}`}
       className={cn(
-        "flex w-full items-center gap-3 rounded-xl border px-4 py-3.5 text-left transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:cursor-default",
+        "flex w-full items-center gap-3 rounded-xl border px-4 py-4 text-left transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:cursor-default sm:px-5",
         !answered && "border-border bg-background hover:border-primary/50 hover:bg-secondary/50",
         showCorrect && "border-emerald-500 bg-emerald-500/10",
         showWrong && "border-destructive bg-destructive/10",
@@ -47,7 +47,10 @@ export function AnswerOption({
         {showCorrect ? <Check className="size-4" /> : showWrong ? <X className="size-4" /> : index + 1}
       </span>
       <span
-        className={cn("flex-1 text-pretty", option.isArabic ? "text-arabic text-lg font-medium" : "text-[15px]")}
+        className={cn(
+          "flex-1 text-pretty",
+          option.isArabic ? "text-arabic text-xl font-medium" : "text-base sm:text-[17px]",
+        )}
         lang={option.isArabic ? "ar" : undefined}
       >
         {option.text}
