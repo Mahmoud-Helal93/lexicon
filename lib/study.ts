@@ -19,9 +19,10 @@ export interface StudySession {
   inReview: string[]
 }
 
-export function createStudySession(words: VocabWord[]): StudySession {
+export function createStudySession(words: VocabWord[], order: "in-order" | "random" = "random"): StudySession {
+  const ids = words.map((w) => w.id)
   return {
-    queue: shuffle(words.map((w) => w.id)),
+    queue: order === "random" ? shuffle(ids) : ids,
     total: words.length,
     masteredIds: [],
     knownMarks: 0,

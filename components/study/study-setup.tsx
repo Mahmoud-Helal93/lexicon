@@ -5,18 +5,24 @@ import { GroupSelector } from "@/components/group-selector"
 import { Button } from "@/components/ui/button"
 import { Checkbox } from "@/components/ui/checkbox"
 import { Label } from "@/components/ui/label"
+import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
+import type { WordOrder } from "@/lib/types"
 
 export function StudySetup({
   includeMastered,
   onIncludeMasteredChange,
   wordCount,
   masteredInSelection,
+  order,
+  onOrderChange,
   onStart,
 }: {
   includeMastered: boolean
   onIncludeMasteredChange: (v: boolean) => void
   wordCount: number
   masteredInSelection: number
+  order: WordOrder
+  onOrderChange: (v: WordOrder) => void
   onStart: () => void
 }) {
   const effective = includeMastered ? wordCount : wordCount - masteredInSelection
@@ -32,6 +38,18 @@ export function StudySetup({
       </div>
 
       <GroupSelector />
+
+      <div className="rounded-2xl border border-border bg-card p-5">
+        <h2 className="text-lg font-semibold">Word order</h2>
+        <RadioGroup className="mt-3 grid gap-2.5 sm:grid-cols-2" value={order} onValueChange={(v) => onOrderChange(v as WordOrder)}>
+          <Label htmlFor="study-order" className="flex cursor-pointer items-center gap-3 rounded-xl border border-border bg-background px-3.5 py-3">
+            <RadioGroupItem value="in-order" id="study-order" /> In order
+          </Label>
+          <Label htmlFor="study-random" className="flex cursor-pointer items-center gap-3 rounded-xl border border-border bg-background px-3.5 py-3">
+            <RadioGroupItem value="random" id="study-random" /> Random
+          </Label>
+        </RadioGroup>
+      </div>
 
       <div className="rounded-2xl border border-border bg-card p-5">
         <div className="flex items-start gap-3">

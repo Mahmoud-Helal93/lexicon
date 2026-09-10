@@ -3,6 +3,7 @@
 import { BookOpen, AlertCircle } from "lucide-react"
 import type {
   ArabicDirection,
+  WordOrder,
   DefinitionDirection,
   QuestionTypeSetting,
 } from "@/lib/types"
@@ -21,6 +22,8 @@ export function PracticeSetup({
   length,
   onLengthChange,
   wordCount,
+  order,
+  onOrderChange,
   onStart,
 }: {
   config: PracticeConfig
@@ -28,6 +31,8 @@ export function PracticeSetup({
   length: number
   onLengthChange: (n: number) => void
   wordCount: number
+  order: WordOrder
+  onOrderChange: (v: WordOrder) => void
   onStart: () => void
 }) {
   const canStart = wordCount > 0
@@ -41,6 +46,14 @@ export function PracticeSetup({
       </div>
 
       <GroupSelector />
+
+      <div className="rounded-2xl border border-border bg-card p-5 sm:p-6">
+        <h2 className="text-lg font-semibold">Word order</h2>
+        <RadioGroup className="mt-3 grid gap-2.5 sm:grid-cols-2" value={order} onValueChange={(v) => onOrderChange(v as WordOrder)}>
+          <OptionRow value="in-order" id="practice-order" label="In order" checked={order === "in-order"} />
+          <OptionRow value="random" id="practice-random" label="Random" checked={order === "random"} />
+        </RadioGroup>
+      </div>
 
       <div className="rounded-2xl border border-border bg-card p-5 sm:p-6">
         <h2 className="text-lg font-semibold">Question type</h2>

@@ -10,6 +10,7 @@ export type QuestionCategory = "definition" | "arabic"
 export type QuestionTypeSetting = "definition" | "arabic" | "mixed"
 export type DefinitionDirection = "word-def" | "def-word" | "mixed"
 export type ArabicDirection = "word-ar" | "ar-word" | "mixed"
+export type WordOrder = "in-order" | "random"
 
 /** A concrete direction for a single generated question. */
 export type QuestionDirection = "word-def" | "def-word" | "word-ar" | "ar-word"

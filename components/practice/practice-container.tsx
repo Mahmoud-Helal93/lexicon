@@ -21,7 +21,7 @@ const DEFAULT_CONFIG: PracticeConfig = {
 }
 
 export function PracticeContainer() {
-  const { selection, state, hydrated, recordPracticeSession } = useStore()
+  const { selection, state, hydrated, settings, setPracticeOrder, recordPracticeSession } = useStore()
   const [phase, setPhase] = useState<Phase>("setup")
   const [config, setConfig] = useState<PracticeConfig>(DEFAULT_CONFIG)
   const [length, setLength] = useState(20)
@@ -39,7 +39,8 @@ export function PracticeContainer() {
   const beginSession = useCallback(
     (targetWords: VocabWord[], pool: VocabWord[]) => {
       const count = length === 0 ? targetWords.length : Math.min(length, targetWords.length)
-      const chosenWords = shuffle(targetWords).slice(0, count)
+      const orderedWords = settings.practiceOrder === "random" ? shuffle(targetWords) : targetWords
+      const chosenWords = orderedWords.slice(0, count)
       const qs = buildQuestionSet(chosenWords, pool, config)
       setQuestions(qs)
       setIndex(0)
@@ -47,7 +48,7 @@ export function PracticeContainer() {
       setRecords([])
       setPhase("session")
     },
-    [config, length],
+    [config, length, settings.practiceOrder],
   )
 
   const start = useCallback(() => {
@@ -126,6 +127,8 @@ export function PracticeContainer() {
           length={length}
           onLengthChange={setLength}
           wordCount={selectedWords.length}
+          order={settings.practiceOrder}
+          onOrderChange={setPracticeOrder}
           onStart={start}
         />
       </div>

@@ -21,7 +21,7 @@ import { StudyComplete } from "./study-complete"
 type Phase = "setup" | "session" | "complete"
 
 export function StudyContainer() {
-  const { selection, state, hydrated, markMastered, recordStudySession } = useStore()
+  const { selection, state, hydrated, settings, setStudyOrder, markMastered, recordStudySession } = useStore()
   const [phase, setPhase] = useState<Phase>("setup")
   const [includeMastered, setIncludeMastered] = useState(false)
   const [session, setSession] = useState<StudySession | null>(null)
@@ -43,10 +43,10 @@ export function StudyContainer() {
       words = words.filter((w) => !masteredSet.has(w.id))
     }
     if (words.length === 0) return
-    setSession(createStudySession(words))
+    setSession(createStudySession(words, settings.studyOrder))
     setFlipped(false)
     setPhase("session")
-  }, [selectedWords, includeMastered, state.masteredWords])
+  }, [selectedWords, includeMastered, state.masteredWords, settings.studyOrder])
 
   const finalize = useCallback(
     (finished: StudySession) => {
@@ -109,6 +109,8 @@ export function StudyContainer() {
           onIncludeMasteredChange={setIncludeMastered}
           wordCount={selectedWords.length}
           masteredInSelection={masteredInSelection}
+          order={settings.studyOrder}
+          onOrderChange={setStudyOrder}
           onStart={start}
         />
       </div>

@@ -1,10 +1,11 @@
 "use client"
 
 import { createContext, useCallback, useContext, useEffect, useMemo, useState } from "react"
-import type { PersistedState } from "./types"
+import type { PersistedState, WordOrder } from "./types"
 
 const STORAGE_KEY = "gre-vocab-state-v1"
 const SELECTION_KEY = "gre-vocab-selection-v1"
+const SETTINGS_KEY = "gre-vocab-settings-v1"
 
 const DEFAULT_STATE: PersistedState = {
   bookmarks: [],
@@ -20,11 +21,21 @@ export interface Selection {
 
 const DEFAULT_SELECTION: Selection = { groups: [], includeBookmarks: false }
 
+interface StudyPracticeSettings {
+  studyOrder: WordOrder
+  practiceOrder: WordOrder
+}
+
+const DEFAULT_SETTINGS: StudyPracticeSettings = { studyOrder: "random", practiceOrder: "random" }
+
 interface StoreValue {
   hydrated: boolean
   state: PersistedState
   selection: Selection
   setSelection: (s: Selection) => void
+  settings: StudyPracticeSettings
+  setStudyOrder: (v: WordOrder) => void
+  setPracticeOrder: (v: WordOrder) => void
   isBookmarked: (id: string) => boolean
   toggleBookmark: (id: string) => void
   addBookmarks: (ids: string[]) => void
@@ -43,6 +54,7 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
   const [hydrated, setHydrated] = useState(false)
   const [state, setState] = useState<PersistedState>(DEFAULT_STATE)
   const [selection, setSelectionState] = useState<Selection>(DEFAULT_SELECTION)
+  const [settings, setSettings] = useState<StudyPracticeSettings>(DEFAULT_SETTINGS)
 
   useEffect(() => {
     try {
@@ -60,6 +72,8 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
       }
       const sel = sessionStorage.getItem(SELECTION_KEY)
       if (sel) setSelectionState(JSON.parse(sel))
+      const storedSettings = localStorage.getItem(SETTINGS_KEY)
+      if (storedSettings) setSettings({ ...DEFAULT_SETTINGS, ...JSON.parse(storedSettings) })
     } catch {
       // ignore corrupt storage
     }
@@ -70,6 +84,7 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
     if (!hydrated) return
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+      localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings))
     } catch {
       // ignore quota errors
     }
@@ -83,6 +98,9 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
       // ignore
     }
   }, [])
+
+  const setStudyOrder = useCallback((v: WordOrder) => setSettings((prev) => ({ ...prev, studyOrder: v })), [])
+  const setPracticeOrder = useCallback((v: WordOrder) => setSettings((prev) => ({ ...prev, practiceOrder: v })), [])
 
   const bookmarkSet = useMemo(() => new Set(state.bookmarks), [state.bookmarks])
   const masteredSet = useMemo(() => new Set(state.masteredWords), [state.masteredWords])
@@ -160,6 +178,9 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
     state,
     selection,
     setSelection,
+    settings,
+    setStudyOrder,
+    setPracticeOrder,
     isBookmarked,
     toggleBookmark,
     addBookmarks,
