@@ -36,7 +36,7 @@ export function QuestionCard({
   const labelIsArabic = question.direction === "word-ar"
 
   return (
-    <div className="rounded-3xl border border-border bg-card p-6 sm:p-8">
+    <div className="rounded-3xl border border-border/80 bg-card p-7 shadow-lg shadow-foreground/5 ring-1 ring-border/30 sm:p-10">
       <div className="flex items-start justify-between gap-4">
         <span className="inline-flex items-center gap-2 rounded-full bg-secondary px-3 py-1 text-xs font-medium text-muted-foreground">
           {question.category === "definition" ? "Definition" : "Arabic translation"}
@@ -47,7 +47,7 @@ export function QuestionCard({
       <div className="mt-6 text-center">
         <p
           className={cn(
-            "font-bold tracking-tight text-balance",
+            "text-4xl font-bold tracking-tight text-balance sm:text-5xl",
             question.promptIsArabic ? "text-arabic text-4xl text-primary sm:text-5xl" : "text-3xl sm:text-4xl",
           )}
           lang={question.promptIsArabic ? "ar" : undefined}
@@ -59,7 +59,7 @@ export function QuestionCard({
         </p>
       </div>
 
-      <div className="mt-7 grid gap-2.5" role="listbox" aria-label="Answer choices">
+      <div className="mt-9 grid gap-3" role="listbox" aria-label="Answer choices">
         {question.options.map((opt, i) => (
           <AnswerOption
             key={i}

@@ -151,7 +151,7 @@ export function PracticeContainer() {
   if (phase === "session" && current) {
     const progressPct = Math.round((index / questions.length) * 100)
     return (
-      <div className="mx-auto max-w-2xl px-4 py-8 sm:px-6">
+      <div className="mx-auto w-full max-w-4xl px-4 py-8 sm:px-6 lg:py-10">
         <div className="mb-4 flex items-center justify-between">
           <Button variant="ghost" size="sm" onClick={() => setPhase("setup")}>
             <ArrowLeft className="size-4" /> Exit
