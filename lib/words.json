@@ -1,0 +1,6302 @@
+[
+  {
+    "id": "w-1-aplomb",
+    "group": 1,
+    "word": "Aplomb",
+    "definition": "Calm self-confidence, especially under pressure",
+    "arabicTranslation": "رباطة جأش، ثقة بالنفس"
+  },
+  {
+    "id": "w-1-apposite",
+    "group": 1,
+    "word": "Apposite",
+    "definition": "Very fitting or relevant to what is being discussed",
+    "arabicTranslation": "مناسب، ملائم"
+  },
+  {
+    "id": "w-1-beholden",
+    "group": 1,
+    "word": "Beholden",
+    "definition": "Owing gratitude or being obligated to someone",
+    "arabicTranslation": "مدين لـ، ملزم بالامتنان"
+  },
+  {
+    "id": "w-1-belittle",
+    "group": 1,
+    "word": "Belittle",
+    "definition": "To make someone or something seem less important",
+    "arabicTranslation": "يستخف بـ، يقلل من شأن"
+  },
+  {
+    "id": "w-1-cluster",
+    "group": 1,
+    "word": "Cluster",
+    "definition": "A small group of things or people close together",
+    "arabicTranslation": "عنقود، مجموعة متقاربة"
+  },
+  {
+    "id": "w-1-coherent",
+    "group": 1,
+    "word": "Coherent",
+    "definition": "Logical and easy to understand; well-connected",
+    "arabicTranslation": "متماسك، منطقي"
+  },
+  {
+    "id": "w-1-contemplate",
+    "group": 1,
+    "word": "Contemplate",
+    "definition": "To think about something carefully for a long time",
+    "arabicTranslation": "يتأمل، يفكر مليًا"
+  },
+  {
+    "id": "w-1-crafty",
+    "group": 1,
+    "word": "Crafty",
+    "definition": "Clever in a sly or deceptive way",
+    "arabicTranslation": "ماكر، محتال"
+  },
+  {
+    "id": "w-1-dismantle",
+    "group": 1,
+    "word": "Dismantle",
+    "definition": "To take something apart piece by piece",
+    "arabicTranslation": "يفكك، يفكك أجزاء"
+  },
+  {
+    "id": "w-1-elaborate",
+    "group": 1,
+    "word": "Elaborate",
+    "definition": "Very detailed and complicated; (verb) to explain in more detail",
+    "arabicTranslation": "مفصّل، متقن؛ يوضح بالتفصيل"
+  },
+  {
+    "id": "w-1-exegesis",
+    "group": 1,
+    "word": "Exegesis",
+    "definition": "A detailed explanation or interpretation of a text",
+    "arabicTranslation": "تفسير، شرح نص"
+  },
+  {
+    "id": "w-1-forgo",
+    "group": 1,
+    "word": "Forgo",
+    "definition": "To choose to go without something",
+    "arabicTranslation": "يتخلى عن، يتنازل عن"
+  },
+  {
+    "id": "w-1-impenetrable",
+    "group": 1,
+    "word": "Impenetrable",
+    "definition": "Impossible to enter, understand, or see through",
+    "arabicTranslation": "منيع، مستعصٍ على الفهم"
+  },
+  {
+    "id": "w-1-impervious",
+    "group": 1,
+    "word": "Impervious",
+    "definition": "Not affected or influenced by something; not letting anything pass through",
+    "arabicTranslation": "غير متأثر بـ، منيع"
+  },
+  {
+    "id": "w-1-inalienable",
+    "group": 1,
+    "word": "Inalienable",
+    "definition": "A right that cannot be taken away or given up",
+    "arabicTranslation": "غير قابل للتصرف أو السلب"
+  },
+  {
+    "id": "w-1-inept",
+    "group": 1,
+    "word": "Inept",
+    "definition": "Lacking skill; clumsy or incompetent",
+    "arabicTranslation": "عديم الكفاءة، أخرق"
+  },
+  {
+    "id": "w-1-martinet",
+    "group": 1,
+    "word": "Martinet",
+    "definition": "A person who strictly enforces rules and discipline",
+    "arabicTranslation": "شخص متزمت بالانضباط، صارم جدًا"
+  },
+  {
+    "id": "w-1-narcissism",
+    "group": 1,
+    "word": "Narcissism",
+    "definition": "Excessive love or admiration for oneself",
+    "arabicTranslation": "النرجسية، الإعجاب المفرط بالذات"
+  },
+  {
+    "id": "w-1-objurgation",
+    "group": 1,
+    "word": "Objurgation",
+    "definition": "Harsh criticism or scolding",
+    "arabicTranslation": "توبيخ شديد، لوم قاسٍ"
+  },
+  {
+    "id": "w-1-passable",
+    "group": 1,
+    "word": "Passable",
+    "definition": "Adequate but not excellent; acceptable",
+    "arabicTranslation": "مقبول، لا بأس به"
+  },
+  {
+    "id": "w-1-penetrating",
+    "group": 1,
+    "word": "Penetrating",
+    "definition": "Sharp and insightful; able to go deeply into something",
+    "arabicTranslation": "ثاقب، نافذ"
+  },
+  {
+    "id": "w-1-picturesque",
+    "group": 1,
+    "word": "Picturesque",
+    "definition": "Visually charming or pretty, like a picture",
+    "arabicTranslation": "خلاب، جميل المنظر"
+  },
+  {
+    "id": "w-1-reflect",
+    "group": 1,
+    "word": "Reflect",
+    "definition": "To think deeply about something; to show or mirror something",
+    "arabicTranslation": "يتأمل، يعكس"
+  },
+  {
+    "id": "w-1-resourceful",
+    "group": 1,
+    "word": "Resourceful",
+    "definition": "Good at finding clever solutions to problems",
+    "arabicTranslation": "بارع في تدبير الأمور، واسع الحيلة"
+  },
+  {
+    "id": "w-1-retrench",
+    "group": 1,
+    "word": "Retrench",
+    "definition": "To cut back on spending or reduce expenses",
+    "arabicTranslation": "يقلّص النفقات، يقتصد"
+  },
+  {
+    "id": "w-1-self-indulgent",
+    "group": 1,
+    "word": "Self-Indulgent",
+    "definition": "Allowing oneself too much pleasure or comfort without restraint",
+    "arabicTranslation": "متساهل مع النفس، منغمس في الملذات"
+  },
+  {
+    "id": "w-1-speculate",
+    "group": 1,
+    "word": "Speculate",
+    "definition": "To form a theory or guess without firm evidence",
+    "arabicTranslation": "يخمن، يتكهن"
+  },
+  {
+    "id": "w-1-staid",
+    "group": 1,
+    "word": "Staid",
+    "definition": "Serious, respectable, and dull; not adventurous",
+    "arabicTranslation": "رصين، جامد بشكل ممل"
+  },
+  {
+    "id": "w-1-suppress",
+    "group": 1,
+    "word": "Suppress",
+    "definition": "To forcibly put an end to or hold back something",
+    "arabicTranslation": "يقمع، يكبت"
+  },
+  {
+    "id": "w-1-vestigial",
+    "group": 1,
+    "word": "Vestigial",
+    "definition": "Remaining as a small, reduced trace of something that once existed",
+    "arabicTranslation": "أثري، بقايا متضائلة من شيء سابق"
+  },
+  {
+    "id": "w-1-accord",
+    "group": 1,
+    "word": "Accord",
+    "definition": "Agreement or harmony; (verb) to give or grant",
+    "arabicTranslation": "اتفاق، انسجام؛ يمنح"
+  },
+  {
+    "id": "w-1-ad-hoc",
+    "group": 1,
+    "word": "Ad Hoc",
+    "definition": "Made or done for a particular purpose, not planned in advance",
+    "arabicTranslation": "مخصص لغرض معين، غير مخطط له مسبقًا"
+  },
+  {
+    "id": "w-1-adhere",
+    "group": 1,
+    "word": "Adhere",
+    "definition": "To stick firmly to a surface or to follow a rule strictly",
+    "arabicTranslation": "يلتصق بـ، يلتزم بـ"
+  },
+  {
+    "id": "w-1-all-encompassing",
+    "group": 1,
+    "word": "All-Encompassing",
+    "definition": "Including everything; very comprehensive",
+    "arabicTranslation": "شامل، يضم كل شيء"
+  },
+  {
+    "id": "w-1-aphorism",
+    "group": 1,
+    "word": "Aphorism",
+    "definition": "A short, memorable statement expressing a general truth",
+    "arabicTranslation": "حكمة، قول مأثور موجز"
+  },
+  {
+    "id": "w-1-benchmark",
+    "group": 1,
+    "word": "Benchmark",
+    "definition": "A standard used to judge or measure other things",
+    "arabicTranslation": "معيار مرجعي، مقياس"
+  },
+  {
+    "id": "w-1-blighted",
+    "group": 1,
+    "word": "Blighted",
+    "definition": "Badly damaged or ruined, as by disease or neglect",
+    "arabicTranslation": "متضرر بشدة، منكوب"
+  },
+  {
+    "id": "w-1-content",
+    "group": 1,
+    "word": "Content",
+    "definition": "Satisfied and at peace; (noun) the material inside something",
+    "arabicTranslation": "راضٍ، قنوع؛ المحتوى"
+  },
+  {
+    "id": "w-1-debase",
+    "group": 1,
+    "word": "Debase",
+    "definition": "To lower the quality, value, or reputation of something",
+    "arabicTranslation": "يحطّ من قيمة، يفسد"
+  },
+  {
+    "id": "w-1-disconcerting",
+    "group": 1,
+    "word": "Disconcerting",
+    "definition": "Confusing or upsetting in a way that makes one feel uneasy",
+    "arabicTranslation": "مربك، مقلق"
+  },
+  {
+    "id": "w-1-extant",
+    "group": 1,
+    "word": "Extant",
+    "definition": "Still existing; not extinct or destroyed",
+    "arabicTranslation": "لا يزال موجودًا، باقٍ"
+  },
+  {
+    "id": "w-1-facility",
+    "group": 1,
+    "word": "Facility",
+    "definition": "Ease in doing something; also a place built for a specific purpose",
+    "arabicTranslation": "سهولة، مهارة؛ منشأة"
+  },
+  {
+    "id": "w-1-fitful",
+    "group": 1,
+    "word": "Fitful",
+    "definition": "Happening in irregular bursts rather than continuously",
+    "arabicTranslation": "متقطع، غير منتظم"
+  },
+  {
+    "id": "w-1-incite",
+    "group": 1,
+    "word": "Incite",
+    "definition": "To encourage or stir someone into action, often violent",
+    "arabicTranslation": "يحرّض، يثير"
+  },
+  {
+    "id": "w-1-induce",
+    "group": 1,
+    "word": "Induce",
+    "definition": "To persuade someone to do something, or to cause something to happen",
+    "arabicTranslation": "يحث على، يسبب"
+  },
+  {
+    "id": "w-1-infelicity",
+    "group": 1,
+    "word": "Infelicity",
+    "definition": "An unfortunate or inappropriate remark or action; unhappiness",
+    "arabicTranslation": "تعبير غير موفق، شقاء"
+  },
+  {
+    "id": "w-1-intelligible",
+    "group": 1,
+    "word": "Intelligible",
+    "definition": "Able to be understood clearly",
+    "arabicTranslation": "مفهوم، واضح"
+  },
+  {
+    "id": "w-1-makeshift",
+    "group": 1,
+    "word": "Makeshift",
+    "definition": "A temporary substitute made from whatever is available",
+    "arabicTranslation": "مؤقت، مرتجل"
+  },
+  {
+    "id": "w-1-onetime",
+    "group": 1,
+    "word": "Onetime",
+    "definition": "Former; happening only once",
+    "arabicTranslation": "سابق، لمرة واحدة"
+  },
+  {
+    "id": "w-1-opportunistic",
+    "group": 1,
+    "word": "Opportunistic",
+    "definition": "Taking advantage of chances as they arise, often unfairly",
+    "arabicTranslation": "انتهازي"
+  },
+  {
+    "id": "w-1-plausible",
+    "group": 1,
+    "word": "Plausible",
+    "definition": "Seeming reasonable or probably true",
+    "arabicTranslation": "معقول، محتمل"
+  },
+  {
+    "id": "w-1-posturing",
+    "group": 1,
+    "word": "Posturing",
+    "definition": "Behavior meant to impress or mislead others rather than being sincere",
+    "arabicTranslation": "تصنّع، تظاهر"
+  },
+  {
+    "id": "w-1-potent",
+    "group": 1,
+    "word": "Potent",
+    "definition": "Powerful or having a strong effect",
+    "arabicTranslation": "قوي، فعّال"
+  },
+  {
+    "id": "w-1-redundant",
+    "group": 1,
+    "word": "Redundant",
+    "definition": "More than is needed; unnecessarily repetitive",
+    "arabicTranslation": "زائد عن الحاجة، متكرر"
+  },
+  {
+    "id": "w-1-sacrosanct",
+    "group": 1,
+    "word": "Sacrosanct",
+    "definition": "Regarded as too important or sacred to be criticized or changed",
+    "arabicTranslation": "مقدس، لا يجوز المساس به"
+  },
+  {
+    "id": "w-1-shrewd",
+    "group": 1,
+    "word": "Shrewd",
+    "definition": "Having sharp judgment, especially in practical matters",
+    "arabicTranslation": "فطن، ذكي عمليًا"
+  },
+  {
+    "id": "w-1-unadorned",
+    "group": 1,
+    "word": "Unadorned",
+    "definition": "Plain; without decoration",
+    "arabicTranslation": "بسيط، غير مزخرف"
+  },
+  {
+    "id": "w-1-valedictory",
+    "group": 1,
+    "word": "Valedictory",
+    "definition": "Serving as a farewell",
+    "arabicTranslation": "وداعي، خاص بالوداع"
+  },
+  {
+    "id": "w-1-warranted",
+    "group": 1,
+    "word": "Warranted",
+    "definition": "Justified or deserved",
+    "arabicTranslation": "مبرر، مستحق"
+  },
+  {
+    "id": "w-1-wistful",
+    "group": 1,
+    "word": "Wistful",
+    "definition": "Having a feeling of vague longing, often tinged with sadness",
+    "arabicTranslation": "حنين ممزوج بحزن خفيف"
+  },
+  {
+    "id": "w-2-attribute",
+    "group": 2,
+    "word": "Attribute",
+    "definition": "(verb) To say something is caused by; (noun) a quality or feature",
+    "arabicTranslation": "يعزو إلى؛ صفة، سمة"
+  },
+  {
+    "id": "w-2-calamitous",
+    "group": 2,
+    "word": "Calamitous",
+    "definition": "Causing great disaster or suffering",
+    "arabicTranslation": "كارثي، مفجع"
+  },
+  {
+    "id": "w-2-censor",
+    "group": 2,
+    "word": "Censor",
+    "definition": "To remove or ban parts of a work considered unacceptable",
+    "arabicTranslation": "يراقب ويحذف المحتوى، يمنع النشر"
+  },
+  {
+    "id": "w-2-champion",
+    "group": 2,
+    "word": "Champion",
+    "definition": "(verb) To publicly support or defend a cause",
+    "arabicTranslation": "يناصر، يدافع عن قضية"
+  },
+  {
+    "id": "w-2-compound",
+    "group": 2,
+    "word": "Compound",
+    "definition": "(verb) To make a problem worse; (noun) a mixture of parts",
+    "arabicTranslation": "يفاقم؛ مركّب"
+  },
+  {
+    "id": "w-2-deter",
+    "group": 2,
+    "word": "Deter",
+    "definition": "To discourage someone from doing something",
+    "arabicTranslation": "يردع، يثني عن"
+  },
+  {
+    "id": "w-2-dexterous",
+    "group": 2,
+    "word": "Dexterous",
+    "definition": "Skillful with the hands or in physical movement",
+    "arabicTranslation": "بارع، ماهر يدويًا"
+  },
+  {
+    "id": "w-2-dictum",
+    "group": 2,
+    "word": "Dictum",
+    "definition": "A short authoritative statement or saying",
+    "arabicTranslation": "قول مأثور، حكم رسمي"
+  },
+  {
+    "id": "w-2-dutiful",
+    "group": 2,
+    "word": "Dutiful",
+    "definition": "Doing what is expected out of a sense of duty",
+    "arabicTranslation": "ملتزم بالواجب، مطيع"
+  },
+  {
+    "id": "w-2-empathetic",
+    "group": 2,
+    "word": "Empathetic",
+    "definition": "Able to understand and share the feelings of others",
+    "arabicTranslation": "متعاطف، يتفهم مشاعر الآخرين"
+  },
+  {
+    "id": "w-2-ensue",
+    "group": 2,
+    "word": "Ensue",
+    "definition": "To happen afterward, as a result",
+    "arabicTranslation": "ينتج عن، يعقب"
+  },
+  {
+    "id": "w-2-fathom",
+    "group": 2,
+    "word": "Fathom",
+    "definition": "To understand something fully, especially something complex",
+    "arabicTranslation": "يفهم بعمق، يسبر غور"
+  },
+  {
+    "id": "w-2-frank",
+    "group": 2,
+    "word": "Frank",
+    "definition": "Open and honest in expression, even if blunt",
+    "arabicTranslation": "صريح، صادق"
+  },
+  {
+    "id": "w-2-germane",
+    "group": 2,
+    "word": "Germane",
+    "definition": "Relevant and closely connected to the topic",
+    "arabicTranslation": "ذو صلة وثيقة، مناسب"
+  },
+  {
+    "id": "w-2-grumble",
+    "group": 2,
+    "word": "Grumble",
+    "definition": "To complain in a low, muttering voice",
+    "arabicTranslation": "يتذمر، يتمتم بالشكوى"
+  },
+  {
+    "id": "w-2-hidebound",
+    "group": 2,
+    "word": "Hidebound",
+    "definition": "Unwilling to change old ideas or customs; narrow-minded",
+    "arabicTranslation": "متزمت، متمسك بالقديم"
+  },
+  {
+    "id": "w-2-hypocrite",
+    "group": 2,
+    "word": "Hypocrite",
+    "definition": "A person who claims values they do not actually practice",
+    "arabicTranslation": "منافق"
+  },
+  {
+    "id": "w-2-impolitic",
+    "group": 2,
+    "word": "Impolitic",
+    "definition": "Not wise or sensible, especially in a political or social sense",
+    "arabicTranslation": "غير حكيم، غير لائق سياسيًا"
+  },
+  {
+    "id": "w-2-insidious",
+    "group": 2,
+    "word": "Insidious",
+    "definition": "Harmful in a gradual, subtle way that isn't obvious",
+    "arabicTranslation": "خبيث، ماكر يتسلل تدريجيًا"
+  },
+  {
+    "id": "w-2-intermediary",
+    "group": 2,
+    "word": "Intermediary",
+    "definition": "A person who acts as a link between two parties",
+    "arabicTranslation": "وسيط"
+  },
+  {
+    "id": "w-2-passive",
+    "group": 2,
+    "word": "Passive",
+    "definition": "Accepting what happens without resisting or acting",
+    "arabicTranslation": "سلبي، غير فاعل"
+  },
+  {
+    "id": "w-2-raillery",
+    "group": 2,
+    "word": "Raillery",
+    "definition": "Good-humored teasing or mockery",
+    "arabicTranslation": "مزاح ساخر ودود"
+  },
+  {
+    "id": "w-2-ramble",
+    "group": 2,
+    "word": "Ramble",
+    "definition": "To talk or move in a disorganized, wandering way",
+    "arabicTranslation": "يتجول بلا هدف، يسترسل بالكلام"
+  },
+  {
+    "id": "w-2-resent",
+    "group": 2,
+    "word": "Resent",
+    "definition": "To feel bitter or angry about something considered unfair",
+    "arabicTranslation": "يستاء من، يمقت"
+  },
+  {
+    "id": "w-2-residual",
+    "group": 2,
+    "word": "Residual",
+    "definition": "Remaining after most of something is gone",
+    "arabicTranslation": "متبقٍ، ما تبقى بعد"
+  },
+  {
+    "id": "w-2-resolve",
+    "group": 2,
+    "word": "Resolve",
+    "definition": "(verb) To find a solution; (noun) firm determination",
+    "arabicTranslation": "يحل مشكلة؛ عزم راسخ"
+  },
+  {
+    "id": "w-2-surrogate",
+    "group": 2,
+    "word": "Surrogate",
+    "definition": "A substitute acting in place of someone or something else",
+    "arabicTranslation": "بديل، نائب عن"
+  },
+  {
+    "id": "w-2-vilify",
+    "group": 2,
+    "word": "Vilify",
+    "definition": "To speak or write about someone in an abusively critical way",
+    "arabicTranslation": "يشوه سمعة، يذم بشدة"
+  },
+  {
+    "id": "w-2-wanting",
+    "group": 2,
+    "word": "Wanting",
+    "definition": "Lacking in a needed quality; not good enough",
+    "arabicTranslation": "ناقص، غير كافٍ"
+  },
+  {
+    "id": "w-2-willful",
+    "group": 2,
+    "word": "Willful",
+    "definition": "Stubbornly determined to do as one wants; deliberate",
+    "arabicTranslation": "عنيد، متعمد"
+  },
+  {
+    "id": "w-2-querulous",
+    "group": 2,
+    "word": "Querulous",
+    "definition": "Complaining in a whining, irritable way",
+    "arabicTranslation": "متذمر، شكّاء"
+  },
+  {
+    "id": "w-2-phony",
+    "group": 2,
+    "word": "Phony",
+    "definition": "Not genuine; fake",
+    "arabicTranslation": "زائف، مزيف"
+  },
+  {
+    "id": "w-2-check",
+    "group": 2,
+    "word": "Check",
+    "definition": "(verb) To stop or control the progress of something",
+    "arabicTranslation": "يكبح، يوقف"
+  },
+  {
+    "id": "w-2-reclusive",
+    "group": 2,
+    "word": "Reclusive",
+    "definition": "Preferring to live alone, avoiding others",
+    "arabicTranslation": "منعزل، منطوٍ"
+  },
+  {
+    "id": "w-2-servile",
+    "group": 2,
+    "word": "Servile",
+    "definition": "Excessively willing to serve or obey others",
+    "arabicTranslation": "متذلل، خانع"
+  },
+  {
+    "id": "w-2-unctuous",
+    "group": 2,
+    "word": "Unctuous",
+    "definition": "Excessively flattering or smooth in an insincere way",
+    "arabicTranslation": "متملق، متزلف بشكل منافق"
+  },
+  {
+    "id": "w-2-defile",
+    "group": 2,
+    "word": "Defile",
+    "definition": "To make something dirty or spoil its purity",
+    "arabicTranslation": "يدنّس، يلوّث"
+  },
+  {
+    "id": "w-2-taint",
+    "group": 2,
+    "word": "Taint",
+    "definition": "To spoil or contaminate the purity or reputation of something",
+    "arabicTranslation": "يلوّث، يشين"
+  },
+  {
+    "id": "w-2-ardor",
+    "group": 2,
+    "word": "Ardor",
+    "definition": "Great enthusiasm or passion",
+    "arabicTranslation": "حماس شديد، لهفة"
+  },
+  {
+    "id": "w-2-daring",
+    "group": 2,
+    "word": "Daring",
+    "definition": "Willing to take risks; bold",
+    "arabicTranslation": "جريء، مقدام"
+  },
+  {
+    "id": "w-2-unflinching",
+    "group": 2,
+    "word": "Unflinching",
+    "definition": "Not showing fear or hesitation; steady",
+    "arabicTranslation": "ثابت بلا خوف، صامد"
+  },
+  {
+    "id": "w-2-trite",
+    "group": 2,
+    "word": "Trite",
+    "definition": "Overused and unoriginal, lacking freshness",
+    "arabicTranslation": "مبتذل، مكرر بلا جدة"
+  },
+  {
+    "id": "w-2-brash",
+    "group": 2,
+    "word": "Brash",
+    "definition": "Overly confident and disrespectful; bold in a rude way",
+    "arabicTranslation": "وقح، متهور بجرأة"
+  },
+  {
+    "id": "w-2-unabashed",
+    "group": 2,
+    "word": "Unabashed",
+    "definition": "Not embarrassed or ashamed, openly so",
+    "arabicTranslation": "غير خجل، سافر بلا حياء"
+  },
+  {
+    "id": "w-2-libel",
+    "group": 2,
+    "word": "Libel",
+    "definition": "A false written statement that damages someone's reputation",
+    "arabicTranslation": "قذف، تشهير مكتوب"
+  },
+  {
+    "id": "w-2-obloquy",
+    "group": 2,
+    "word": "Obloquy",
+    "definition": "Strong public criticism or disgrace",
+    "arabicTranslation": "تشهير علني، عار"
+  },
+  {
+    "id": "w-2-denigration",
+    "group": 2,
+    "word": "Denigration",
+    "definition": "The act of criticizing unfairly to damage reputation",
+    "arabicTranslation": "تحقير، تشويه سمعة"
+  },
+  {
+    "id": "w-2-blunt",
+    "group": 2,
+    "word": "Blunt",
+    "definition": "Direct and plain in speech, without softening; not sharp",
+    "arabicTranslation": "صريح بلا مجاملة؛ غير حاد"
+  },
+  {
+    "id": "w-2-derisive",
+    "group": 2,
+    "word": "Derisive",
+    "definition": "Expressing contempt or ridicule",
+    "arabicTranslation": "ساخر، استهزائي"
+  },
+  {
+    "id": "w-2-parse",
+    "group": 2,
+    "word": "Parse",
+    "definition": "To analyze something carefully, part by part",
+    "arabicTranslation": "يحلل بدقة، يفكك للفهم"
+  },
+  {
+    "id": "w-2-rueful",
+    "group": 2,
+    "word": "Rueful",
+    "definition": "Feeling or showing regret in a slightly humorous way",
+    "arabicTranslation": "نادم بحسرة ممزوجة بالسخرية"
+  },
+  {
+    "id": "w-2-chastened",
+    "group": 2,
+    "word": "Chastened",
+    "definition": "Made humbler or more disciplined after being corrected",
+    "arabicTranslation": "متأدب بعد توبيخ، منكسر"
+  },
+  {
+    "id": "w-2-serpentine",
+    "group": 2,
+    "word": "Serpentine",
+    "definition": "Twisting and turning like a snake",
+    "arabicTranslation": "متعرج كالأفعى"
+  },
+  {
+    "id": "w-2-hanker-for",
+    "group": 2,
+    "word": "Hanker For",
+    "definition": "To have a strong desire for something",
+    "arabicTranslation": "يتوق إلى، يشتاق بشدة لـ"
+  },
+  {
+    "id": "w-2-ache-for",
+    "group": 2,
+    "word": "Ache For",
+    "definition": "To feel a strong yearning for something",
+    "arabicTranslation": "يتوق بشدة إلى"
+  },
+  {
+    "id": "w-2-quaking",
+    "group": 2,
+    "word": "Quaking",
+    "definition": "Shaking, especially from fear or instability",
+    "arabicTranslation": "مرتجف، مهتز من الخوف"
+  },
+  {
+    "id": "w-2-timid",
+    "group": 2,
+    "word": "Timid",
+    "definition": "Lacking courage or confidence; shy",
+    "arabicTranslation": "خجول، جبان قليلاً"
+  },
+  {
+    "id": "w-2-parch",
+    "group": 2,
+    "word": "Parch",
+    "definition": "To dry out completely, especially from heat",
+    "arabicTranslation": "يجفف تمامًا من الحرارة"
+  },
+  {
+    "id": "w-2-denunciation",
+    "group": 2,
+    "word": "Denunciation",
+    "definition": "A public condemnation of someone or something",
+    "arabicTranslation": "إدانة علنية، شجب"
+  },
+  {
+    "id": "w-2-ebb",
+    "group": 2,
+    "word": "Ebb",
+    "definition": "To gradually decrease or decline",
+    "arabicTranslation": "يتراجع، ينحسر تدريجيًا"
+  },
+  {
+    "id": "w-3-guileless",
+    "group": 3,
+    "word": "Guileless",
+    "definition": "Honest and innocent; without deception",
+    "arabicTranslation": "بريء، خالٍ من المكر"
+  },
+  {
+    "id": "w-3-crude",
+    "group": 3,
+    "word": "Crude",
+    "definition": "Rough or basic; lacking refinement, sometimes offensive",
+    "arabicTranslation": "فظ، خام غير مصقول"
+  },
+  {
+    "id": "w-3-hermit",
+    "group": 3,
+    "word": "Hermit",
+    "definition": "A person who lives alone, apart from society",
+    "arabicTranslation": "ناسك، معتزل الناس"
+  },
+  {
+    "id": "w-3-celibate",
+    "group": 3,
+    "word": "Celibate",
+    "definition": "Abstaining from sexual relations or marriage",
+    "arabicTranslation": "عازب عن الزواج أو العلاقات الجنسية"
+  },
+  {
+    "id": "w-3-idyllic",
+    "group": 3,
+    "word": "Idyllic",
+    "definition": "Extremely peaceful, happy, and picturesque",
+    "arabicTranslation": "مثالي وهادئ، بديع"
+  },
+  {
+    "id": "w-3-swell",
+    "group": 3,
+    "word": "Swell",
+    "definition": "(verb) To increase in size or intensity",
+    "arabicTranslation": "يتضخم، يزداد"
+  },
+  {
+    "id": "w-3-discordant",
+    "group": 3,
+    "word": "Discordant",
+    "definition": "Not in agreement or harmony; clashing",
+    "arabicTranslation": "متنافر، غير متناغم"
+  },
+  {
+    "id": "w-3-beatify",
+    "group": 3,
+    "word": "Beatify",
+    "definition": "To declare someone blessed or saintly; to idealize",
+    "arabicTranslation": "يقدّس، يبجّل كقديس"
+  },
+  {
+    "id": "w-3-subterfuge",
+    "group": 3,
+    "word": "Subterfuge",
+    "definition": "A deceptive trick used to achieve a goal",
+    "arabicTranslation": "خديعة، حيلة ملتوية"
+  },
+  {
+    "id": "w-3-riveting",
+    "group": 3,
+    "word": "Riveting",
+    "definition": "Extremely interesting or exciting; captivating attention",
+    "arabicTranslation": "آسر، مثير جدًا للاهتمام"
+  },
+  {
+    "id": "w-3-vie-for",
+    "group": 3,
+    "word": "Vie For",
+    "definition": "To compete strongly for something",
+    "arabicTranslation": "يتنافس على"
+  },
+  {
+    "id": "w-3-wrestle",
+    "group": 3,
+    "word": "Wrestle",
+    "definition": "To struggle hard with a problem or opponent",
+    "arabicTranslation": "يصارع، يجاهد"
+  },
+  {
+    "id": "w-3-grapple",
+    "group": 3,
+    "word": "Grapple",
+    "definition": "To try hard to deal with or understand a difficult problem",
+    "arabicTranslation": "يصارع للتعامل مع مشكلة"
+  },
+  {
+    "id": "w-3-civility",
+    "group": 3,
+    "word": "Civility",
+    "definition": "Polite, courteous behavior",
+    "arabicTranslation": "لباقة، تهذيب في التعامل"
+  },
+  {
+    "id": "w-3-lukewarm",
+    "group": 3,
+    "word": "Lukewarm",
+    "definition": "Showing little enthusiasm; not very warm",
+    "arabicTranslation": "فاتر، غير حماسي"
+  },
+  {
+    "id": "w-3-meek",
+    "group": 3,
+    "word": "Meek",
+    "definition": "Quiet, gentle, and submissive",
+    "arabicTranslation": "وديع، خاضع بهدوء"
+  },
+  {
+    "id": "w-3-shun",
+    "group": 3,
+    "word": "Shun",
+    "definition": "To deliberately avoid someone or something",
+    "arabicTranslation": "ينبذ، يتجنب عمدًا"
+  },
+  {
+    "id": "w-3-dote-on",
+    "group": 3,
+    "word": "Dote On",
+    "definition": "To show excessive love and fondness for someone",
+    "arabicTranslation": "يدلل، يفرط في محبة"
+  },
+  {
+    "id": "w-3-muddy",
+    "group": 3,
+    "word": "Muddy",
+    "definition": "(verb) To make unclear or confused",
+    "arabicTranslation": "يعكّر، يشوّش"
+  },
+  {
+    "id": "w-3-virtuous",
+    "group": 3,
+    "word": "Virtuous",
+    "definition": "Having high moral standards; morally good",
+    "arabicTranslation": "فاضل، أخلاقي"
+  },
+  {
+    "id": "w-3-reposeful",
+    "group": 3,
+    "word": "Reposeful",
+    "definition": "Calm and peaceful, giving a sense of rest",
+    "arabicTranslation": "هادئ يبعث على الراحة"
+  },
+  {
+    "id": "w-3-dither",
+    "group": 3,
+    "word": "Dither",
+    "definition": "To be indecisive; to hesitate",
+    "arabicTranslation": "يتردد، يتذبذب في القرار"
+  },
+  {
+    "id": "w-3-oscillate",
+    "group": 3,
+    "word": "Oscillate",
+    "definition": "To swing back and forth between two states or opinions",
+    "arabicTranslation": "يتأرجح، يتذبذب"
+  },
+  {
+    "id": "w-3-standoffish",
+    "group": 3,
+    "word": "Standoffish",
+    "definition": "Cold or distant in manner; unfriendly",
+    "arabicTranslation": "متحفظ، بارد في التعامل"
+  },
+  {
+    "id": "w-3-detached",
+    "group": 3,
+    "word": "Detached",
+    "definition": "Emotionally distant or uninvolved",
+    "arabicTranslation": "منفصل عاطفيًا، غير مكترث"
+  },
+  {
+    "id": "w-3-commotion",
+    "group": 3,
+    "word": "Commotion",
+    "definition": "A state of noisy confusion or disturbance",
+    "arabicTranslation": "ضجة، اضطراب صاخب"
+  },
+  {
+    "id": "w-3-baffling",
+    "group": 3,
+    "word": "Baffling",
+    "definition": "Extremely confusing or puzzling",
+    "arabicTranslation": "محيّر جدًا، غامض"
+  },
+  {
+    "id": "w-3-flighty",
+    "group": 3,
+    "word": "Flighty",
+    "definition": "Unpredictable and lacking seriousness; easily distracted",
+    "arabicTranslation": "متقلب، سطحي وغير جاد"
+  },
+  {
+    "id": "w-3-flippant",
+    "group": 3,
+    "word": "Flippant",
+    "definition": "Not showing proper seriousness; disrespectful in a casual way",
+    "arabicTranslation": "استخفافي، غير جاد بوقاحة"
+  },
+  {
+    "id": "w-3-fatuous",
+    "group": 3,
+    "word": "Fatuous",
+    "definition": "Silly and pointless; lacking intelligence",
+    "arabicTranslation": "أحمق، سخيف بلا معنى"
+  },
+  {
+    "id": "w-3-zany",
+    "group": 3,
+    "word": "Zany",
+    "definition": "Amusingly unconventional and comic",
+    "arabicTranslation": "غريب الأطوار بشكل مضحك"
+  },
+  {
+    "id": "w-3-motley",
+    "group": 3,
+    "word": "Motley",
+    "definition": "Made up of very different, mismatched elements",
+    "arabicTranslation": "متنوع وغير متجانس، مختلط"
+  },
+  {
+    "id": "w-3-peremptory",
+    "group": 3,
+    "word": "Peremptory",
+    "definition": "Commanding, not open to disagreement; imperious",
+    "arabicTranslation": "قاطع، آمر لا يقبل الجدل"
+  },
+  {
+    "id": "w-3-inapposite",
+    "group": 3,
+    "word": "Inapposite",
+    "definition": "Not appropriate or relevant",
+    "arabicTranslation": "غير مناسب، غير ذي صلة"
+  },
+  {
+    "id": "w-3-meddlesome",
+    "group": 3,
+    "word": "Meddlesome",
+    "definition": "Interfering in others' affairs unnecessarily",
+    "arabicTranslation": "متدخل في شؤون الغير"
+  },
+  {
+    "id": "w-3-obtrusive",
+    "group": 3,
+    "word": "Obtrusive",
+    "definition": "Noticeable in an unwelcome or intrusive way",
+    "arabicTranslation": "متطفل، ملحوظ بإزعاج"
+  },
+  {
+    "id": "w-3-intrusive",
+    "group": 3,
+    "word": "Intrusive",
+    "definition": "Intruding into privacy or personal matters",
+    "arabicTranslation": "متطفل على الخصوصية"
+  },
+  {
+    "id": "w-3-infiltrative",
+    "group": 3,
+    "word": "Infiltrative",
+    "definition": "Entering gradually and secretly, often to cause harm",
+    "arabicTranslation": "متسلل بشكل خفي"
+  },
+  {
+    "id": "w-3-penetrative",
+    "group": 3,
+    "word": "Penetrative",
+    "definition": "Able to pierce or go deeply into something",
+    "arabicTranslation": "نافذ، قادر على الاختراق"
+  },
+  {
+    "id": "w-3-dithering",
+    "group": 3,
+    "word": "Dithering",
+    "definition": "Hesitating indecisively",
+    "arabicTranslation": "التردد وعدم الحسم"
+  },
+  {
+    "id": "w-3-slipshod",
+    "group": 3,
+    "word": "Slipshod",
+    "definition": "Careless and disorganized; sloppy work",
+    "arabicTranslation": "مهمل، رديء التنفيذ"
+  },
+  {
+    "id": "w-3-slack",
+    "group": 3,
+    "word": "Slack",
+    "definition": "Lacking energy or care; not tight or busy",
+    "arabicTranslation": "متراخٍ، مقصّر"
+  },
+  {
+    "id": "w-3-ostracize",
+    "group": 3,
+    "word": "Ostracize",
+    "definition": "To exclude someone from a group deliberately",
+    "arabicTranslation": "ينبذ، يقصي من الجماعة"
+  },
+  {
+    "id": "w-3-flair",
+    "group": 3,
+    "word": "Flair",
+    "definition": "A natural talent or stylish quality",
+    "arabicTranslation": "موهبة فطرية، أسلوب مميز"
+  },
+  {
+    "id": "w-3-pillory",
+    "group": 3,
+    "word": "Pillory",
+    "definition": "To publicly criticize or ridicule someone",
+    "arabicTranslation": "يشهّر بـ، يعرّض للسخرية العلنية"
+  },
+  {
+    "id": "w-3-reprimand",
+    "group": 3,
+    "word": "Reprimand",
+    "definition": "A formal expression of disapproval; a scolding",
+    "arabicTranslation": "توبيخ رسمي، لوم"
+  },
+  {
+    "id": "w-3-counsel",
+    "group": 3,
+    "word": "Counsel",
+    "definition": "(verb) To give advice; (noun) advice or a lawyer",
+    "arabicTranslation": "ينصح؛ نصيحة، مستشار"
+  },
+  {
+    "id": "w-3-ornamental",
+    "group": 3,
+    "word": "Ornamental",
+    "definition": "Serving as decoration rather than a practical purpose",
+    "arabicTranslation": "زخرفي، تزييني"
+  },
+  {
+    "id": "w-3-airs",
+    "group": 3,
+    "word": "Airs",
+    "definition": "An affected, pretentious manner meant to impress",
+    "arabicTranslation": "تصنّع، تباهٍ متكلف"
+  },
+  {
+    "id": "w-3-jingoistic",
+    "group": 3,
+    "word": "Jingoistic",
+    "definition": "Extremely and aggressively patriotic, favoring war",
+    "arabicTranslation": "متعصب قوميًا وعدائيًا"
+  },
+  {
+    "id": "w-3-prejudiced",
+    "group": 3,
+    "word": "Prejudiced",
+    "definition": "Holding unfair, preconceived opinions",
+    "arabicTranslation": "متحيز، متعصب مسبقًا"
+  },
+  {
+    "id": "w-3-aficionado",
+    "group": 3,
+    "word": "Aficionado",
+    "definition": "A person who is very knowledgeable and enthusiastic about something",
+    "arabicTranslation": "هاوٍ متحمس ومطّلع، عاشق لمجال"
+  },
+  {
+    "id": "w-3-savant",
+    "group": 3,
+    "word": "Savant",
+    "definition": "A person with deep, expert knowledge in a subject",
+    "arabicTranslation": "عالم بارع، خبير متمكن"
+  },
+  {
+    "id": "w-3-masquerade",
+    "group": 3,
+    "word": "Masquerade",
+    "definition": "To pretend to be something one is not; a disguise",
+    "arabicTranslation": "يتنكر، يتظاهر بهوية زائفة"
+  },
+  {
+    "id": "w-3-bluff",
+    "group": 3,
+    "word": "Bluff",
+    "definition": "To deceive by pretending confidence or strength one lacks",
+    "arabicTranslation": "يخادع بالتظاهر بالقوة أو الثقة"
+  },
+  {
+    "id": "w-3-unflagging",
+    "group": 3,
+    "word": "Unflagging",
+    "definition": "Never weakening or tiring; persistent",
+    "arabicTranslation": "لا يفتر، دؤوب مستمر"
+  },
+  {
+    "id": "w-3-hoodwink",
+    "group": 3,
+    "word": "Hoodwink",
+    "definition": "To deceive or trick someone",
+    "arabicTranslation": "يخدع، يضلل"
+  },
+  {
+    "id": "w-3-pompous",
+    "group": 3,
+    "word": "Pompous",
+    "definition": "Excessively self-important and grand in manner",
+    "arabicTranslation": "متعجرف، متكبر بتصنّع"
+  },
+  {
+    "id": "w-3-rectitude",
+    "group": 3,
+    "word": "Rectitude",
+    "definition": "Moral integrity and correctness of behavior",
+    "arabicTranslation": "استقامة أخلاقية، نزاهة"
+  },
+  {
+    "id": "w-3-contrived",
+    "group": 3,
+    "word": "Contrived",
+    "definition": "Artificially created or forced, lacking naturalness",
+    "arabicTranslation": "مصطنع، متكلف"
+  },
+  {
+    "id": "w-4-winding",
+    "group": 4,
+    "word": "Winding",
+    "definition": "Twisting and turning; not straight",
+    "arabicTranslation": "متعرج، ملتوٍ"
+  },
+  {
+    "id": "w-4-undulating",
+    "group": 4,
+    "word": "Undulating",
+    "definition": "Moving in a smooth, wave-like pattern",
+    "arabicTranslation": "متموج، متعرج كالموجة"
+  },
+  {
+    "id": "w-4-docile",
+    "group": 4,
+    "word": "Docile",
+    "definition": "Easy to control or teach; submissive",
+    "arabicTranslation": "وديع، سهل الانقياد"
+  },
+  {
+    "id": "w-4-crackable",
+    "group": 4,
+    "word": "Crackable",
+    "definition": "Able to be broken or solved",
+    "arabicTranslation": "قابل للكسر أو الحل"
+  },
+  {
+    "id": "w-4-hallow",
+    "group": 4,
+    "word": "Hallow",
+    "definition": "To honor as holy or sacred",
+    "arabicTranslation": "يقدّس، يبجّل"
+  },
+  {
+    "id": "w-4-quench",
+    "group": 4,
+    "word": "Quench",
+    "definition": "To satisfy a thirst or desire; to put out a fire",
+    "arabicTranslation": "يروي العطش، يخمد"
+  },
+  {
+    "id": "w-4-rowdy",
+    "group": 4,
+    "word": "Rowdy",
+    "definition": "Noisy and disorderly",
+    "arabicTranslation": "صاخب، شغب"
+  },
+  {
+    "id": "w-4-indelible",
+    "group": 4,
+    "word": "Indelible",
+    "definition": "Impossible to remove or forget; permanent",
+    "arabicTranslation": "لا يُمحى، دائم الأثر"
+  },
+  {
+    "id": "w-4-slothful",
+    "group": 4,
+    "word": "Slothful",
+    "definition": "Lazy; unwilling to work or make effort",
+    "arabicTranslation": "كسول، خامل"
+  },
+  {
+    "id": "w-4-lackadaisical",
+    "group": 4,
+    "word": "Lackadaisical",
+    "definition": "Lacking enthusiasm or effort; half-hearted",
+    "arabicTranslation": "متكاسل، بلا حماس"
+  },
+  {
+    "id": "w-4-unyielding",
+    "group": 4,
+    "word": "Unyielding",
+    "definition": "Not giving in; firm and inflexible",
+    "arabicTranslation": "صلب، غير مستسلم"
+  },
+  {
+    "id": "w-4-dauntless",
+    "group": 4,
+    "word": "Dauntless",
+    "definition": "Showing fearless determination",
+    "arabicTranslation": "لا يهاب، جسور"
+  },
+  {
+    "id": "w-4-detest",
+    "group": 4,
+    "word": "Detest",
+    "definition": "To dislike intensely; to hate",
+    "arabicTranslation": "يمقت، يكره بشدة"
+  },
+  {
+    "id": "w-4-abominate",
+    "group": 4,
+    "word": "Abominate",
+    "definition": "To detest strongly; to loathe",
+    "arabicTranslation": "يمقت بشدة، يشمئز من"
+  },
+  {
+    "id": "w-4-smear",
+    "group": 4,
+    "word": "Smear",
+    "definition": "To damage someone's reputation with false accusations",
+    "arabicTranslation": "يشوّه سمعة، يلطّخ"
+  },
+  {
+    "id": "w-4-omen",
+    "group": 4,
+    "word": "Omen",
+    "definition": "A sign believed to foretell a future event",
+    "arabicTranslation": "نذير، علامة تنبئ بالمستقبل"
+  },
+  {
+    "id": "w-4-premonition",
+    "group": 4,
+    "word": "Premonition",
+    "definition": "A strong feeling that something is about to happen",
+    "arabicTranslation": "حدس، شعور مسبق بحدث ما"
+  },
+  {
+    "id": "w-4-magnanimity",
+    "group": 4,
+    "word": "Magnanimity",
+    "definition": "Generosity and forgiveness, especially toward a rival",
+    "arabicTranslation": "سماحة، كرم النفس"
+  },
+  {
+    "id": "w-4-philanderer",
+    "group": 4,
+    "word": "Philanderer",
+    "definition": "A man who has many casual love affairs",
+    "arabicTranslation": "متلاعب بمشاعر النساء، خائن"
+  },
+  {
+    "id": "w-4-rake",
+    "group": 4,
+    "word": "Rake",
+    "definition": "A man who leads an immoral, self-indulgent life",
+    "arabicTranslation": "فاسق، ماجن"
+  },
+  {
+    "id": "w-4-hedonist",
+    "group": 4,
+    "word": "Hedonist",
+    "definition": "A person devoted to pleasure-seeking",
+    "arabicTranslation": "متعوي، منغمس في الملذات"
+  },
+  {
+    "id": "w-4-delinquency",
+    "group": 4,
+    "word": "Delinquency",
+    "definition": "Minor crime, especially by young people",
+    "arabicTranslation": "جنوح، انحراف (خاصة عند الأحداث)"
+  },
+  {
+    "id": "w-4-evince",
+    "group": 4,
+    "word": "Evince",
+    "definition": "To clearly show or reveal a quality or feeling",
+    "arabicTranslation": "يُظهر بوضوح، يبدي"
+  },
+  {
+    "id": "w-4-incipient",
+    "group": 4,
+    "word": "Incipient",
+    "definition": "Just beginning to appear or develop",
+    "arabicTranslation": "ناشئ، في طور البداية"
+  },
+  {
+    "id": "w-4-hypocritical",
+    "group": 4,
+    "word": "Hypocritical",
+    "definition": "Behaving in a way that contradicts one's stated beliefs",
+    "arabicTranslation": "منافق"
+  },
+  {
+    "id": "w-4-rift",
+    "group": 4,
+    "word": "Rift",
+    "definition": "A serious disagreement or split between people",
+    "arabicTranslation": "شقاق، خلاف يؤدي لانقسام"
+  },
+  {
+    "id": "w-4-implore",
+    "group": 4,
+    "word": "Implore",
+    "definition": "To beg someone earnestly to do something",
+    "arabicTranslation": "يتوسل، يستجدي"
+  },
+  {
+    "id": "w-4-petition",
+    "group": 4,
+    "word": "Petition",
+    "definition": "A formal written request, often signed by many people",
+    "arabicTranslation": "التماس، عريضة رسمية"
+  },
+  {
+    "id": "w-4-brusque",
+    "group": 4,
+    "word": "Brusque",
+    "definition": "Abrupt and blunt in manner or speech",
+    "arabicTranslation": "فظ، مقتضب بجفاء"
+  },
+  {
+    "id": "w-4-invective",
+    "group": 4,
+    "word": "Invective",
+    "definition": "Harsh, insulting language",
+    "arabicTranslation": "شتيمة، كلام لاذع"
+  },
+  {
+    "id": "w-4-pervading",
+    "group": 4,
+    "word": "Pervading",
+    "definition": "Spreading through and being present in every part of something",
+    "arabicTranslation": "منتشر، متغلغل في كل مكان"
+  },
+  {
+    "id": "w-4-trounce",
+    "group": 4,
+    "word": "Trounce",
+    "definition": "To defeat decisively",
+    "arabicTranslation": "يهزم بشدة، يسحق"
+  },
+  {
+    "id": "w-4-atrocious",
+    "group": 4,
+    "word": "Atrocious",
+    "definition": "Extremely bad or cruel",
+    "arabicTranslation": "فظيع، شنيع"
+  },
+  {
+    "id": "w-4-deplorable",
+    "group": 4,
+    "word": "Deplorable",
+    "definition": "Deserving strong condemnation; very bad",
+    "arabicTranslation": "مؤسف جدًا، يستحق الإدانة"
+  },
+  {
+    "id": "w-4-wretched",
+    "group": 4,
+    "word": "Wretched",
+    "definition": "Very unhappy or in a miserable state",
+    "arabicTranslation": "بائس، تعيس"
+  },
+  {
+    "id": "w-4-pitiable",
+    "group": 4,
+    "word": "Pitiable",
+    "definition": "Deserving or arousing pity",
+    "arabicTranslation": "مثير للشفقة"
+  },
+  {
+    "id": "w-4-fraternal",
+    "group": 4,
+    "word": "Fraternal",
+    "definition": "Relating to brotherhood; friendly and supportive",
+    "arabicTranslation": "أخوي، ودي"
+  },
+  {
+    "id": "w-4-bombardment",
+    "group": 4,
+    "word": "Bombardment",
+    "definition": "An overwhelming, continuous attack or barrage",
+    "arabicTranslation": "قصف، وابل مستمر"
+  },
+  {
+    "id": "w-4-deluge",
+    "group": 4,
+    "word": "Deluge",
+    "definition": "A great flood or overwhelming rush of something",
+    "arabicTranslation": "طوفان، سيل جارف"
+  },
+  {
+    "id": "w-4-plethora",
+    "group": 4,
+    "word": "Plethora",
+    "definition": "An excessive amount of something",
+    "arabicTranslation": "وفرة زائدة، كثرة مفرطة"
+  },
+  {
+    "id": "w-4-purgative",
+    "group": 4,
+    "word": "Purgative",
+    "definition": "Something that cleanses or purifies, especially the bowels",
+    "arabicTranslation": "مطهّر، ملين"
+  },
+  {
+    "id": "w-4-chimera",
+    "group": 4,
+    "word": "Chimera",
+    "definition": "An unrealistic hope or fantasy; an imaginary creation",
+    "arabicTranslation": "وهم، خيال مستحيل التحقيق"
+  },
+  {
+    "id": "w-4-dole-out",
+    "group": 4,
+    "word": "Dole Out",
+    "definition": "To distribute something in portions",
+    "arabicTranslation": "يوزع بأنصبة"
+  },
+  {
+    "id": "w-4-apportion",
+    "group": 4,
+    "word": "Apportion",
+    "definition": "To divide and share out according to a plan",
+    "arabicTranslation": "يقسّم، يوزّع بالتناسب"
+  },
+  {
+    "id": "w-4-bewitch",
+    "group": 4,
+    "word": "Bewitch",
+    "definition": "To enchant or captivate completely",
+    "arabicTranslation": "يسحر، يفتن"
+  },
+  {
+    "id": "w-4-exterminate",
+    "group": 4,
+    "word": "Exterminate",
+    "definition": "To destroy completely, especially a group of living things",
+    "arabicTranslation": "يبيد، يستأصل"
+  },
+  {
+    "id": "w-4-annihilate",
+    "group": 4,
+    "word": "Annihilate",
+    "definition": "To destroy something completely",
+    "arabicTranslation": "يفني، يدمر تمامًا"
+  },
+  {
+    "id": "w-4-obliterate",
+    "group": 4,
+    "word": "Obliterate",
+    "definition": "To destroy all trace of something completely",
+    "arabicTranslation": "يمحو، يدمر بالكامل"
+  },
+  {
+    "id": "w-4-budding",
+    "group": 4,
+    "word": "Budding",
+    "definition": "Just beginning to develop or show promise",
+    "arabicTranslation": "ناشئ، في بداية التطور"
+  },
+  {
+    "id": "w-4-spur",
+    "group": 4,
+    "word": "Spur",
+    "definition": "(verb) To encourage or stimulate an action",
+    "arabicTranslation": "يحفّز، يحث على"
+  },
+  {
+    "id": "w-4-rouse",
+    "group": 4,
+    "word": "Rouse",
+    "definition": "To wake or stir someone into action or feeling",
+    "arabicTranslation": "يوقظ، يثير الحماس"
+  },
+  {
+    "id": "w-4-unassailable",
+    "group": 4,
+    "word": "Unassailable",
+    "definition": "Impossible to attack, question, or defeat",
+    "arabicTranslation": "منيع، لا يُطعن فيه"
+  },
+  {
+    "id": "w-4-peripatetic",
+    "group": 4,
+    "word": "Peripatetic",
+    "definition": "Traveling from place to place; not staying in one location",
+    "arabicTranslation": "متجول، متنقل باستمرار"
+  },
+  {
+    "id": "w-4-roving",
+    "group": 4,
+    "word": "Roving",
+    "definition": "Traveling constantly without a fixed pattern",
+    "arabicTranslation": "جوّال، متنقل"
+  },
+  {
+    "id": "w-4-nomadic",
+    "group": 4,
+    "word": "Nomadic",
+    "definition": "Moving from place to place rather than settling",
+    "arabicTranslation": "بدوي، رحّال"
+  },
+  {
+    "id": "w-4-insurrection",
+    "group": 4,
+    "word": "Insurrection",
+    "definition": "A violent uprising against authority",
+    "arabicTranslation": "تمرد مسلح، عصيان"
+  },
+  {
+    "id": "w-4-revolt",
+    "group": 4,
+    "word": "Revolt",
+    "definition": "An organized rebellion against authority",
+    "arabicTranslation": "ثورة، تمرد"
+  },
+  {
+    "id": "w-4-riot",
+    "group": 4,
+    "word": "Riot",
+    "definition": "A violent public disturbance by a crowd",
+    "arabicTranslation": "شغب، أعمال شغب"
+  },
+  {
+    "id": "w-4-oxymoronic",
+    "group": 4,
+    "word": "Oxymoronic",
+    "definition": "Combining contradictory terms; self-contradictory",
+    "arabicTranslation": "متناقض في مصطلحاته"
+  },
+  {
+    "id": "w-4-proffer",
+    "group": 4,
+    "word": "Proffer",
+    "definition": "To offer something for acceptance",
+    "arabicTranslation": "يقدّم، يعرض"
+  },
+  {
+    "id": "w-5-proclaim",
+    "group": 5,
+    "word": "Proclaim",
+    "definition": "To announce something publicly and officially",
+    "arabicTranslation": "يعلن رسميًا، يجهر بـ"
+  },
+  {
+    "id": "w-5-hardy",
+    "group": 5,
+    "word": "Hardy",
+    "definition": "Able to endure difficult conditions; tough",
+    "arabicTranslation": "قوي التحمل، متين"
+  },
+  {
+    "id": "w-5-lithe",
+    "group": 5,
+    "word": "Lithe",
+    "definition": "Thin, flexible, and graceful in movement",
+    "arabicTranslation": "رشيق ومرن"
+  },
+  {
+    "id": "w-5-pluck",
+    "group": 5,
+    "word": "Pluck",
+    "definition": "(noun) Courage in the face of difficulty",
+    "arabicTranslation": "شجاعة وجرأة في وجه الصعاب"
+  },
+  {
+    "id": "w-5-reprove",
+    "group": 5,
+    "word": "Reprove",
+    "definition": "To criticize or correct someone gently",
+    "arabicTranslation": "يوبّخ برفق، يعاتب"
+  },
+  {
+    "id": "w-5-unwieldy",
+    "group": 5,
+    "word": "Unwieldy",
+    "definition": "Difficult to handle or manage due to size or complexity",
+    "arabicTranslation": "صعب المناولة، ثقيل التعامل"
+  },
+  {
+    "id": "w-5-embroider",
+    "group": 5,
+    "word": "Embroider",
+    "definition": "To exaggerate or add fanciful details to a story",
+    "arabicTranslation": "يبالغ في وصف قصة، يزخرف"
+  },
+  {
+    "id": "w-5-vindicate",
+    "group": 5,
+    "word": "Vindicate",
+    "definition": "To clear someone of blame; to prove something right",
+    "arabicTranslation": "يبرّئ، يثبت صحة"
+  },
+  {
+    "id": "w-5-stumble",
+    "group": 5,
+    "word": "Stumble",
+    "definition": "To trip or make a mistake unexpectedly",
+    "arabicTranslation": "يتعثر، يخطئ عرضًا"
+  },
+  {
+    "id": "w-5-flounder",
+    "group": 5,
+    "word": "Flounder",
+    "definition": "To struggle awkwardly, unable to make progress",
+    "arabicTranslation": "يتخبط، يتعثر بارتباك"
+  },
+  {
+    "id": "w-5-instigate",
+    "group": 5,
+    "word": "Instigate",
+    "definition": "To bring about or initiate, especially trouble",
+    "arabicTranslation": "يحرّض، يشعل فتيل"
+  },
+  {
+    "id": "w-5-slip",
+    "group": 5,
+    "word": "Slip",
+    "definition": "(noun) A small mistake; (verb) to fall or move smoothly",
+    "arabicTranslation": "زلة، خطأ صغير؛ ينزلق"
+  },
+  {
+    "id": "w-5-faux-pas",
+    "group": 5,
+    "word": "Faux Pas",
+    "definition": "An embarrassing social mistake",
+    "arabicTranslation": "زلة اجتماعية محرجة"
+  },
+  {
+    "id": "w-5-unmarred",
+    "group": 5,
+    "word": "Unmarred",
+    "definition": "Not spoiled or damaged; flawless",
+    "arabicTranslation": "غير متضرر، سليم بلا عيب"
+  },
+  {
+    "id": "w-5-hindrance",
+    "group": 5,
+    "word": "Hindrance",
+    "definition": "Something that delays or obstructs progress",
+    "arabicTranslation": "عائق، عرقلة"
+  },
+  {
+    "id": "w-5-nuisance",
+    "group": 5,
+    "word": "Nuisance",
+    "definition": "A person or thing causing annoyance or inconvenience",
+    "arabicTranslation": "مصدر إزعاج، مصدر إزعاج"
+  },
+  {
+    "id": "w-5-colossal",
+    "group": 5,
+    "word": "Colossal",
+    "definition": "Extremely large in size or extent",
+    "arabicTranslation": "ضخم جدًا، هائل"
+  },
+  {
+    "id": "w-5-skimp-on",
+    "group": 5,
+    "word": "Skimp On",
+    "definition": "To use less of something than is needed to save money",
+    "arabicTranslation": "يقتصد بإفراط على حساب الجودة"
+  },
+  {
+    "id": "w-5-scrimp-on",
+    "group": 5,
+    "word": "Scrimp On",
+    "definition": "To be very economical, often excessively",
+    "arabicTranslation": "يقتّر، يبخل"
+  },
+  {
+    "id": "w-5-bubbly",
+    "group": 5,
+    "word": "Bubbly",
+    "definition": "Full of energy and enthusiasm; lively",
+    "arabicTranslation": "مفعم بالحيوية والمرح"
+  },
+  {
+    "id": "w-5-connotative",
+    "group": 5,
+    "word": "Connotative",
+    "definition": "Suggesting an idea or feeling beyond the literal meaning",
+    "arabicTranslation": "دلالي، يحمل معنى ضمنيًا"
+  },
+  {
+    "id": "w-5-recuperating",
+    "group": 5,
+    "word": "Recuperating",
+    "definition": "Recovering health after illness",
+    "arabicTranslation": "يتعافى، في طور الشفاء"
+  },
+  {
+    "id": "w-5-on-the-mend",
+    "group": 5,
+    "word": "On The Mend",
+    "definition": "Recovering and getting better after illness",
+    "arabicTranslation": "في طريق الشفاء"
+  },
+  {
+    "id": "w-5-summon",
+    "group": 5,
+    "word": "Summon",
+    "definition": "To call someone to appear; to gather strength or courage",
+    "arabicTranslation": "يستدعي، يستجمع (الشجاعة)"
+  },
+  {
+    "id": "w-5-pander-to",
+    "group": 5,
+    "word": "Pander To",
+    "definition": "To indulge or gratify someone's desires, often unreasonably",
+    "arabicTranslation": "يتزلف لرغبات، يستجدي رضا"
+  },
+  {
+    "id": "w-5-agonize",
+    "group": 5,
+    "word": "Agonize",
+    "definition": "To worry intensely over a decision",
+    "arabicTranslation": "يعاني بقلق شديد، يتألم نفسيًا"
+  },
+  {
+    "id": "w-5-slick",
+    "group": 5,
+    "word": "Slick",
+    "definition": "Smooth and skillful, sometimes suggesting insincerity",
+    "arabicTranslation": "بارع وسلس، ماهر بشكل مريب"
+  },
+  {
+    "id": "w-5-facile",
+    "group": 5,
+    "word": "Facile",
+    "definition": "Too simple; showing superficial ease that lacks depth",
+    "arabicTranslation": "سطحي، سهل بشكل غير جدي"
+  },
+  {
+    "id": "w-5-spasmodic",
+    "group": 5,
+    "word": "Spasmodic",
+    "definition": "Happening in sudden, irregular bursts",
+    "arabicTranslation": "متقطع، متشنج بلا انتظام"
+  },
+  {
+    "id": "w-5-spleen",
+    "group": 5,
+    "word": "Spleen",
+    "definition": "Bad temper or spite; ill will",
+    "arabicTranslation": "حقد، ضغينة"
+  },
+  {
+    "id": "w-5-hush",
+    "group": 5,
+    "word": "Hush",
+    "definition": "A silence, especially a sudden one; to quiet down",
+    "arabicTranslation": "سكون مفاجئ؛ يسكّت"
+  },
+  {
+    "id": "w-5-lullaby",
+    "group": 5,
+    "word": "Lullaby",
+    "definition": "A soft, soothing song to help a child sleep",
+    "arabicTranslation": "تهويدة، أغنية لتنويم الأطفال"
+  },
+  {
+    "id": "w-5-sheer",
+    "group": 5,
+    "word": "Sheer",
+    "definition": "Complete and total; very steep or thin",
+    "arabicTranslation": "محض، تام؛ شديد الانحدار"
+  },
+  {
+    "id": "w-5-reverberation",
+    "group": 5,
+    "word": "Reverberation",
+    "definition": "A continuing effect or echo of something",
+    "arabicTranslation": "صدى مستمر، تأثير متردد"
+  },
+  {
+    "id": "w-5-jovial",
+    "group": 5,
+    "word": "Jovial",
+    "definition": "Cheerful and friendly",
+    "arabicTranslation": "مرح، بشوش"
+  },
+  {
+    "id": "w-5-fortify",
+    "group": 5,
+    "word": "Fortify",
+    "definition": "To strengthen something against attack or difficulty",
+    "arabicTranslation": "يقوّي، يحصّن"
+  },
+  {
+    "id": "w-5-besmirch",
+    "group": 5,
+    "word": "Besmirch",
+    "definition": "To damage someone's reputation",
+    "arabicTranslation": "يشوّه سمعة، يلطّخ"
+  },
+  {
+    "id": "w-5-totalitarian",
+    "group": 5,
+    "word": "Totalitarian",
+    "definition": "Relating to a system where the state controls all aspects of life",
+    "arabicTranslation": "شمولي، استبدادي"
+  },
+  {
+    "id": "w-5-digress",
+    "group": 5,
+    "word": "Digress",
+    "definition": "To move away from the main topic while speaking",
+    "arabicTranslation": "يستطرد، يحيد عن الموضوع"
+  },
+  {
+    "id": "w-5-soar",
+    "group": 5,
+    "word": "Soar",
+    "definition": "To rise quickly and high; to increase rapidly",
+    "arabicTranslation": "يحلّق عاليًا، يرتفع بسرعة"
+  },
+  {
+    "id": "w-5-cast-out",
+    "group": 5,
+    "word": "Cast Out",
+    "definition": "To expel or banish someone",
+    "arabicTranslation": "ينفي، يطرد"
+  },
+  {
+    "id": "w-5-entwined",
+    "group": 5,
+    "word": "Entwined",
+    "definition": "Twisted together closely",
+    "arabicTranslation": "متشابك، ملتف حول"
+  },
+  {
+    "id": "w-5-interwoven",
+    "group": 5,
+    "word": "Interwoven",
+    "definition": "Closely mixed or connected together",
+    "arabicTranslation": "متداخل، متشابك بإحكام"
+  },
+  {
+    "id": "w-5-overburden",
+    "group": 5,
+    "word": "Overburden",
+    "definition": "To load with too much weight or responsibility",
+    "arabicTranslation": "يثقل بأعباء زائدة"
+  },
+  {
+    "id": "w-5-engulf",
+    "group": 5,
+    "word": "Engulf",
+    "definition": "To completely surround or cover something",
+    "arabicTranslation": "يبتلع، يغمر تمامًا"
+  },
+  {
+    "id": "w-5-inviolable",
+    "group": 5,
+    "word": "Inviolable",
+    "definition": "Never to be broken, dishonored, or infringed",
+    "arabicTranslation": "مصون، لا يُنتهك"
+  },
+  {
+    "id": "w-5-effectuate",
+    "group": 5,
+    "word": "Effectuate",
+    "definition": "To bring about; to cause to happen",
+    "arabicTranslation": "ينفّذ، يحقق فعليًا"
+  },
+  {
+    "id": "w-5-mournful",
+    "group": 5,
+    "word": "Mournful",
+    "definition": "Feeling or expressing deep sadness",
+    "arabicTranslation": "حزين، نائح"
+  },
+  {
+    "id": "w-5-equivocal",
+    "group": 5,
+    "word": "Equivocal",
+    "definition": "Open to more than one interpretation; ambiguous, possibly deceptive",
+    "arabicTranslation": "غامض، مبهم، ملتبس"
+  },
+  {
+    "id": "w-5-pettifog",
+    "group": 5,
+    "word": "Pettifog",
+    "definition": "To quibble over unimportant details, especially legally",
+    "arabicTranslation": "يجادل في تفاصيل تافهة"
+  },
+  {
+    "id": "w-5-unforthcoming",
+    "group": 5,
+    "word": "Unforthcoming",
+    "definition": "Not willing to share information readily",
+    "arabicTranslation": "غير متعاون بالإفصاح، كتوم"
+  },
+  {
+    "id": "w-5-succinct",
+    "group": 5,
+    "word": "Succinct",
+    "definition": "Clearly expressed in few words; concise",
+    "arabicTranslation": "موجز وواضح"
+  },
+  {
+    "id": "w-5-underplaying",
+    "group": 5,
+    "word": "Underplaying",
+    "definition": "Making something seem less important than it is",
+    "arabicTranslation": "التقليل من أهمية شيء ما"
+  },
+  {
+    "id": "w-5-truism",
+    "group": 5,
+    "word": "Truism",
+    "definition": "An obviously true statement that offers little new insight",
+    "arabicTranslation": "قول بديهي معروف"
+  },
+  {
+    "id": "w-5-enumerate",
+    "group": 5,
+    "word": "Enumerate",
+    "definition": "To list items one by one",
+    "arabicTranslation": "يعدّد، يذكر بالتفصيل"
+  },
+  {
+    "id": "w-5-particularized",
+    "group": 5,
+    "word": "Particularized",
+    "definition": "Described with specific details rather than in general",
+    "arabicTranslation": "مفصّل، محدد بدقة"
+  },
+  {
+    "id": "w-5-blur",
+    "group": 5,
+    "word": "Blur",
+    "definition": "To make unclear or indistinct",
+    "arabicTranslation": "يشوّش، يجعل غير واضح"
+  },
+  {
+    "id": "w-5-garble",
+    "group": 5,
+    "word": "Garble",
+    "definition": "To distort or confuse a message so it is unclear",
+    "arabicTranslation": "يشوّه رسالة فيجعلها غير مفهومة"
+  },
+  {
+    "id": "w-5-silver-tongued",
+    "group": 5,
+    "word": "Silver-Tongued",
+    "definition": "Eloquent and persuasive in speech",
+    "arabicTranslation": "بليغ اللسان، فصيح مقنع"
+  },
+  {
+    "id": "w-5-emphatic",
+    "group": 5,
+    "word": "Emphatic",
+    "definition": "Expressed forcefully and clearly",
+    "arabicTranslation": "قاطع، مؤكَّد بقوة"
+  },
+  {
+    "id": "w-6-foreground",
+    "group": 6,
+    "word": "Foreground",
+    "definition": "(verb) To bring to the front or make prominent",
+    "arabicTranslation": "يبرز، يضع في المقدمة"
+  },
+  {
+    "id": "w-6-melodramatic",
+    "group": 6,
+    "word": "Melodramatic",
+    "definition": "Exaggeratedly emotional or dramatic",
+    "arabicTranslation": "مسرحي مبالغ فيه عاطفيًا"
+  },
+  {
+    "id": "w-6-ad-lib",
+    "group": 6,
+    "word": "Ad Lib",
+    "definition": "To improvise speech without preparation",
+    "arabicTranslation": "يرتجل الكلام بلا تحضير"
+  },
+  {
+    "id": "w-6-play-it-by-ear",
+    "group": 6,
+    "word": "Play It By Ear",
+    "definition": "To improvise and decide as things happen, without a plan",
+    "arabicTranslation": "يتصرف حسب الظروف بلا خطة مسبقة"
+  },
+  {
+    "id": "w-6-wing-it",
+    "group": 6,
+    "word": "Wing It",
+    "definition": "To do something without preparation, improvising",
+    "arabicTranslation": "يرتجل، يتصرف بلا استعداد"
+  },
+  {
+    "id": "w-6-beseech",
+    "group": 6,
+    "word": "Beseech",
+    "definition": "To beg someone urgently and earnestly",
+    "arabicTranslation": "يتوسل بإلحاح"
+  },
+  {
+    "id": "w-6-discourse",
+    "group": 6,
+    "word": "Discourse",
+    "definition": "Written or spoken communication on a subject",
+    "arabicTranslation": "خطاب، حديث موضوعي"
+  },
+  {
+    "id": "w-6-serenade",
+    "group": 6,
+    "word": "Serenade",
+    "definition": "To sing or play music romantically for someone",
+    "arabicTranslation": "يغني عزفًا رومانسيًا لشخص"
+  },
+  {
+    "id": "w-6-dilate-on",
+    "group": 6,
+    "word": "Dilate On",
+    "definition": "To speak or write at length about a topic",
+    "arabicTranslation": "يسهب في الحديث عن"
+  },
+  {
+    "id": "w-6-overelaborate",
+    "group": 6,
+    "word": "Overelaborate",
+    "definition": "Excessively detailed or complicated",
+    "arabicTranslation": "مفرط في التفصيل والتعقيد"
+  },
+  {
+    "id": "w-6-chronicled",
+    "group": 6,
+    "word": "Chronicled",
+    "definition": "Recorded as a factual, ongoing account",
+    "arabicTranslation": "مؤرَّخ، مسجَّل تاريخيًا"
+  },
+  {
+    "id": "w-6-credo",
+    "group": 6,
+    "word": "Credo",
+    "definition": "A statement of one's core beliefs",
+    "arabicTranslation": "عقيدة، مبدأ أساسي"
+  },
+  {
+    "id": "w-6-putative",
+    "group": 6,
+    "word": "Putative",
+    "definition": "Generally believed or supposed to be, though not proven",
+    "arabicTranslation": "مفترض، يُظن أنه"
+  },
+  {
+    "id": "w-6-give-no-credence",
+    "group": 6,
+    "word": "Give No Credence",
+    "definition": "To not believe or trust something",
+    "arabicTranslation": "لا يمنح مصداقية، لا يصدّق"
+  },
+  {
+    "id": "w-6-incontestable",
+    "group": 6,
+    "word": "Incontestable",
+    "definition": "Not able to be disputed; certainly true",
+    "arabicTranslation": "لا يقبل الجدل، مؤكد"
+  },
+  {
+    "id": "w-6-irrefutable",
+    "group": 6,
+    "word": "Irrefutable",
+    "definition": "Impossible to deny or disprove",
+    "arabicTranslation": "لا يُدحض، قاطع"
+  },
+  {
+    "id": "w-6-errant",
+    "group": 6,
+    "word": "Errant",
+    "definition": "Wandering; also, straying from what is proper",
+    "arabicTranslation": "شارد، منحرف عن الصواب"
+  },
+  {
+    "id": "w-6-erroneous",
+    "group": 6,
+    "word": "Erroneous",
+    "definition": "Incorrect; based on a mistake",
+    "arabicTranslation": "خاطئ، مغلوط"
+  },
+  {
+    "id": "w-6-misconception",
+    "group": 6,
+    "word": "Misconception",
+    "definition": "A wrong belief based on faulty thinking",
+    "arabicTranslation": "مفهوم خاطئ، فكرة مغلوطة"
+  },
+  {
+    "id": "w-6-muddle",
+    "group": 6,
+    "word": "Muddle",
+    "definition": "To confuse or mix up; a state of confusion",
+    "arabicTranslation": "يشوّش، يخلط؛ حالة ارتباك"
+  },
+  {
+    "id": "w-6-stumped",
+    "group": 6,
+    "word": "Stumped",
+    "definition": "Completely puzzled; unable to find an answer",
+    "arabicTranslation": "حائر تمامًا، عاجز عن الإجابة"
+  },
+  {
+    "id": "w-6-impute",
+    "group": 6,
+    "word": "Impute",
+    "definition": "To attribute a fault or quality to someone",
+    "arabicTranslation": "ينسب إلى، يعزو (عادة عيبًا)"
+  },
+  {
+    "id": "w-6-inferential",
+    "group": 6,
+    "word": "Inferential",
+    "definition": "Based on reasoning or deduction rather than direct evidence",
+    "arabicTranslation": "استدلالي، مبني على الاستنتاج"
+  },
+  {
+    "id": "w-6-enlighten",
+    "group": 6,
+    "word": "Enlighten",
+    "definition": "To give someone greater understanding or knowledge",
+    "arabicTranslation": "يُنير، يوضح ويثقف"
+  },
+  {
+    "id": "w-6-plugged-into",
+    "group": 6,
+    "word": "Plugged Into",
+    "definition": "Well informed and connected to current information",
+    "arabicTranslation": "على اطلاع ومتصل بالمستجدات"
+  },
+  {
+    "id": "w-6-credulous",
+    "group": 6,
+    "word": "Credulous",
+    "definition": "Too ready to believe things without proof",
+    "arabicTranslation": "سريع التصديق، ساذج"
+  },
+  {
+    "id": "w-6-unsuspecting",
+    "group": 6,
+    "word": "Unsuspecting",
+    "definition": "Not aware of danger or deception",
+    "arabicTranslation": "غافل، لا يشك بخطر"
+  },
+  {
+    "id": "w-6-unworldly",
+    "group": 6,
+    "word": "Unworldly",
+    "definition": "Lacking practical experience of life; naive",
+    "arabicTranslation": "ساذج، غير خبير بالحياة"
+  },
+  {
+    "id": "w-6-orchestrate",
+    "group": 6,
+    "word": "Orchestrate",
+    "definition": "To carefully organize a complex plan or event",
+    "arabicTranslation": "ينسّق، يدبّر بعناية"
+  },
+  {
+    "id": "w-6-scheme",
+    "group": 6,
+    "word": "Scheme",
+    "definition": "A secret or underhanded plan",
+    "arabicTranslation": "مخطط، مؤامرة"
+  },
+  {
+    "id": "w-6-divinatory",
+    "group": 6,
+    "word": "Divinatory",
+    "definition": "Relating to predicting the future",
+    "arabicTranslation": "تنبؤي، متعلق بالتكهن"
+  },
+  {
+    "id": "w-6-foreshadow",
+    "group": 6,
+    "word": "Foreshadow",
+    "definition": "To be a warning sign of a future event",
+    "arabicTranslation": "ينذر بـ، يلمّح لحدث مقبل"
+  },
+  {
+    "id": "w-6-inauspicious",
+    "group": 6,
+    "word": "Inauspicious",
+    "definition": "Not favorable; suggesting a bad outcome",
+    "arabicTranslation": "غير مبشّر، ينذر بالسوء"
+  },
+  {
+    "id": "w-6-prognostic",
+    "group": 6,
+    "word": "Prognostic",
+    "definition": "Predicting future events, especially from present signs",
+    "arabicTranslation": "تنبؤي، دال على المستقبل"
+  },
+  {
+    "id": "w-6-mull-over",
+    "group": 6,
+    "word": "Mull Over",
+    "definition": "To think about something carefully for a while",
+    "arabicTranslation": "يتمعن في التفكير، يتأمل بروية"
+  },
+  {
+    "id": "w-6-ponder",
+    "group": 6,
+    "word": "Ponder",
+    "definition": "To think about something deeply and carefully",
+    "arabicTranslation": "يتأمل، يفكر مليًا"
+  },
+  {
+    "id": "w-6-ruminate-on",
+    "group": 6,
+    "word": "Ruminate On",
+    "definition": "To think deeply and repeatedly about something",
+    "arabicTranslation": "يجترّ الفكر، يتأمل مطولاً"
+  },
+  {
+    "id": "w-6-apprehend",
+    "group": 6,
+    "word": "Apprehend",
+    "definition": "To understand something; also, to arrest someone",
+    "arabicTranslation": "يدرك، يفهم؛ يقبض على"
+  },
+  {
+    "id": "w-6-perceptive",
+    "group": 6,
+    "word": "Perceptive",
+    "definition": "Having or showing sensitive insight; quick to notice",
+    "arabicTranslation": "متبصّر، حاد الملاحظة"
+  },
+  {
+    "id": "w-6-fluster",
+    "group": 6,
+    "word": "Fluster",
+    "definition": "To make someone nervous or confused",
+    "arabicTranslation": "يربك، يشوّش أعصاب"
+  },
+  {
+    "id": "w-6-strained",
+    "group": 6,
+    "word": "Strained",
+    "definition": "Tense; showing signs of stress or difficulty",
+    "arabicTranslation": "متوتر، متعب من الجهد"
+  },
+  {
+    "id": "w-6-enraged",
+    "group": 6,
+    "word": "Enraged",
+    "definition": "Extremely angry",
+    "arabicTranslation": "غاضب جدًا، محتدم"
+  },
+  {
+    "id": "w-6-apathetic",
+    "group": 6,
+    "word": "Apathetic",
+    "definition": "Showing no interest or concern; indifferent",
+    "arabicTranslation": "لامبالٍ، عديم الاهتمام"
+  },
+  {
+    "id": "w-6-tedium",
+    "group": 6,
+    "word": "Tedium",
+    "definition": "The state of being boring and repetitive",
+    "arabicTranslation": "ملل، رتابة"
+  },
+  {
+    "id": "w-6-clear-headed",
+    "group": 6,
+    "word": "Clear-Headed",
+    "definition": "Able to think clearly and rationally",
+    "arabicTranslation": "واضح الذهن، رزين التفكير"
+  },
+  {
+    "id": "w-6-collected",
+    "group": 6,
+    "word": "Collected",
+    "definition": "Calm and in control of one's emotions",
+    "arabicTranslation": "هادئ ومتماسك الأعصاب"
+  },
+  {
+    "id": "w-6-composure",
+    "group": 6,
+    "word": "Composure",
+    "definition": "Calmness, especially under pressure",
+    "arabicTranslation": "رباطة جأش، هدوء الأعصاب"
+  },
+  {
+    "id": "w-6-phlegm",
+    "group": 6,
+    "word": "Phlegm",
+    "definition": "Calmness or sluggishness of temperament",
+    "arabicTranslation": "برود الطبع، هدوء غير مبالٍ"
+  },
+  {
+    "id": "w-6-self-possessed",
+    "group": 6,
+    "word": "Self-Possessed",
+    "definition": "Calm, confident, and in control of oneself",
+    "arabicTranslation": "متمالك لنفسه، واثق وهادئ"
+  },
+  {
+    "id": "w-6-abhorrent",
+    "group": 6,
+    "word": "Abhorrent",
+    "definition": "Causing intense disgust or hatred",
+    "arabicTranslation": "مقيت، بغيض جدًا"
+  },
+  {
+    "id": "w-6-loathsome",
+    "group": 6,
+    "word": "Loathsome",
+    "definition": "Extremely unpleasant; causing hatred or disgust",
+    "arabicTranslation": "كريه، مثير للاشمئزاز"
+  },
+  {
+    "id": "w-6-revolting",
+    "group": 6,
+    "word": "Revolting",
+    "definition": "Extremely unpleasant or disgusting",
+    "arabicTranslation": "مقزز، مثير للاشمئزاز"
+  },
+  {
+    "id": "w-6-impassioned",
+    "group": 6,
+    "word": "Impassioned",
+    "definition": "Filled with strong emotion and enthusiasm",
+    "arabicTranslation": "متحمس بشدة، مفعم بالعاطفة"
+  },
+  {
+    "id": "w-6-thrilling",
+    "group": 6,
+    "word": "Thrilling",
+    "definition": "Exciting and exhilarating",
+    "arabicTranslation": "مثير، مشوّق"
+  },
+  {
+    "id": "w-6-frantic",
+    "group": 6,
+    "word": "Frantic",
+    "definition": "Wild or distraught with fear, worry, or hurry",
+    "arabicTranslation": "هائج، مذعور من القلق"
+  },
+  {
+    "id": "w-6-manic",
+    "group": 6,
+    "word": "Manic",
+    "definition": "Showing wild, frenzied energy or excitement",
+    "arabicTranslation": "هوسي، مفرط النشاط بجنون"
+  },
+  {
+    "id": "w-6-unnerve",
+    "group": 6,
+    "word": "Unnerve",
+    "definition": "To make someone lose courage or confidence",
+    "arabicTranslation": "يُفقد الأعصاب، يربك"
+  },
+  {
+    "id": "w-6-ecstasy",
+    "group": 6,
+    "word": "Ecstasy",
+    "definition": "A state of overwhelming joy or happiness",
+    "arabicTranslation": "نشوة، غبطة عارمة"
+  },
+  {
+    "id": "w-6-euphoria",
+    "group": 6,
+    "word": "Euphoria",
+    "definition": "A feeling of intense happiness and excitement",
+    "arabicTranslation": "نشوة، سعادة غامرة"
+  },
+  {
+    "id": "w-6-rejoice-in",
+    "group": 6,
+    "word": "Rejoice In",
+    "definition": "To feel or show great joy about something",
+    "arabicTranslation": "يبتهج بـ، يفرح لـ"
+  },
+  {
+    "id": "w-7-buoyancy",
+    "group": 7,
+    "word": "Buoyancy",
+    "definition": "Cheerfulness and resilience; ability to stay positive",
+    "arabicTranslation": "خفة روح، تفاؤل ومرونة"
+  },
+  {
+    "id": "w-7-elan",
+    "group": 7,
+    "word": "Elan",
+    "definition": "Energetic and stylish enthusiasm",
+    "arabicTranslation": "حماس وحيوية مفعمة بالأناقة"
+  },
+  {
+    "id": "w-7-grievous",
+    "group": 7,
+    "word": "Grievous",
+    "definition": "Very severe or serious, causing great suffering",
+    "arabicTranslation": "جسيم، فادح مؤلم"
+  },
+  {
+    "id": "w-7-traumatic",
+    "group": 7,
+    "word": "Traumatic",
+    "definition": "Deeply distressing or disturbing, causing lasting harm",
+    "arabicTranslation": "صادم، مسبب لصدمة نفسية"
+  },
+  {
+    "id": "w-7-downhearted",
+    "group": 7,
+    "word": "Downhearted",
+    "definition": "Sad and discouraged",
+    "arabicTranslation": "محبَط، كئيب"
+  },
+  {
+    "id": "w-7-ghastly",
+    "group": 7,
+    "word": "Ghastly",
+    "definition": "Extremely unpleasant or frightening",
+    "arabicTranslation": "مروّع، شنيع"
+  },
+  {
+    "id": "w-7-gloomy",
+    "group": 7,
+    "word": "Gloomy",
+    "definition": "Dark and depressing; feeling sad",
+    "arabicTranslation": "كئيب، متشائم"
+  },
+  {
+    "id": "w-7-heart-rending",
+    "group": 7,
+    "word": "Heart-Rending",
+    "definition": "Causing great sadness or grief",
+    "arabicTranslation": "مفجع، يمزق القلب حزنًا"
+  },
+  {
+    "id": "w-7-touching",
+    "group": 7,
+    "word": "Touching",
+    "definition": "Causing feelings of sympathy or sadness; emotionally moving",
+    "arabicTranslation": "مؤثر، يلامس المشاعر"
+  },
+  {
+    "id": "w-7-wail",
+    "group": 7,
+    "word": "Wail",
+    "definition": "To cry loudly in grief or pain",
+    "arabicTranslation": "ينوح، يعوي بصوت عالٍ حزنًا"
+  },
+  {
+    "id": "w-7-weep",
+    "group": 7,
+    "word": "Weep",
+    "definition": "To cry, especially from sadness",
+    "arabicTranslation": "يبكي بحرقة"
+  },
+  {
+    "id": "w-7-affectionate",
+    "group": 7,
+    "word": "Affectionate",
+    "definition": "Showing warmth and fondness",
+    "arabicTranslation": "حنون، ودود"
+  },
+  {
+    "id": "w-7-compassionate",
+    "group": 7,
+    "word": "Compassionate",
+    "definition": "Feeling or showing sympathy and concern for others",
+    "arabicTranslation": "رحيم، متعاطف"
+  },
+  {
+    "id": "w-7-kinship",
+    "group": 7,
+    "word": "Kinship",
+    "definition": "A close connection or similarity; family relationship",
+    "arabicTranslation": "قرابة، صلة وثيقة"
+  },
+  {
+    "id": "w-7-rapport",
+    "group": 7,
+    "word": "Rapport",
+    "definition": "A close, harmonious relationship of mutual understanding",
+    "arabicTranslation": "علاقة انسجام وتفاهم"
+  },
+  {
+    "id": "w-7-tender",
+    "group": 7,
+    "word": "Tender",
+    "definition": "Gentle and caring; easily hurt or moved emotionally",
+    "arabicTranslation": "رقيق العاطفة، حنون"
+  },
+  {
+    "id": "w-7-lofty",
+    "group": 7,
+    "word": "Lofty",
+    "definition": "Very high, noble, or grand in idea; also, arrogant",
+    "arabicTranslation": "سامٍ، نبيل؛ أيضًا متعالٍ"
+  },
+  {
+    "id": "w-7-pushy",
+    "group": 7,
+    "word": "Pushy",
+    "definition": "Overly assertive in trying to get what one wants",
+    "arabicTranslation": "ملحّ، متطفل بإصرار"
+  },
+  {
+    "id": "w-7-self-righteous",
+    "group": 7,
+    "word": "Self-Righteous",
+    "definition": "Convinced of one's own moral superiority",
+    "arabicTranslation": "متعالٍ أخلاقيًا، مغرور بصلاحه"
+  },
+  {
+    "id": "w-7-outface",
+    "group": 7,
+    "word": "Outface",
+    "definition": "To confront and overcome by boldness or determination",
+    "arabicTranslation": "يواجه بجرأة ويتغلب على"
+  },
+  {
+    "id": "w-7-spirited",
+    "group": 7,
+    "word": "Spirited",
+    "definition": "Full of energy, courage, and determination",
+    "arabicTranslation": "مفعم بالحيوية والحماس"
+  },
+  {
+    "id": "w-7-undaunted",
+    "group": 7,
+    "word": "Undaunted",
+    "definition": "Not discouraged by difficulty or danger",
+    "arabicTranslation": "غير مرتدع، صامد رغم الصعاب"
+  },
+  {
+    "id": "w-7-unfaltering",
+    "group": 7,
+    "word": "Unfaltering",
+    "definition": "Steady and firm; not weakening",
+    "arabicTranslation": "ثابت لا يتزعزع"
+  },
+  {
+    "id": "w-7-valiant",
+    "group": 7,
+    "word": "Valiant",
+    "definition": "Showing great courage",
+    "arabicTranslation": "شجاع، مقدام"
+  },
+  {
+    "id": "w-7-courteous",
+    "group": 7,
+    "word": "Courteous",
+    "definition": "Polite and respectful",
+    "arabicTranslation": "مهذب، لبق"
+  },
+  {
+    "id": "w-7-courtesy",
+    "group": 7,
+    "word": "Courtesy",
+    "definition": "Polite behavior showing respect for others",
+    "arabicTranslation": "لباقة، مجاملة مهذبة"
+  },
+  {
+    "id": "w-7-lily-livered",
+    "group": 7,
+    "word": "Lily-Livered",
+    "definition": "Lacking courage; cowardly",
+    "arabicTranslation": "جبان، خوّاف"
+  },
+  {
+    "id": "w-7-devotee",
+    "group": 7,
+    "word": "Devotee",
+    "definition": "A person very enthusiastic about a person or activity",
+    "arabicTranslation": "مريد متحمس، مُعجب مخلص"
+  },
+  {
+    "id": "w-7-fawn-over",
+    "group": 7,
+    "word": "Fawn Over",
+    "definition": "To show excessive flattery or affection toward someone",
+    "arabicTranslation": "يتملق، يتزلف بإفراط"
+  },
+  {
+    "id": "w-7-flatter",
+    "group": 7,
+    "word": "Flatter",
+    "definition": "To praise someone insincerely to please them",
+    "arabicTranslation": "يتملق، يمدح زورًا"
+  },
+  {
+    "id": "w-7-sycophantic",
+    "group": 7,
+    "word": "Sycophantic",
+    "definition": "Excessively flattering people in power for personal gain",
+    "arabicTranslation": "متملق، وصولي"
+  },
+  {
+    "id": "w-7-unsparing",
+    "group": 7,
+    "word": "Unsparing",
+    "definition": "Not holding back; harshly critical or generous without limit",
+    "arabicTranslation": "قاسٍ بلا هوادة، أو سخي بلا حدود"
+  },
+  {
+    "id": "w-7-acerbic",
+    "group": 7,
+    "word": "Acerbic",
+    "definition": "Sharp and biting in tone; harshly critical",
+    "arabicTranslation": "لاذع، حاد النقد"
+  },
+  {
+    "id": "w-7-waspish",
+    "group": 7,
+    "word": "Waspish",
+    "definition": "Quick to show irritation; sharp-tongued",
+    "arabicTranslation": "حاد المزاج، لاذع اللسان"
+  },
+  {
+    "id": "w-7-deferential",
+    "group": 7,
+    "word": "Deferential",
+    "definition": "Showing respect for someone's wishes or opinions",
+    "arabicTranslation": "متأدب مع الآخرين، محترم لهم"
+  },
+  {
+    "id": "w-7-demure",
+    "group": 7,
+    "word": "Demure",
+    "definition": "Quiet, modest, and reserved in behavior",
+    "arabicTranslation": "حيي، متحفظ برزانة"
+  },
+  {
+    "id": "w-7-unobtrusive",
+    "group": 7,
+    "word": "Unobtrusive",
+    "definition": "Not conspicuous or attracting attention",
+    "arabicTranslation": "غير ملحوظ، متكتم"
+  },
+  {
+    "id": "w-7-unorthodox",
+    "group": 7,
+    "word": "Unorthodox",
+    "definition": "Not conventional or traditional",
+    "arabicTranslation": "غير تقليدي، خارج عن المألوف"
+  },
+  {
+    "id": "w-7-heedless",
+    "group": 7,
+    "word": "Heedless",
+    "definition": "Paying no attention to danger or consequences",
+    "arabicTranslation": "غير مبالٍ بالعواقب، طائش"
+  },
+  {
+    "id": "w-7-reckless",
+    "group": 7,
+    "word": "Reckless",
+    "definition": "Acting without thinking of danger or consequences",
+    "arabicTranslation": "متهور، طائش"
+  },
+  {
+    "id": "w-7-uninhibited",
+    "group": 7,
+    "word": "Uninhibited",
+    "definition": "Free from restraint; expressing oneself openly",
+    "arabicTranslation": "بلا كبح، منطلق بلا تحفظ"
+  },
+  {
+    "id": "w-7-cheek",
+    "group": 7,
+    "word": "Cheek",
+    "definition": "Bold, disrespectful speech or behavior",
+    "arabicTranslation": "وقاحة، جرأة غير مهذبة"
+  },
+  {
+    "id": "w-7-coarse",
+    "group": 7,
+    "word": "Coarse",
+    "definition": "Rough in texture or manner; crude",
+    "arabicTranslation": "خشن، فظ"
+  },
+  {
+    "id": "w-7-discourteous",
+    "group": 7,
+    "word": "Discourteous",
+    "definition": "Rude; lacking politeness",
+    "arabicTranslation": "غير مهذب، فظ"
+  },
+  {
+    "id": "w-7-indelicate",
+    "group": 7,
+    "word": "Indelicate",
+    "definition": "Lacking sensitivity or tact; crude",
+    "arabicTranslation": "غير لائق، فظ في التعامل"
+  },
+  {
+    "id": "w-7-seduce",
+    "group": 7,
+    "word": "Seduce",
+    "definition": "To persuade someone into doing something, often unwise",
+    "arabicTranslation": "يغوي، يستميل"
+  },
+  {
+    "id": "w-7-bullheaded",
+    "group": 7,
+    "word": "Bullheaded",
+    "definition": "Stubbornly determined; obstinate",
+    "arabicTranslation": "عنيد بشدة، متصلب الرأي"
+  },
+  {
+    "id": "w-7-opinionated",
+    "group": 7,
+    "word": "Opinionated",
+    "definition": "Having strong views and expressing them forcefully",
+    "arabicTranslation": "متعصب لرأيه، مصرّ على وجهة نظره"
+  },
+  {
+    "id": "w-7-disposed",
+    "group": 7,
+    "word": "Disposed",
+    "definition": "Inclined or willing to do something",
+    "arabicTranslation": "ميّال إلى، مستعد لـ"
+  },
+  {
+    "id": "w-7-disposition",
+    "group": 7,
+    "word": "Disposition",
+    "definition": "A person's natural tendency or mood",
+    "arabicTranslation": "طبع، مزاج فطري"
+  },
+  {
+    "id": "w-7-blast",
+    "group": 7,
+    "word": "Blast",
+    "definition": "A strong critical attack, often verbal",
+    "arabicTranslation": "هجوم لاذع، انتقاد شديد"
+  },
+  {
+    "id": "w-7-blistering",
+    "group": 7,
+    "word": "Blistering",
+    "definition": "Extremely harsh or intense, especially criticism",
+    "arabicTranslation": "لاذع جدًا، قاسٍ في النقد"
+  },
+  {
+    "id": "w-7-disparage",
+    "group": 7,
+    "word": "Disparage",
+    "definition": "To speak of someone or something in a critical, dismissive way",
+    "arabicTranslation": "يحط من شأن، ينتقص من قدر"
+  },
+  {
+    "id": "w-7-scold",
+    "group": 7,
+    "word": "Scold",
+    "definition": "To criticize someone angrily for a fault",
+    "arabicTranslation": "يوبّخ، يعنّف"
+  },
+  {
+    "id": "w-7-vituperative",
+    "group": 7,
+    "word": "Vituperative",
+    "definition": "Bitter and abusive in language",
+    "arabicTranslation": "لاذع وشتّام في القول"
+  },
+  {
+    "id": "w-7-vilification",
+    "group": 7,
+    "word": "Vilification",
+    "definition": "Abusive, harshly critical language against someone",
+    "arabicTranslation": "تشهير، ذم شديد"
+  },
+  {
+    "id": "w-7-mockery",
+    "group": 7,
+    "word": "Mockery",
+    "definition": "Ridicule or contemptuous teasing",
+    "arabicTranslation": "سخرية، استهزاء"
+  },
+  {
+    "id": "w-7-sardonic",
+    "group": 7,
+    "word": "Sardonic",
+    "definition": "Mocking in a scornful, bitter way",
+    "arabicTranslation": "ساخر بمرارة"
+  },
+  {
+    "id": "w-7-satirize",
+    "group": 7,
+    "word": "Satirize",
+    "definition": "To criticize through humor, irony, or exaggeration",
+    "arabicTranslation": "يهجو بالسخرية، ينتقد بالتهكم"
+  },
+  {
+    "id": "w-7-teasing",
+    "group": 7,
+    "word": "Teasing",
+    "definition": "Playfully mocking someone in a light way",
+    "arabicTranslation": "مداعبة، مزاح خفيف"
+  },
+  {
+    "id": "w-8-commend",
+    "group": 8,
+    "word": "Commend",
+    "definition": "To praise formally; to recommend approvingly",
+    "arabicTranslation": "يمدح، يثني على"
+  },
+  {
+    "id": "w-8-homage",
+    "group": 8,
+    "word": "Homage",
+    "definition": "Special honor or respect shown publicly",
+    "arabicTranslation": "تكريم، إجلال علني"
+  },
+  {
+    "id": "w-8-infidelity",
+    "group": 8,
+    "word": "Infidelity",
+    "definition": "Unfaithfulness, especially to a spouse or cause",
+    "arabicTranslation": "خيانة، عدم إخلاص"
+  },
+  {
+    "id": "w-8-treacherous",
+    "group": 8,
+    "word": "Treacherous",
+    "definition": "Disloyal and deceptive; also, dangerous",
+    "arabicTranslation": "غادر، خائن؛ خطير"
+  },
+  {
+    "id": "w-8-treachery",
+    "group": 8,
+    "word": "Treachery",
+    "definition": "Betrayal of trust; disloyalty",
+    "arabicTranslation": "خيانة، غدر"
+  },
+  {
+    "id": "w-8-undivulged",
+    "group": 8,
+    "word": "Undivulged",
+    "definition": "Not revealed or made known",
+    "arabicTranslation": "غير مُفصح عنه، مكتوم"
+  },
+  {
+    "id": "w-8-veil",
+    "group": 8,
+    "word": "Veil",
+    "definition": "(verb) To hide or disguise something",
+    "arabicTranslation": "يحجب، يخفي"
+  },
+  {
+    "id": "w-8-bamboozle",
+    "group": 8,
+    "word": "Bamboozle",
+    "definition": "To deceive or trick someone",
+    "arabicTranslation": "يخدع، يضلل بمكر"
+  },
+  {
+    "id": "w-8-deceit",
+    "group": 8,
+    "word": "Deceit",
+    "definition": "The act of misleading someone dishonestly",
+    "arabicTranslation": "خداع، غش"
+  },
+  {
+    "id": "w-8-ersatz",
+    "group": 8,
+    "word": "Ersatz",
+    "definition": "An artificial substitute, usually inferior to the real thing",
+    "arabicTranslation": "بديل مصطنع رديء"
+  },
+  {
+    "id": "w-8-hollow",
+    "group": 8,
+    "word": "Hollow",
+    "definition": "Empty or meaningless, lacking real substance",
+    "arabicTranslation": "أجوف، خالٍ من المعنى"
+  },
+  {
+    "id": "w-8-plot",
+    "group": 8,
+    "word": "Plot",
+    "definition": "A secret plan to achieve something, often harmful",
+    "arabicTranslation": "مؤامرة، خطة سرية"
+  },
+  {
+    "id": "w-8-pretense",
+    "group": 8,
+    "word": "Pretense",
+    "definition": "A false appearance meant to deceive",
+    "arabicTranslation": "تظاهر، ادعاء كاذب"
+  },
+  {
+    "id": "w-8-disavow",
+    "group": 8,
+    "word": "Disavow",
+    "definition": "To deny responsibility for or connection with something",
+    "arabicTranslation": "يتبرأ من، ينكر"
+  },
+  {
+    "id": "w-8-disown",
+    "group": 8,
+    "word": "Disown",
+    "definition": "To refuse to acknowledge as one's own; to reject",
+    "arabicTranslation": "يتبرأ من، ينكر انتماء"
+  },
+  {
+    "id": "w-8-forswear",
+    "group": 8,
+    "word": "Forswear",
+    "definition": "To promise to give up or reject something",
+    "arabicTranslation": "يقسم على التخلي عن، ينبذ"
+  },
+  {
+    "id": "w-8-circumvent",
+    "group": 8,
+    "word": "Circumvent",
+    "definition": "To find a way around an obstacle or rule",
+    "arabicTranslation": "يتحايل على، يتجاوز عائقًا"
+  },
+  {
+    "id": "w-8-dodge",
+    "group": 8,
+    "word": "Dodge",
+    "definition": "To avoid something by moving quickly or cleverly",
+    "arabicTranslation": "يتفادى، يراوغ"
+  },
+  {
+    "id": "w-8-elude",
+    "group": 8,
+    "word": "Elude",
+    "definition": "To escape or avoid skillfully",
+    "arabicTranslation": "يفلت من، يتملص من"
+  },
+  {
+    "id": "w-8-hedge",
+    "group": 8,
+    "word": "Hedge",
+    "definition": "To avoid committing fully by protecting against loss",
+    "arabicTranslation": "يحتاط، يتجنب الالتزام الكامل"
+  },
+  {
+    "id": "w-8-fidelity",
+    "group": 8,
+    "word": "Fidelity",
+    "definition": "Faithfulness to a person, cause, or fact; accuracy",
+    "arabicTranslation": "إخلاص، دقة في النقل"
+  },
+  {
+    "id": "w-8-malice",
+    "group": 8,
+    "word": "Malice",
+    "definition": "The intention to harm someone",
+    "arabicTranslation": "خبث، نية الإضرار"
+  },
+  {
+    "id": "w-8-malignant",
+    "group": 8,
+    "word": "Malignant",
+    "definition": "Harmful and dangerous; wishing to do harm",
+    "arabicTranslation": "خبيث، ضار"
+  },
+  {
+    "id": "w-8-spiteful",
+    "group": 8,
+    "word": "Spiteful",
+    "definition": "Showing a desire to hurt or upset someone",
+    "arabicTranslation": "حاقد، خبيث النية"
+  },
+  {
+    "id": "w-8-integrate",
+    "group": 8,
+    "word": "Integrate",
+    "definition": "To combine parts into a unified whole",
+    "arabicTranslation": "يدمج، يوحّد الأجزاء"
+  },
+  {
+    "id": "w-8-let-slide",
+    "group": 8,
+    "word": "Let Slide",
+    "definition": "To ignore or fail to deal with something",
+    "arabicTranslation": "يتغاضى عن، يتجاهل"
+  },
+  {
+    "id": "w-8-assault",
+    "group": 8,
+    "word": "Assault",
+    "definition": "A violent physical or verbal attack",
+    "arabicTranslation": "اعتداء، هجوم عنيف"
+  },
+  {
+    "id": "w-8-avenge",
+    "group": 8,
+    "word": "Avenge",
+    "definition": "To take revenge for a wrong",
+    "arabicTranslation": "ينتقم لـ"
+  },
+  {
+    "id": "w-8-bellicose",
+    "group": 8,
+    "word": "Bellicose",
+    "definition": "Eager to fight; aggressively hostile",
+    "arabicTranslation": "عدواني، نزّاع للقتال"
+  },
+  {
+    "id": "w-8-quarrel",
+    "group": 8,
+    "word": "Quarrel",
+    "definition": "An angry argument or disagreement",
+    "arabicTranslation": "شجار، خلاف حاد"
+  },
+  {
+    "id": "w-8-quarrelsome",
+    "group": 8,
+    "word": "Quarrelsome",
+    "definition": "Prone to arguing",
+    "arabicTranslation": "نزّاع للشجار، عدواني في الجدال"
+  },
+  {
+    "id": "w-8-disunite",
+    "group": 8,
+    "word": "Disunite",
+    "definition": "To cause division among people who were united",
+    "arabicTranslation": "يفرّق، يشتت الوحدة"
+  },
+  {
+    "id": "w-8-drive-a-wedge",
+    "group": 8,
+    "word": "Drive A Wedge",
+    "definition": "To cause division between people",
+    "arabicTranslation": "يزرع الفتنة، يفرّق بين"
+  },
+  {
+    "id": "w-8-schismatic",
+    "group": 8,
+    "word": "Schismatic",
+    "definition": "Causing or relating to a split within a group",
+    "arabicTranslation": "انشقاقي، مسبب للانقسام"
+  },
+  {
+    "id": "w-8-take-issue-with",
+    "group": 8,
+    "word": "Take Issue With",
+    "definition": "To disagree with or object to something",
+    "arabicTranslation": "يعترض على، يختلف مع"
+  },
+  {
+    "id": "w-8-arbitrate",
+    "group": 8,
+    "word": "Arbitrate",
+    "definition": "To settle a dispute between two parties",
+    "arabicTranslation": "يحكّم، يفصل في نزاع"
+  },
+  {
+    "id": "w-8-intercede",
+    "group": 8,
+    "word": "Intercede",
+    "definition": "To intervene on behalf of another, often to settle a dispute",
+    "arabicTranslation": "يتوسط، يشفع لدى"
+  },
+  {
+    "id": "w-8-cast-aside",
+    "group": 8,
+    "word": "Cast Aside",
+    "definition": "To reject or discard something",
+    "arabicTranslation": "ينبذ، يطرح جانبًا"
+  },
+  {
+    "id": "w-8-rebuff",
+    "group": 8,
+    "word": "Rebuff",
+    "definition": "To reject an offer or approach bluntly",
+    "arabicTranslation": "يرفض بجفاء، يصدّ"
+  },
+  {
+    "id": "w-8-enjoin",
+    "group": 8,
+    "word": "Enjoin",
+    "definition": "To officially order someone to do something",
+    "arabicTranslation": "يأمر رسميًا، يفرض على"
+  },
+  {
+    "id": "w-8-impose",
+    "group": 8,
+    "word": "Impose",
+    "definition": "To force something to be accepted",
+    "arabicTranslation": "يفرض على"
+  },
+  {
+    "id": "w-8-stipulate",
+    "group": 8,
+    "word": "Stipulate",
+    "definition": "To specify a requirement as part of an agreement",
+    "arabicTranslation": "ينص على، يشترط"
+  },
+  {
+    "id": "w-8-compulsion",
+    "group": 8,
+    "word": "Compulsion",
+    "definition": "An irresistible urge to do something",
+    "arabicTranslation": "دافع قهري، إلحاح لا يُقاوم"
+  },
+  {
+    "id": "w-8-confine",
+    "group": 8,
+    "word": "Confine",
+    "definition": "To restrict within limits; to imprison",
+    "arabicTranslation": "يحصر، يحبس ضمن حدود"
+  },
+  {
+    "id": "w-8-gain-ascendancy",
+    "group": 8,
+    "word": "Gain Ascendancy",
+    "definition": "To achieve a position of power or influence",
+    "arabicTranslation": "يكتسب سيطرة أو نفوذًا"
+  },
+  {
+    "id": "w-8-lord-over",
+    "group": 8,
+    "word": "Lord Over",
+    "definition": "To dominate others in a superior, arrogant way",
+    "arabicTranslation": "يتسلط على، يتعالى على"
+  },
+  {
+    "id": "w-8-exile",
+    "group": 8,
+    "word": "Exile",
+    "definition": "Enforced removal from one's home country",
+    "arabicTranslation": "نفي، إبعاد عن الوطن"
+  },
+  {
+    "id": "w-8-expel",
+    "group": 8,
+    "word": "Expel",
+    "definition": "To force someone to leave a place or group",
+    "arabicTranslation": "يطرد، يبعد بالقوة"
+  },
+  {
+    "id": "w-8-irrepressible",
+    "group": 8,
+    "word": "Irrepressible",
+    "definition": "Impossible to control or restrain; unstoppable",
+    "arabicTranslation": "لا يُكبح، عارم"
+  },
+  {
+    "id": "w-8-unbridled",
+    "group": 8,
+    "word": "Unbridled",
+    "definition": "Not controlled or restrained; unchecked",
+    "arabicTranslation": "جامح، بلا كابح"
+  },
+  {
+    "id": "w-8-deputy",
+    "group": 8,
+    "word": "Deputy",
+    "definition": "A person appointed to act as a substitute for another",
+    "arabicTranslation": "نائب، وكيل"
+  },
+  {
+    "id": "w-8-titular",
+    "group": 8,
+    "word": "Titular",
+    "definition": "Holding a title without real power",
+    "arabicTranslation": "اسمي فقط، بلا سلطة فعلية"
+  },
+  {
+    "id": "w-8-unbecoming",
+    "group": 8,
+    "word": "Unbecoming",
+    "definition": "Not fitting or appropriate; unflattering",
+    "arabicTranslation": "غير لائق، غير مناسب"
+  },
+  {
+    "id": "w-8-underling",
+    "group": 8,
+    "word": "Underling",
+    "definition": "A person of lower rank or subordinate position",
+    "arabicTranslation": "مرؤوس، تابع"
+  },
+  {
+    "id": "w-8-nonconformist",
+    "group": 8,
+    "word": "Nonconformist",
+    "definition": "A person who does not follow accepted norms",
+    "arabicTranslation": "غير ملتزم بالمألوف، متمرد على الأعراف"
+  },
+  {
+    "id": "w-8-renegade",
+    "group": 8,
+    "word": "Renegade",
+    "definition": "A person who abandons a group or cause for another",
+    "arabicTranslation": "منشق، خارج عن الجماعة"
+  },
+  {
+    "id": "w-8-quell",
+    "group": 8,
+    "word": "Quell",
+    "definition": "To put an end to something, especially by force",
+    "arabicTranslation": "يخمد، يقمع"
+  },
+  {
+    "id": "w-8-subdue",
+    "group": 8,
+    "word": "Subdue",
+    "definition": "To bring under control by force",
+    "arabicTranslation": "يُخضع، يقهر"
+  },
+  {
+    "id": "w-8-commandeer",
+    "group": 8,
+    "word": "Commandeer",
+    "definition": "To seize something for one's own use, especially by force",
+    "arabicTranslation": "يستولي على بالقوة"
+  },
+  {
+    "id": "w-8-seize",
+    "group": 8,
+    "word": "Seize",
+    "definition": "To take hold of forcibly and suddenly",
+    "arabicTranslation": "يستولي على، يمسك بقوة"
+  },
+  {
+    "id": "w-9-renounce",
+    "group": 9,
+    "word": "Renounce",
+    "definition": "To formally give up a right, belief, or claim",
+    "arabicTranslation": "يتنازل رسميًا عن، ينبذ"
+  },
+  {
+    "id": "w-9-succumb",
+    "group": 9,
+    "word": "Succumb",
+    "definition": "To give way to pressure or something overpowering",
+    "arabicTranslation": "يستسلم لـ، يخضع لـ"
+  },
+  {
+    "id": "w-9-doomed",
+    "group": 9,
+    "word": "Doomed",
+    "definition": "Certain to fail or suffer a terrible fate",
+    "arabicTranslation": "محكوم عليه بالفشل أو الهلاك"
+  },
+  {
+    "id": "w-9-fluky",
+    "group": 9,
+    "word": "Fluky",
+    "definition": "Happening by chance rather than skill",
+    "arabicTranslation": "بمحض الصدفة، غير متعمد"
+  },
+  {
+    "id": "w-9-jinxed",
+    "group": 9,
+    "word": "Jinxed",
+    "definition": "Believed to bring bad luck",
+    "arabicTranslation": "منحوس، ملعون بسوء الحظ"
+  },
+  {
+    "id": "w-9-rock-bottom",
+    "group": 9,
+    "word": "Rock Bottom",
+    "definition": "The lowest possible point or level",
+    "arabicTranslation": "الحضيض، أدنى مستوى"
+  },
+  {
+    "id": "w-9-ineffectual",
+    "group": 9,
+    "word": "Ineffectual",
+    "definition": "Not producing the desired effect; incompetent",
+    "arabicTranslation": "غير فعّال، عديم الجدوى"
+  },
+  {
+    "id": "w-9-nonviable",
+    "group": 9,
+    "word": "Nonviable",
+    "definition": "Not able to succeed or survive",
+    "arabicTranslation": "غير قابل للاستمرار أو النجاح"
+  },
+  {
+    "id": "w-9-vain",
+    "group": 9,
+    "word": "Vain",
+    "definition": "Excessively proud; also, useless or fruitless",
+    "arabicTranslation": "مغرور؛ عبثي بلا جدوى"
+  },
+  {
+    "id": "w-9-fallback",
+    "group": 9,
+    "word": "Fallback",
+    "definition": "A plan used when the main option fails",
+    "arabicTranslation": "خطة احتياطية"
+  },
+  {
+    "id": "w-9-choke",
+    "group": 9,
+    "word": "Choke",
+    "definition": "To block or clog; to be unable to breathe or speak",
+    "arabicTranslation": "يسدّ، يخنق"
+  },
+  {
+    "id": "w-9-clog",
+    "group": 9,
+    "word": "Clog",
+    "definition": "To block a passage, making it hard to pass through",
+    "arabicTranslation": "يسدّ، يعيق التدفق"
+  },
+  {
+    "id": "w-9-obstruct",
+    "group": 9,
+    "word": "Obstruct",
+    "definition": "To block or get in the way of something",
+    "arabicTranslation": "يعرقل، يسدّ الطريق"
+  },
+  {
+    "id": "w-9-preempt",
+    "group": 9,
+    "word": "Preempt",
+    "definition": "To take action to prevent something before it happens",
+    "arabicTranslation": "يستبق، يمنع مسبقًا"
+  },
+  {
+    "id": "w-9-thwart",
+    "group": 9,
+    "word": "Thwart",
+    "definition": "To prevent someone from succeeding in a plan",
+    "arabicTranslation": "يحبط، يعرقل خطة"
+  },
+  {
+    "id": "w-9-imperil",
+    "group": 9,
+    "word": "Imperil",
+    "definition": "To put something or someone in danger",
+    "arabicTranslation": "يعرّض للخطر"
+  },
+  {
+    "id": "w-9-upstage",
+    "group": 9,
+    "word": "Upstage",
+    "definition": "To draw attention away from someone, outshining them",
+    "arabicTranslation": "يسرق الأضواء من، يتفوق على"
+  },
+  {
+    "id": "w-9-rife",
+    "group": 9,
+    "word": "Rife",
+    "definition": "Very common or widespread, usually of something bad",
+    "arabicTranslation": "منتشر بكثرة (عادة أمر سيئ)"
+  },
+  {
+    "id": "w-9-blanket",
+    "group": 9,
+    "word": "Blanket",
+    "definition": "(adj) Covering all cases or instances; general",
+    "arabicTranslation": "شامل، عام يغطي كل الحالات"
+  },
+  {
+    "id": "w-9-encompass",
+    "group": 9,
+    "word": "Encompass",
+    "definition": "To include comprehensively",
+    "arabicTranslation": "يشمل، يضم كليًا"
+  },
+  {
+    "id": "w-9-incorporate",
+    "group": 9,
+    "word": "Incorporate",
+    "definition": "To include something as part of a whole",
+    "arabicTranslation": "يدمج ضمن، يضم إلى"
+  },
+  {
+    "id": "w-9-acme",
+    "group": 9,
+    "word": "Acme",
+    "definition": "The highest point of achievement or excellence",
+    "arabicTranslation": "الذروة، القمة"
+  },
+  {
+    "id": "w-9-apex",
+    "group": 9,
+    "word": "Apex",
+    "definition": "The highest point or culmination of something",
+    "arabicTranslation": "القمة، الذروة"
+  },
+  {
+    "id": "w-9-climax",
+    "group": 9,
+    "word": "Climax",
+    "definition": "The most intense, exciting point of something",
+    "arabicTranslation": "الذروة، أوج التصاعد"
+  },
+  {
+    "id": "w-9-truncate",
+    "group": 9,
+    "word": "Truncate",
+    "definition": "To shorten by cutting off part of something",
+    "arabicTranslation": "يقتطع، يقصّ نهاية"
+  },
+  {
+    "id": "w-9-deficient",
+    "group": 9,
+    "word": "Deficient",
+    "definition": "Lacking in a necessary quality or element",
+    "arabicTranslation": "ناقص، قاصر عن الكفاية"
+  },
+  {
+    "id": "w-9-meager",
+    "group": 9,
+    "word": "Meager",
+    "definition": "Small in amount and inadequate",
+    "arabicTranslation": "ضئيل، غير كافٍ"
+  },
+  {
+    "id": "w-9-scanty",
+    "group": 9,
+    "word": "Scanty",
+    "definition": "Very small or insufficient in amount",
+    "arabicTranslation": "قليل جدًا، شحيح"
+  },
+  {
+    "id": "w-9-hefty",
+    "group": 9,
+    "word": "Hefty",
+    "definition": "Large and heavy; substantial",
+    "arabicTranslation": "ضخم، كبير الحجم أو الوزن"
+  },
+  {
+    "id": "w-9-undue",
+    "group": 9,
+    "word": "Undue",
+    "definition": "More than is appropriate; excessive",
+    "arabicTranslation": "مفرط، غير مبرر"
+  },
+  {
+    "id": "w-9-vehement",
+    "group": 9,
+    "word": "Vehement",
+    "definition": "Showing strong, forceful feeling",
+    "arabicTranslation": "شديد، عنيف في التعبير عن المشاعر"
+  },
+  {
+    "id": "w-9-assorted",
+    "group": 9,
+    "word": "Assorted",
+    "definition": "Consisting of various different kinds",
+    "arabicTranslation": "متنوع، مختلط الأنواع"
+  },
+  {
+    "id": "w-9-medley",
+    "group": 9,
+    "word": "Medley",
+    "definition": "A varied mixture of things",
+    "arabicTranslation": "خليط متنوع"
+  },
+  {
+    "id": "w-9-sundry",
+    "group": 9,
+    "word": "Sundry",
+    "definition": "Various; of many kinds",
+    "arabicTranslation": "متنوع، شتّى"
+  },
+  {
+    "id": "w-9-embark-on",
+    "group": 9,
+    "word": "Embark On",
+    "definition": "To begin a new project or undertaking",
+    "arabicTranslation": "يشرع في، يبدأ مشروعًا"
+  },
+  {
+    "id": "w-9-rekindled",
+    "group": 9,
+    "word": "Rekindled",
+    "definition": "Brought back to life; reignited, especially a feeling",
+    "arabicTranslation": "أُعيد إحياؤه، أُشعل من جديد"
+  },
+  {
+    "id": "w-9-fuse",
+    "group": 9,
+    "word": "Fuse",
+    "definition": "To join two or more things into one",
+    "arabicTranslation": "يدمج، يصهر معًا"
+  },
+  {
+    "id": "w-9-contrive",
+    "group": 9,
+    "word": "Contrive",
+    "definition": "To create or bring about through cleverness or planning",
+    "arabicTranslation": "يدبّر، يختلق بحيلة"
+  },
+  {
+    "id": "w-9-warp",
+    "group": 9,
+    "word": "Warp",
+    "definition": "To bend or twist out of shape",
+    "arabicTranslation": "يلوي، يشوّه شكلًا"
+  },
+  {
+    "id": "w-9-shaky",
+    "group": 9,
+    "word": "Shaky",
+    "definition": "Unsteady; not firm or reliable",
+    "arabicTranslation": "متزعزع، غير ثابت"
+  },
+  {
+    "id": "w-9-unfixed",
+    "group": 9,
+    "word": "Unfixed",
+    "definition": "Not fixed in place; subject to change",
+    "arabicTranslation": "غير ثابت، قابل للتغيير"
+  },
+  {
+    "id": "w-9-dispel",
+    "group": 9,
+    "word": "Dispel",
+    "definition": "To make a feeling or belief disappear",
+    "arabicTranslation": "يبدد، يزيل شعورًا أو اعتقادًا"
+  },
+  {
+    "id": "w-9-chasm",
+    "group": 9,
+    "word": "Chasm",
+    "definition": "A deep, wide gap; a huge difference between two things",
+    "arabicTranslation": "هوة سحيقة، فجوة كبيرة"
+  },
+  {
+    "id": "w-9-disjunction",
+    "group": 9,
+    "word": "Disjunction",
+    "definition": "A lack of connection between two things",
+    "arabicTranslation": "انفصال، عدم اتصال"
+  },
+  {
+    "id": "w-9-solidify",
+    "group": 9,
+    "word": "Solidify",
+    "definition": "To make firm or definite",
+    "arabicTranslation": "يُصلّب، يُثبّت"
+  },
+  {
+    "id": "w-9-square",
+    "group": 9,
+    "word": "Square",
+    "definition": "(verb) To make two things consistent with each other",
+    "arabicTranslation": "يوفّق بين شيئين، يجعلهما متسقين"
+  },
+  {
+    "id": "w-9-amateurish",
+    "group": 9,
+    "word": "Amateurish",
+    "definition": "Lacking skill or professionalism",
+    "arabicTranslation": "هاوٍ الأداء، غير احترافي"
+  },
+  {
+    "id": "w-9-awkward",
+    "group": 9,
+    "word": "Awkward",
+    "definition": "Clumsy or lacking grace; uncomfortable",
+    "arabicTranslation": "أخرق، محرج"
+  },
+  {
+    "id": "w-9-clumsy",
+    "group": 9,
+    "word": "Clumsy",
+    "definition": "Lacking coordination or grace in movement",
+    "arabicTranslation": "أخرق، غير رشيق الحركة"
+  },
+  {
+    "id": "w-9-graceless",
+    "group": 9,
+    "word": "Graceless",
+    "definition": "Lacking elegance or refinement",
+    "arabicTranslation": "بلا أناقة، خشن الحركة"
+  },
+  {
+    "id": "w-9-herculean",
+    "group": 9,
+    "word": "Herculean",
+    "definition": "Requiring great strength or effort",
+    "arabicTranslation": "شاق جدًا، يتطلب جهدًا خارقًا"
+  },
+  {
+    "id": "w-9-labored",
+    "group": 9,
+    "word": "Labored",
+    "definition": "Done with great effort; not natural or fluent",
+    "arabicTranslation": "متكلَّف، بجهد ظاهر"
+  },
+  {
+    "id": "w-9-diligent",
+    "group": 9,
+    "word": "Diligent",
+    "definition": "Showing careful and persistent effort",
+    "arabicTranslation": "مجتهد، دؤوب"
+  },
+  {
+    "id": "w-9-doggedness",
+    "group": 9,
+    "word": "Doggedness",
+    "definition": "Persistent determination",
+    "arabicTranslation": "إصرار عنيد، مثابرة"
+  },
+  {
+    "id": "w-9-tenacity",
+    "group": 9,
+    "word": "Tenacity",
+    "definition": "Firmness in holding on to a purpose; persistence",
+    "arabicTranslation": "مثابرة، تشبث بالهدف"
+  },
+  {
+    "id": "w-9-wearisome",
+    "group": 9,
+    "word": "Wearisome",
+    "definition": "Causing tiredness or boredom",
+    "arabicTranslation": "مضنٍ، مملّ ومتعب"
+  },
+  {
+    "id": "w-9-cushy-job",
+    "group": 9,
+    "word": "Cushy Job",
+    "definition": "An easy job requiring little effort",
+    "arabicTranslation": "وظيفة مريحة وسهلة"
+  },
+  {
+    "id": "w-9-perk",
+    "group": 9,
+    "word": "Perk",
+    "definition": "An extra benefit given with a job",
+    "arabicTranslation": "امتياز إضافي في العمل"
+  },
+  {
+    "id": "w-9-plum-job",
+    "group": 9,
+    "word": "Plum Job",
+    "definition": "A highly desirable job",
+    "arabicTranslation": "وظيفة مرغوبة جدًا"
+  },
+  {
+    "id": "w-9-devalue",
+    "group": 9,
+    "word": "Devalue",
+    "definition": "To reduce the worth or importance of something",
+    "arabicTranslation": "يقلل من قيمة، يبخس قيمة"
+  },
+  {
+    "id": "w-10-remunerative",
+    "group": 10,
+    "word": "Remunerative",
+    "definition": "Financially rewarding; profitable",
+    "arabicTranslation": "مربح، مجزٍ ماليًا"
+  },
+  {
+    "id": "w-10-bland",
+    "group": 10,
+    "word": "Bland",
+    "definition": "Lacking flavor, interest, or excitement",
+    "arabicTranslation": "بلا نكهة أو تشويق، سطحي"
+  },
+  {
+    "id": "w-10-undesirable",
+    "group": 10,
+    "word": "Undesirable",
+    "definition": "Not wanted; unpleasant",
+    "arabicTranslation": "غير مرغوب فيه"
+  },
+  {
+    "id": "w-10-unpleasant",
+    "group": 10,
+    "word": "Unpleasant",
+    "definition": "Causing discomfort; disagreeable",
+    "arabicTranslation": "غير مريح، مزعج"
+  },
+  {
+    "id": "w-10-inconsequential",
+    "group": 10,
+    "word": "Inconsequential",
+    "definition": "Not important; having no significant effect",
+    "arabicTranslation": "غير ذي أهمية، تافه"
+  },
+  {
+    "id": "w-10-weighty",
+    "group": 10,
+    "word": "Weighty",
+    "definition": "Important and serious; heavy",
+    "arabicTranslation": "ذو وزن وأهمية، جدّي"
+  },
+  {
+    "id": "w-10-layperson",
+    "group": 10,
+    "word": "Layperson",
+    "definition": "A person without expert knowledge in a field",
+    "arabicTranslation": "شخص عادي غير متخصص"
+  },
+  {
+    "id": "w-10-well-to-do",
+    "group": 10,
+    "word": "Well-To-Do",
+    "definition": "Wealthy; financially comfortable",
+    "arabicTranslation": "ميسور الحال، ثري"
+  },
+  {
+    "id": "w-10-exemplar",
+    "group": 10,
+    "word": "Exemplar",
+    "definition": "A typical or excellent example; a model",
+    "arabicTranslation": "نموذج مثالي، قدوة"
+  },
+  {
+    "id": "w-10-bestow",
+    "group": 10,
+    "word": "Bestow",
+    "definition": "To give something as a gift or honor",
+    "arabicTranslation": "يمنح، يهب بتكريم"
+  },
+  {
+    "id": "w-10-disburse",
+    "group": 10,
+    "word": "Disburse",
+    "definition": "To pay out money, especially from a fund",
+    "arabicTranslation": "يصرف مبلغًا ماليًا"
+  },
+  {
+    "id": "w-10-stingy",
+    "group": 10,
+    "word": "Stingy",
+    "definition": "Unwilling to spend or give; miserly",
+    "arabicTranslation": "بخيل، شحيح"
+  },
+  {
+    "id": "w-10-delicacy",
+    "group": 10,
+    "word": "Delicacy",
+    "definition": "A choice, fine food; also, sensitivity or tact",
+    "arabicTranslation": "طعام فاخر؛ رقة وحساسية"
+  },
+  {
+    "id": "w-10-hone",
+    "group": 10,
+    "word": "Hone",
+    "definition": "To refine or perfect a skill",
+    "arabicTranslation": "يصقل، يهذّب مهارة"
+  },
+  {
+    "id": "w-10-masterful",
+    "group": 10,
+    "word": "Masterful",
+    "definition": "Showing great skill; also, domineering",
+    "arabicTranslation": "بارع باقتدار؛ متسلط"
+  },
+  {
+    "id": "w-10-masterly",
+    "group": 10,
+    "word": "Masterly",
+    "definition": "Performed with great skill",
+    "arabicTranslation": "متقن ببراعة عالية"
+  },
+  {
+    "id": "w-10-sturdy",
+    "group": 10,
+    "word": "Sturdy",
+    "definition": "Strongly built; not easily damaged",
+    "arabicTranslation": "متين، قوي البنية"
+  },
+  {
+    "id": "w-10-debilitate",
+    "group": 10,
+    "word": "Debilitate",
+    "definition": "To weaken someone or something",
+    "arabicTranslation": "يُضعف، يُوهن"
+  },
+  {
+    "id": "w-10-mar",
+    "group": 10,
+    "word": "Mar",
+    "definition": "To damage or spoil the appearance or quality of something",
+    "arabicTranslation": "يُفسد، يشوّه"
+  },
+  {
+    "id": "w-10-gleaming",
+    "group": 10,
+    "word": "Gleaming",
+    "definition": "Shining brightly",
+    "arabicTranslation": "لامع، براق"
+  },
+  {
+    "id": "w-10-unsoiled",
+    "group": 10,
+    "word": "Unsoiled",
+    "definition": "Not dirtied; clean and pure",
+    "arabicTranslation": "نظيف، غير ملوث"
+  },
+  {
+    "id": "w-10-elegant",
+    "group": 10,
+    "word": "Elegant",
+    "definition": "Graceful and stylish in appearance or manner",
+    "arabicTranslation": "أنيق، راقٍ"
+  },
+  {
+    "id": "w-10-lifelikeness",
+    "group": 10,
+    "word": "Lifelikeness",
+    "definition": "The quality of closely resembling real life",
+    "arabicTranslation": "واقعية، مطابقة للحياة الحقيقية"
+  },
+  {
+    "id": "w-10-grating",
+    "group": 10,
+    "word": "Grating",
+    "definition": "Harsh and irritating, especially to the ear",
+    "arabicTranslation": "مزعج للأذن، خشن الصوت"
+  },
+  {
+    "id": "w-10-hum",
+    "group": 10,
+    "word": "Hum",
+    "definition": "A continuous low, steady sound",
+    "arabicTranslation": "طنين، دندنة منخفضة"
+  },
+  {
+    "id": "w-10-strident",
+    "group": 10,
+    "word": "Strident",
+    "definition": "Loud and harsh; unpleasantly forceful",
+    "arabicTranslation": "صاخب وحاد، عدواني في النبرة"
+  },
+  {
+    "id": "w-10-uncanny",
+    "group": 10,
+    "word": "Uncanny",
+    "definition": "Strange or mysterious in an unsettling way",
+    "arabicTranslation": "غريب بشكل مقلق، خارق للمألوف"
+  },
+  {
+    "id": "w-10-astounding",
+    "group": 10,
+    "word": "Astounding",
+    "definition": "Extremely surprising or impressive",
+    "arabicTranslation": "مذهل جدًا"
+  },
+  {
+    "id": "w-10-breathtaking",
+    "group": 10,
+    "word": "Breathtaking",
+    "definition": "Astonishingly beautiful or impressive",
+    "arabicTranslation": "خلاب، يخطف الأنفاس"
+  },
+  {
+    "id": "w-10-tactile",
+    "group": 10,
+    "word": "Tactile",
+    "definition": "Relating to the sense of touch",
+    "arabicTranslation": "لمسي، متعلق بحاسة اللمس"
+  },
+  {
+    "id": "w-10-frumpy",
+    "group": 10,
+    "word": "Frumpy",
+    "definition": "Unfashionable and dull in appearance",
+    "arabicTranslation": "غير أنيق، عتيق الطراز"
+  },
+  {
+    "id": "w-10-grimy",
+    "group": 10,
+    "word": "Grimy",
+    "definition": "Covered with dirt",
+    "arabicTranslation": "متّسخ بالأوساخ"
+  },
+  {
+    "id": "w-10-inelegant",
+    "group": 10,
+    "word": "Inelegant",
+    "definition": "Lacking grace or refinement",
+    "arabicTranslation": "غير أنيق، خشن"
+  },
+  {
+    "id": "w-10-shabby",
+    "group": 10,
+    "word": "Shabby",
+    "definition": "Worn out and in poor condition",
+    "arabicTranslation": "بالٍ، رث"
+  },
+  {
+    "id": "w-10-unkempt",
+    "group": 10,
+    "word": "Unkempt",
+    "definition": "Untidy, especially in appearance",
+    "arabicTranslation": "غير مرتب، أشعث"
+  },
+  {
+    "id": "w-10-unrefined",
+    "group": 10,
+    "word": "Unrefined",
+    "definition": "Lacking polish or sophistication; crude",
+    "arabicTranslation": "غير مصقول، فظ"
+  },
+  {
+    "id": "w-10-anarchic",
+    "group": 10,
+    "word": "Anarchic",
+    "definition": "Lacking order or control; chaotic",
+    "arabicTranslation": "فوضوي، بلا نظام"
+  },
+  {
+    "id": "w-10-annul",
+    "group": 10,
+    "word": "Annul",
+    "definition": "To officially declare something invalid",
+    "arabicTranslation": "يبطل، يلغي رسميًا"
+  },
+  {
+    "id": "w-10-rule-out",
+    "group": 10,
+    "word": "Rule Out",
+    "definition": "To eliminate as a possibility",
+    "arabicTranslation": "يستبعد، يلغي احتمالًا"
+  },
+  {
+    "id": "w-10-void",
+    "group": 10,
+    "word": "Void",
+    "definition": "(adj) Not legally valid; empty",
+    "arabicTranslation": "باطل، لاغٍ؛ فارغ"
+  },
+  {
+    "id": "w-10-waive",
+    "group": 10,
+    "word": "Waive",
+    "definition": "To voluntarily give up a right or claim",
+    "arabicTranslation": "يتنازل عن حق طوعًا"
+  },
+  {
+    "id": "w-10-culprit",
+    "group": 10,
+    "word": "Culprit",
+    "definition": "A person responsible for a wrongdoing",
+    "arabicTranslation": "الجاني، المذنب"
+  },
+  {
+    "id": "w-10-indiscretion",
+    "group": 10,
+    "word": "Indiscretion",
+    "definition": "A minor mistake in judgment or behavior",
+    "arabicTranslation": "زلة، تصرف غير حكيم"
+  },
+  {
+    "id": "w-10-malefactor",
+    "group": 10,
+    "word": "Malefactor",
+    "definition": "A person who commits a crime or wrongdoing",
+    "arabicTranslation": "مجرم، مرتكب جريمة"
+  },
+  {
+    "id": "w-10-misdeed",
+    "group": 10,
+    "word": "Misdeed",
+    "definition": "A wrong or illegal act",
+    "arabicTranslation": "عمل خاطئ، إساءة"
+  },
+  {
+    "id": "w-10-misdemeanor",
+    "group": 10,
+    "word": "Misdemeanor",
+    "definition": "A minor crime, less serious than a felony",
+    "arabicTranslation": "جنحة، مخالفة قانونية بسيطة"
+  },
+  {
+    "id": "w-10-wretch",
+    "group": 10,
+    "word": "Wretch",
+    "definition": "A miserable or unfortunate person; a despicable person",
+    "arabicTranslation": "شخص بائس أو خسيس"
+  },
+  {
+    "id": "w-10-outrageous",
+    "group": 10,
+    "word": "Outrageous",
+    "definition": "Shockingly bad or unacceptable",
+    "arabicTranslation": "فاضح، مستفز جدًا"
+  },
+  {
+    "id": "w-10-ruthless",
+    "group": 10,
+    "word": "Ruthless",
+    "definition": "Having no pity or compassion",
+    "arabicTranslation": "لا يرحم، قاسٍ بلا شفقة"
+  },
+  {
+    "id": "w-10-vile",
+    "group": 10,
+    "word": "Vile",
+    "definition": "Extremely unpleasant or morally bad",
+    "arabicTranslation": "خسيس، شنيع أخلاقيًا"
+  },
+  {
+    "id": "w-10-amoral",
+    "group": 10,
+    "word": "Amoral",
+    "definition": "Having no moral sense; indifferent to right and wrong",
+    "arabicTranslation": "لا أخلاقي، غير مكترث بالصواب والخطأ"
+  },
+  {
+    "id": "w-10-debauchery",
+    "group": 10,
+    "word": "Debauchery",
+    "definition": "Excessive indulgence in pleasure, especially sexual",
+    "arabicTranslation": "فسق، انغماس في الرذيلة"
+  },
+  {
+    "id": "w-10-salacious",
+    "group": 10,
+    "word": "Salacious",
+    "definition": "Excessively interested in sexual matters; explicit",
+    "arabicTranslation": "فاحش، مثير جنسيًا بابتذال"
+  },
+  {
+    "id": "w-10-vice",
+    "group": 10,
+    "word": "Vice",
+    "definition": "An immoral or bad habit",
+    "arabicTranslation": "رذيلة، عادة سيئة"
+  },
+  {
+    "id": "w-10-wanton",
+    "group": 10,
+    "word": "Wanton",
+    "definition": "Deliberately cruel or reckless; unrestrained",
+    "arabicTranslation": "متهور عمدًا، فاسق بلا كابح"
+  },
+  {
+    "id": "w-10-absolve",
+    "group": 10,
+    "word": "Absolve",
+    "definition": "To free someone from blame or guilt",
+    "arabicTranslation": "يبرّئ، يعفي من الذنب"
+  },
+  {
+    "id": "w-10-aggrieved",
+    "group": 10,
+    "word": "Aggrieved",
+    "definition": "Feeling resentment from unfair treatment",
+    "arabicTranslation": "متضرر، شاعر بالظلم"
+  },
+  {
+    "id": "w-10-hand-down",
+    "group": 10,
+    "word": "Hand Down",
+    "definition": "To pass something on to the next generation; to give a ruling",
+    "arabicTranslation": "يورّث، يصدر حكمًا"
+  },
+  {
+    "id": "w-10-impeachment",
+    "group": 10,
+    "word": "Impeachment",
+    "definition": "A formal charge against a public official for misconduct",
+    "arabicTranslation": "اتهام رسمي لمسؤول بسوء سلوك"
+  },
+  {
+    "id": "w-10-bigoted",
+    "group": 10,
+    "word": "Bigoted",
+    "definition": "Having strong, unfair prejudice against others",
+    "arabicTranslation": "متعصب، متحيز بشدة"
+  },
+  {
+    "id": "w-11-otherworldly",
+    "group": 11,
+    "word": "Otherworldly",
+    "definition": "Seeming not of this world; strange or spiritual",
+    "arabicTranslation": "غير دنيوي، يبدو من عالم آخر"
+  },
+  {
+    "id": "w-11-transcendent",
+    "group": 11,
+    "word": "Transcendent",
+    "definition": "Going beyond ordinary limits; surpassing",
+    "arabicTranslation": "متسامٍ، يفوق الحدود المعتادة"
+  },
+  {
+    "id": "w-11-protracted",
+    "group": 11,
+    "word": "Protracted",
+    "definition": "Lasting longer than expected or necessary",
+    "arabicTranslation": "طويل الأمد، ممتد أكثر من اللازم"
+  },
+  {
+    "id": "w-11-unabating",
+    "group": 11,
+    "word": "Unabating",
+    "definition": "Continuing without decreasing in strength",
+    "arabicTranslation": "مستمر بلا تراجع في الشدة"
+  },
+  {
+    "id": "w-11-predestined",
+    "group": 11,
+    "word": "Predestined",
+    "definition": "Determined in advance by fate",
+    "arabicTranslation": "مقدَّر مسبقًا، محتوم بالقدر"
+  },
+  {
+    "id": "w-11-antecedent",
+    "group": 11,
+    "word": "Antecedent",
+    "definition": "Something that comes before; a precursor",
+    "arabicTranslation": "سابق، ما يسبق شيئًا"
+  },
+  {
+    "id": "w-11-precursory",
+    "group": 11,
+    "word": "Precursory",
+    "definition": "Coming before and indicating what follows",
+    "arabicTranslation": "تمهيدي، يسبق ويشير لما يأتي"
+  },
+  {
+    "id": "w-11-impending",
+    "group": 11,
+    "word": "Impending",
+    "definition": "About to happen soon, especially something bad",
+    "arabicTranslation": "وشيك الحدوث"
+  },
+  {
+    "id": "w-11-opportune",
+    "group": 11,
+    "word": "Opportune",
+    "definition": "Well-timed; suitable for a particular purpose",
+    "arabicTranslation": "مناسب التوقيت، مؤاتٍ"
+  },
+  {
+    "id": "w-11-transience",
+    "group": 11,
+    "word": "Transience",
+    "definition": "The state of lasting only a short time",
+    "arabicTranslation": "زوال، طبيعة عابرة قصيرة الأمد"
+  },
+  {
+    "id": "w-11-flexuous",
+    "group": 11,
+    "word": "Flexuous",
+    "definition": "Having many bends or curves",
+    "arabicTranslation": "متعرج، كثير الانحناءات"
+  },
+  {
+    "id": "w-11-flee",
+    "group": 11,
+    "word": "Flee",
+    "definition": "To run away from danger",
+    "arabicTranslation": "يفر، يهرب من خطر"
+  },
+  {
+    "id": "w-11-languor",
+    "group": 11,
+    "word": "Languor",
+    "definition": "A state of pleasant relaxation or tiredness; lack of energy",
+    "arabicTranslation": "خمول، كسل مريح"
+  },
+  {
+    "id": "w-11-extricate",
+    "group": 11,
+    "word": "Extricate",
+    "definition": "To free someone or something from a difficult situation",
+    "arabicTranslation": "يخلّص، ينتشل من ورطة"
+  },
+  {
+    "id": "w-11-rupture",
+    "group": 11,
+    "word": "Rupture",
+    "definition": "A break or split, especially sudden",
+    "arabicTranslation": "تمزق، انفصال مفاجئ"
+  },
+  {
+    "id": "w-11-congenital",
+    "group": 11,
+    "word": "Congenital",
+    "definition": "Present from birth",
+    "arabicTranslation": "خلقي، موجود منذ الولادة"
+  },
+  {
+    "id": "w-11-somatic",
+    "group": 11,
+    "word": "Somatic",
+    "definition": "Relating to the body, as distinct from the mind",
+    "arabicTranslation": "جسدي، متعلق بالجسم"
+  },
+  {
+    "id": "w-11-blaze",
+    "group": 11,
+    "word": "Blaze",
+    "definition": "A large, intense fire; (verb) to burn fiercely",
+    "arabicTranslation": "لهيب، حريق كبير؛ يشتعل بقوة"
+  },
+  {
+    "id": "w-11-underlying",
+    "group": 11,
+    "word": "Underlying",
+    "definition": "Forming the basis of something; not immediately obvious",
+    "arabicTranslation": "كامن، أساسي غير ظاهر مباشرة"
+  },
+  {
+    "id": "w-11-outermost",
+    "group": 11,
+    "word": "Outermost",
+    "definition": "Farthest from the center",
+    "arabicTranslation": "الأبعد عن المركز، الخارجي جدًا"
+  },
+  {
+    "id": "w-11-pastoral",
+    "group": 11,
+    "word": "Pastoral",
+    "definition": "Relating to peaceful rural life",
+    "arabicTranslation": "ريفي، متعلق بالحياة الريفية الهادئة"
+  },
+  {
+    "id": "w-11-rustic",
+    "group": 11,
+    "word": "Rustic",
+    "definition": "Simple and typical of the countryside",
+    "arabicTranslation": "ريفي، بسيط وطبيعي"
+  },
+  {
+    "id": "w-11-unplowed",
+    "group": 11,
+    "word": "Unplowed",
+    "definition": "Not tilled or cultivated",
+    "arabicTranslation": "غير محروث"
+  },
+  {
+    "id": "w-11-unsown",
+    "group": 11,
+    "word": "Unsown",
+    "definition": "Not planted with seed",
+    "arabicTranslation": "غير مزروع بالبذور"
+  },
+  {
+    "id": "w-11-gusty",
+    "group": 11,
+    "word": "Gusty",
+    "definition": "Marked by strong, sudden bursts of wind",
+    "arabicTranslation": "عاصف، هبّاب"
+  },
+  {
+    "id": "w-11-bastardization",
+    "group": 11,
+    "word": "Bastardization",
+    "definition": "A corrupted or debased version of something original",
+    "arabicTranslation": "تحريف، تشويه عن الأصل"
+  },
+  {
+    "id": "w-11-syncopated",
+    "group": 11,
+    "word": "Syncopated",
+    "definition": "Having a rhythm with unexpected accents; off-beat",
+    "arabicTranslation": "متزامن مع نبض إيقاعي غير منتظم"
+  },
+  {
+    "id": "w-11-cognate",
+    "group": 11,
+    "word": "Cognate",
+    "definition": "Related in origin; similar in nature",
+    "arabicTranslation": "متشابه الأصل، ذو صلة قرابة"
+  },
+  {
+    "id": "w-11-impromptu",
+    "group": 11,
+    "word": "Impromptu",
+    "definition": "Done without preparation; spontaneous",
+    "arabicTranslation": "ارتجالي، بلا تحضير"
+  },
+  {
+    "id": "w-11-gratifying",
+    "group": 11,
+    "word": "Gratifying",
+    "definition": "Giving satisfaction or pleasure",
+    "arabicTranslation": "مُرضٍ، ممتع"
+  },
+  {
+    "id": "w-11-wholesome",
+    "group": 11,
+    "word": "Wholesome",
+    "definition": "Good for physical or moral wellbeing; clean and healthy",
+    "arabicTranslation": "صحي وسليم أخلاقيًا"
+  },
+  {
+    "id": "w-11-wilt",
+    "group": 11,
+    "word": "Wilt",
+    "definition": "To become weak or droop, like a plant lacking water",
+    "arabicTranslation": "يذبل، يضعف"
+  },
+  {
+    "id": "w-11-lacking",
+    "group": 11,
+    "word": "Lacking",
+    "definition": "Not having enough of something needed",
+    "arabicTranslation": "ناقص، يفتقر إلى"
+  },
+  {
+    "id": "w-11-impediment",
+    "group": 11,
+    "word": "Impediment",
+    "definition": "Something that hinders or obstructs progress",
+    "arabicTranslation": "عائق، عقبة"
+  },
+  {
+    "id": "w-11-anemic",
+    "group": 11,
+    "word": "Anemic",
+    "definition": "Weak or lacking vitality; also, a blood condition",
+    "arabicTranslation": "ضعيف الحيوية، فاقر الدم"
+  },
+  {
+    "id": "w-11-mislabeling",
+    "group": 11,
+    "word": "Mislabeling",
+    "definition": "Giving an incorrect or misleading label",
+    "arabicTranslation": "وضع تسمية خاطئة"
+  },
+  {
+    "id": "w-11-inanity",
+    "group": 11,
+    "word": "Inanity",
+    "definition": "Silliness; lack of meaning or sense",
+    "arabicTranslation": "سخف، فراغ فكري"
+  },
+  {
+    "id": "w-11-give-away",
+    "group": 11,
+    "word": "Give Away",
+    "definition": "To reveal a secret unintentionally",
+    "arabicTranslation": "يفشي سرًا دون قصد"
+  },
+  {
+    "id": "w-11-perquisite",
+    "group": 11,
+    "word": "Perquisite",
+    "definition": "An extra benefit granted for a job",
+    "arabicTranslation": "امتياز إضافي مرتبط بالوظيفة"
+  },
+  {
+    "id": "w-11-indoctrinate",
+    "group": 11,
+    "word": "Indoctrinate",
+    "definition": "To teach someone to accept beliefs uncritically",
+    "arabicTranslation": "يلقّن أفكارًا دون نقد"
+  },
+  {
+    "id": "w-11-amputate",
+    "group": 11,
+    "word": "Amputate",
+    "definition": "To surgically remove a limb; to cut off",
+    "arabicTranslation": "يبتر، يستأصل"
+  },
+  {
+    "id": "w-11-factional",
+    "group": 11,
+    "word": "Factional",
+    "definition": "Relating to a small dissenting group within a larger one",
+    "arabicTranslation": "فئوي، متعلق بجماعة منشقة"
+  },
+  {
+    "id": "w-11-extol",
+    "group": 11,
+    "word": "Extol",
+    "definition": "To praise enthusiastically",
+    "arabicTranslation": "يمدح بحماس، يطري"
+  },
+  {
+    "id": "w-11-slatternly",
+    "group": 11,
+    "word": "Slatternly",
+    "definition": "Untidy and careless in appearance or habits",
+    "arabicTranslation": "مهمل المظهر، غير مرتب"
+  },
+  {
+    "id": "w-11-prelude",
+    "group": 11,
+    "word": "Prelude",
+    "definition": "An introductory event leading to something more important",
+    "arabicTranslation": "مقدمة، تمهيد لحدث أهم"
+  },
+  {
+    "id": "w-11-dumbfound",
+    "group": 11,
+    "word": "Dumbfound",
+    "definition": "To astonish so much that one is speechless",
+    "arabicTranslation": "يذهل، يصدم لدرجة الصمت"
+  },
+  {
+    "id": "w-11-machiavellian",
+    "group": 11,
+    "word": "Machiavellian",
+    "definition": "Cunning and unscrupulous, especially in politics",
+    "arabicTranslation": "ماكر ومخادع سياسيًا بلا أخلاق"
+  },
+  {
+    "id": "w-11-intriguing",
+    "group": 11,
+    "word": "Intriguing",
+    "definition": "Fascinating; arousing curiosity",
+    "arabicTranslation": "مثير للفضول، شيّق"
+  },
+  {
+    "id": "w-11-egotism",
+    "group": 11,
+    "word": "Egotism",
+    "definition": "Excessive focus on oneself; self-importance",
+    "arabicTranslation": "الأنانية، حب الذات المفرط"
+  },
+  {
+    "id": "w-11-sullen",
+    "group": 11,
+    "word": "Sullen",
+    "definition": "Gloomy and bad-tempered; sulking silently",
+    "arabicTranslation": "عابس، متجهّم صامت"
+  },
+  {
+    "id": "w-11-modicum",
+    "group": 11,
+    "word": "Modicum",
+    "definition": "A small amount of something",
+    "arabicTranslation": "قدر قليل من شيء"
+  },
+  {
+    "id": "w-11-oration",
+    "group": 11,
+    "word": "Oration",
+    "definition": "A formal speech given on a public occasion",
+    "arabicTranslation": "خطبة رسمية"
+  },
+  {
+    "id": "w-11-rescind",
+    "group": 11,
+    "word": "Rescind",
+    "definition": "To officially cancel a law, decision, or agreement",
+    "arabicTranslation": "يلغي رسميًا، يسحب قرارًا"
+  },
+  {
+    "id": "w-11-ordain",
+    "group": 11,
+    "word": "Ordain",
+    "definition": "To officially order or decree something",
+    "arabicTranslation": "يأمر رسميًا، يقرّر رسميًا"
+  },
+  {
+    "id": "w-11-rebuttal",
+    "group": 11,
+    "word": "Rebuttal",
+    "definition": "A response that argues against a previous statement",
+    "arabicTranslation": "رد نقضي، دحض"
+  },
+  {
+    "id": "w-11-flimsy",
+    "group": 11,
+    "word": "Flimsy",
+    "definition": "Weak and insubstantial; easily broken or unconvincing",
+    "arabicTranslation": "هش، واهٍ غير مقنع"
+  },
+  {
+    "id": "w-11-overshadow",
+    "group": 11,
+    "word": "Overshadow",
+    "definition": "To make someone or something seem less important by comparison",
+    "arabicTranslation": "يطغى على، يُقلل من أهمية غيره"
+  },
+  {
+    "id": "w-11-fallacy",
+    "group": 11,
+    "word": "Fallacy",
+    "definition": "A mistaken belief based on flawed reasoning",
+    "arabicTranslation": "مغالطة، خطأ منطقي"
+  },
+  {
+    "id": "w-11-imputation",
+    "group": 11,
+    "word": "Imputation",
+    "definition": "An accusation or suggestion that someone did something wrong",
+    "arabicTranslation": "اتهام ضمني، نسبة ذنب"
+  },
+  {
+    "id": "w-11-defalcate",
+    "group": 11,
+    "word": "Defalcate",
+    "definition": "To misuse funds entrusted to one's care",
+    "arabicTranslation": "يختلس أموالاً مؤتمنًا عليها"
+  },
+  {
+    "id": "w-12-hoax",
+    "group": 12,
+    "word": "Hoax",
+    "definition": "A deception meant to trick people",
+    "arabicTranslation": "خدعة، تضليل متعمد"
+  },
+  {
+    "id": "w-12-edict",
+    "group": 12,
+    "word": "Edict",
+    "definition": "An official order issued by an authority",
+    "arabicTranslation": "مرسوم، أمر رسمي"
+  },
+  {
+    "id": "w-12-machinations",
+    "group": 12,
+    "word": "Machinations",
+    "definition": "Secret and cunning plans to achieve something harmful",
+    "arabicTranslation": "مكائد، دسائس خفية"
+  },
+  {
+    "id": "w-12-congruent",
+    "group": 12,
+    "word": "Congruent",
+    "definition": "In agreement or harmony; matching",
+    "arabicTranslation": "متطابق، منسجم"
+  },
+  {
+    "id": "w-12-insufferable",
+    "group": 12,
+    "word": "Insufferable",
+    "definition": "Unbearably unpleasant or annoying",
+    "arabicTranslation": "لا يُحتمل، مزعج جدًا"
+  },
+  {
+    "id": "w-12-introspection",
+    "group": 12,
+    "word": "Introspection",
+    "definition": "Examination of one's own thoughts and feelings",
+    "arabicTranslation": "التأمل الذاتي، مراجعة النفس"
+  },
+  {
+    "id": "w-12-benignant",
+    "group": 12,
+    "word": "Benignant",
+    "definition": "Kind and gentle; beneficial",
+    "arabicTranslation": "لطيف، حميد النية"
+  },
+  {
+    "id": "w-12-rackety",
+    "group": 12,
+    "word": "Rackety",
+    "definition": "Noisy and chaotic",
+    "arabicTranslation": "صاخب وفوضوي"
+  },
+  {
+    "id": "w-12-infuse",
+    "group": 12,
+    "word": "Infuse",
+    "definition": "To fill something with a quality; to soak for flavor",
+    "arabicTranslation": "يغرس، يشرّب بصفة أو نكهة"
+  },
+  {
+    "id": "w-12-insightful",
+    "group": 12,
+    "word": "Insightful",
+    "definition": "Showing deep understanding of a situation",
+    "arabicTranslation": "بصير، ذو فهم عميق"
+  },
+  {
+    "id": "w-12-posing",
+    "group": 12,
+    "word": "Posing",
+    "definition": "Pretending to be something one is not",
+    "arabicTranslation": "التظاهر بهوية أو صفة زائفة"
+  },
+  {
+    "id": "w-12-blemish",
+    "group": 12,
+    "word": "Blemish",
+    "definition": "A small flaw or imperfection",
+    "arabicTranslation": "شائبة، عيب صغير"
+  },
+  {
+    "id": "w-12-simpleton",
+    "group": 12,
+    "word": "Simpleton",
+    "definition": "A foolish or gullible person",
+    "arabicTranslation": "شخص ساذج أو أحمق"
+  },
+  {
+    "id": "w-12-gleeful",
+    "group": 12,
+    "word": "Gleeful",
+    "definition": "Full of great delight, often mischievous",
+    "arabicTranslation": "مبتهج بمرح، فرح مشوب بشماتة أحيانًا"
+  },
+  {
+    "id": "w-12-partisan",
+    "group": 12,
+    "word": "Partisan",
+    "definition": "Strongly supporting a particular party or cause, often biased",
+    "arabicTranslation": "متحزب، منحاز"
+  },
+  {
+    "id": "w-12-discerning",
+    "group": 12,
+    "word": "Discerning",
+    "definition": "Having good judgment; able to distinguish quality",
+    "arabicTranslation": "متمييز، حسن الحكم"
+  },
+  {
+    "id": "w-12-controvert",
+    "group": 12,
+    "word": "Controvert",
+    "definition": "To argue against; to dispute",
+    "arabicTranslation": "يجادل ضد، يفنّد"
+  },
+  {
+    "id": "w-12-matriarch",
+    "group": 12,
+    "word": "Matriarch",
+    "definition": "A woman who is head of a family or group",
+    "arabicTranslation": "ربة أسرة أو عشيرة، زعيمة"
+  },
+  {
+    "id": "w-12-clinching",
+    "group": 12,
+    "word": "Clinching",
+    "definition": "Finally settling a matter decisively",
+    "arabicTranslation": "حاسم، يحسم أمرًا نهائيًا"
+  },
+  {
+    "id": "w-12-awe-inspiring",
+    "group": 12,
+    "word": "Awe-Inspiring",
+    "definition": "Causing feelings of great admiration or wonder",
+    "arabicTranslation": "مثير للإعجاب والرهبة"
+  },
+  {
+    "id": "w-12-effaced",
+    "group": 12,
+    "word": "Effaced",
+    "definition": "Made faint or erased, as if by wearing away",
+    "arabicTranslation": "ممحو، مطموس تدريجيًا"
+  },
+  {
+    "id": "w-12-voguish",
+    "group": 12,
+    "word": "Voguish",
+    "definition": "Currently fashionable",
+    "arabicTranslation": "رائج، عصري حاليًا"
+  },
+  {
+    "id": "w-12-perspicuous",
+    "group": 12,
+    "word": "Perspicuous",
+    "definition": "Clearly expressed and easy to understand",
+    "arabicTranslation": "واضح وسهل الفهم"
+  },
+  {
+    "id": "w-12-hamstrung",
+    "group": 12,
+    "word": "Hamstrung",
+    "definition": "Severely restricted from acting effectively",
+    "arabicTranslation": "مقيّد الحركة، معطّل عن الفعل"
+  },
+  {
+    "id": "w-12-smother",
+    "group": 12,
+    "word": "Smother",
+    "definition": "To cover thickly so as to suffocate; to suppress",
+    "arabicTranslation": "يخنق، يكبت"
+  },
+  {
+    "id": "w-12-dispassionate",
+    "group": 12,
+    "word": "Dispassionate",
+    "definition": "Not influenced by strong emotion; impartial",
+    "arabicTranslation": "غير متحيز، هادئ بلا انفعال"
+  },
+  {
+    "id": "w-12-unguarded",
+    "group": 12,
+    "word": "Unguarded",
+    "definition": "Not protected; careless or open in speech",
+    "arabicTranslation": "غير محترس، صريح بلا تحفظ"
+  },
+  {
+    "id": "w-12-curry-favor-with",
+    "group": 12,
+    "word": "Curry Favor With",
+    "definition": "To try to gain approval by flattery",
+    "arabicTranslation": "يتزلف لكسب رضا"
+  },
+  {
+    "id": "w-12-extradite",
+    "group": 12,
+    "word": "Extradite",
+    "definition": "To hand over a person accused of a crime to another country",
+    "arabicTranslation": "يسلّم متهمًا لدولة أخرى"
+  },
+  {
+    "id": "w-12-subjugated",
+    "group": 12,
+    "word": "Subjugated",
+    "definition": "Brought under control; conquered",
+    "arabicTranslation": "مُخضَع، مقهور"
+  },
+  {
+    "id": "w-12-demotic",
+    "group": 12,
+    "word": "Demotic",
+    "definition": "Relating to ordinary people; popular language",
+    "arabicTranslation": "عامي، متعلق بلغة الناس البسطاء"
+  },
+  {
+    "id": "w-12-infinitesimal",
+    "group": 12,
+    "word": "Infinitesimal",
+    "definition": "Extremely small",
+    "arabicTranslation": "متناهٍ في الصغر"
+  },
+  {
+    "id": "w-12-exhortation",
+    "group": 12,
+    "word": "Exhortation",
+    "definition": "A strong urging or encouragement to do something",
+    "arabicTranslation": "حث قوي، تحريض على فعل"
+  },
+  {
+    "id": "w-12-unnerving",
+    "group": 12,
+    "word": "Unnerving",
+    "definition": "Causing loss of courage or composure",
+    "arabicTranslation": "مثير للقلق، مربك للأعصاب"
+  },
+  {
+    "id": "w-12-gear-up",
+    "group": 12,
+    "word": "Gear Up",
+    "definition": "To prepare for an event or activity",
+    "arabicTranslation": "يستعد لـ، يتأهب لـ"
+  },
+  {
+    "id": "w-12-detestable",
+    "group": 12,
+    "word": "Detestable",
+    "definition": "Deserving intense dislike",
+    "arabicTranslation": "مقيت، بغيض"
+  },
+  {
+    "id": "w-12-bother",
+    "group": 12,
+    "word": "Bother",
+    "definition": "To cause worry or inconvenience",
+    "arabicTranslation": "يزعج، يقلق"
+  },
+  {
+    "id": "w-12-meld",
+    "group": 12,
+    "word": "Meld",
+    "definition": "To blend or merge together smoothly",
+    "arabicTranslation": "يمتزج، يندمج بسلاسة"
+  },
+  {
+    "id": "w-12-self-assertive",
+    "group": 12,
+    "word": "Self-Assertive",
+    "definition": "Confidently expressing one's opinions and rights",
+    "arabicTranslation": "واثق في فرض رأيه وحقوقه"
+  },
+  {
+    "id": "w-12-seclude",
+    "group": 12,
+    "word": "Seclude",
+    "definition": "To keep someone or something isolated from others",
+    "arabicTranslation": "يعزل، يبعد عن الآخرين"
+  },
+  {
+    "id": "w-12-bemused",
+    "group": 12,
+    "word": "Bemused",
+    "definition": "Confused or puzzled, often mildly",
+    "arabicTranslation": "حائر بارتباك خفيف"
+  },
+  {
+    "id": "w-12-evocative",
+    "group": 12,
+    "word": "Evocative",
+    "definition": "Bringing strong images or feelings to mind",
+    "arabicTranslation": "موحٍ بذكريات أو مشاعر قوية"
+  },
+  {
+    "id": "w-12-inimitable",
+    "group": 12,
+    "word": "Inimitable",
+    "definition": "So good that it cannot be imitated",
+    "arabicTranslation": "لا يُضاهى، لا يُقلَّد"
+  },
+  {
+    "id": "w-12-nitpicky",
+    "group": 12,
+    "word": "Nitpicky",
+    "definition": "Excessively concerned with minor details",
+    "arabicTranslation": "منتقد للتفاصيل التافهة"
+  },
+  {
+    "id": "w-12-self-congratulatory",
+    "group": 12,
+    "word": "Self-Congratulatory",
+    "definition": "Showing excessive pride in one's own achievements",
+    "arabicTranslation": "مادح لذاته بإفراط"
+  },
+  {
+    "id": "w-12-effusive",
+    "group": 12,
+    "word": "Effusive",
+    "definition": "Expressing feelings in an unrestrained, gushing way",
+    "arabicTranslation": "مفرط في التعبير عن المشاعر"
+  },
+  {
+    "id": "w-12-depiction",
+    "group": 12,
+    "word": "Depiction",
+    "definition": "A representation of something in words or images",
+    "arabicTranslation": "تصوير، تمثيل بالكلمات أو الصور"
+  },
+  {
+    "id": "w-12-erstwhile",
+    "group": 12,
+    "word": "Erstwhile",
+    "definition": "Former; in the past",
+    "arabicTranslation": "سابق، فيما مضى"
+  },
+  {
+    "id": "w-12-celestial",
+    "group": 12,
+    "word": "Celestial",
+    "definition": "Relating to the sky or heavens",
+    "arabicTranslation": "سماوي، فلكي"
+  },
+  {
+    "id": "w-12-tightwad",
+    "group": 12,
+    "word": "Tightwad",
+    "definition": "A person unwilling to spend money; a miser",
+    "arabicTranslation": "بخيل، شحيح"
+  },
+  {
+    "id": "w-12-adulate",
+    "group": 12,
+    "word": "Adulate",
+    "definition": "To praise excessively and often insincerely",
+    "arabicTranslation": "يمجّد بإفراط، يتملق بالمديح"
+  },
+  {
+    "id": "w-12-elusive",
+    "group": 12,
+    "word": "Elusive",
+    "definition": "Difficult to find, catch, or achieve",
+    "arabicTranslation": "صعب المنال، يصعب الإمساك به"
+  },
+  {
+    "id": "w-12-preeminent",
+    "group": 12,
+    "word": "Preeminent",
+    "definition": "Surpassing all others; the most distinguished",
+    "arabicTranslation": "متفوق على الجميع، بارز"
+  },
+  {
+    "id": "w-12-appalling",
+    "group": 12,
+    "word": "Appalling",
+    "definition": "Shockingly bad or unpleasant",
+    "arabicTranslation": "مروّع، صادم بسوئه"
+  },
+  {
+    "id": "w-12-adulation",
+    "group": 12,
+    "word": "Adulation",
+    "definition": "Excessive, often insincere praise",
+    "arabicTranslation": "إطراء مفرط، تملق بالمديح"
+  },
+  {
+    "id": "w-12-minion",
+    "group": 12,
+    "word": "Minion",
+    "definition": "A follower who does exactly what they are told",
+    "arabicTranslation": "تابع مطيع، أتباع بلا رأي"
+  },
+  {
+    "id": "w-12-remit",
+    "group": 12,
+    "word": "Remit",
+    "definition": "(verb) To send money as payment; to cancel a debt",
+    "arabicTranslation": "يرسل مبلغًا ماليًا؛ يُعفي من دين"
+  },
+  {
+    "id": "w-12-solder",
+    "group": 12,
+    "word": "Solder",
+    "definition": "To join metal parts by melting a filler alloy",
+    "arabicTranslation": "يلحم المعدن بمادة صهر"
+  },
+  {
+    "id": "w-12-sinister",
+    "group": 12,
+    "word": "Sinister",
+    "definition": "Giving an impression of evil or menace",
+    "arabicTranslation": "شرير المظهر، مريب"
+  },
+  {
+    "id": "w-12-engorged",
+    "group": 12,
+    "word": "Engorged",
+    "definition": "Swollen with blood or fluid; filled to excess",
+    "arabicTranslation": "متورم، ممتلئ بإفراط"
+  },
+  {
+    "id": "w-13-stodgy",
+    "group": 13,
+    "word": "Stodgy",
+    "definition": "Dull, old-fashioned, and unimaginative",
+    "arabicTranslation": "جامد، تقليدي مملّ"
+  },
+  {
+    "id": "w-13-milieu",
+    "group": 13,
+    "word": "Milieu",
+    "definition": "A person's social environment or surroundings",
+    "arabicTranslation": "بيئة اجتماعية، محيط"
+  },
+  {
+    "id": "w-13-debacle",
+    "group": 13,
+    "word": "Debacle",
+    "definition": "A sudden, humiliating failure or disaster",
+    "arabicTranslation": "فشل ذريع، كارثة مذلّة"
+  },
+  {
+    "id": "w-13-gnostic",
+    "group": 13,
+    "word": "Gnostic",
+    "definition": "Relating to knowledge, especially spiritual or mystical knowledge",
+    "arabicTranslation": "معرفي، متعلق بالمعرفة الروحية"
+  },
+  {
+    "id": "w-13-cogitable",
+    "group": 13,
+    "word": "Cogitable",
+    "definition": "Able to be thought about or considered",
+    "arabicTranslation": "قابل للتفكير فيه"
+  },
+  {
+    "id": "w-13-entice",
+    "group": 13,
+    "word": "Entice",
+    "definition": "To attract someone by offering something appealing",
+    "arabicTranslation": "يغري، يستدرج"
+  },
+  {
+    "id": "w-13-drawf",
+    "group": 13,
+    "word": "Drawf",
+    "definition": "A being much smaller than normal size (dwarf)",
+    "arabicTranslation": "قزم، صغير الحجم جدًا"
+  },
+  {
+    "id": "w-13-admonished",
+    "group": 13,
+    "word": "Admonished",
+    "definition": "Warned or reprimanded firmly but gently",
+    "arabicTranslation": "نُصح بتحذير، وُبّخ برفق"
+  },
+  {
+    "id": "w-13-albeit",
+    "group": 13,
+    "word": "Albeit",
+    "definition": "Although; even though",
+    "arabicTranslation": "على الرغم من، وإن كان"
+  },
+  {
+    "id": "w-13-sketchy",
+    "group": 13,
+    "word": "Sketchy",
+    "definition": "Incomplete or vague; also, suspicious",
+    "arabicTranslation": "غير مكتمل أو غامض؛ مريب"
+  },
+  {
+    "id": "w-13-recede",
+    "group": 13,
+    "word": "Recede",
+    "definition": "To move back or away gradually",
+    "arabicTranslation": "ينحسر، يتراجع تدريجيًا"
+  },
+  {
+    "id": "w-13-pickle",
+    "group": 13,
+    "word": "Pickle",
+    "definition": "(noun, informal) A difficult situation",
+    "arabicTranslation": "ورطة، مأزق"
+  },
+  {
+    "id": "w-13-acrid",
+    "group": 13,
+    "word": "Acrid",
+    "definition": "Sharp and bitter in smell or taste",
+    "arabicTranslation": "لاذع الرائحة أو الطعم"
+  },
+  {
+    "id": "w-13-redress",
+    "group": 13,
+    "word": "Redress",
+    "definition": "To remedy or set right an injustice",
+    "arabicTranslation": "يُصلح ظلمًا، يعوّض"
+  },
+  {
+    "id": "w-13-bestial",
+    "group": 13,
+    "word": "Bestial",
+    "definition": "Brutal and cruel, like an animal",
+    "arabicTranslation": "وحشي، بهيمي"
+  },
+  {
+    "id": "w-13-stopgap",
+    "group": 13,
+    "word": "Stopgap",
+    "definition": "A temporary solution used until something better is found",
+    "arabicTranslation": "حل مؤقت"
+  },
+  {
+    "id": "w-13-sorrowful",
+    "group": 13,
+    "word": "Sorrowful",
+    "definition": "Feeling or expressing deep sadness",
+    "arabicTranslation": "حزين، مفعم بالأسى"
+  },
+  {
+    "id": "w-13-clamant",
+    "group": 13,
+    "word": "Clamant",
+    "definition": "Urgent and demanding attention",
+    "arabicTranslation": "ملحّ، يستدعي اهتمامًا عاجلاً"
+  },
+  {
+    "id": "w-13-felicity",
+    "group": 13,
+    "word": "Felicity",
+    "definition": "Great happiness; also, a pleasing manner of expression",
+    "arabicTranslation": "سعادة غامرة؛ براعة في التعبير"
+  },
+  {
+    "id": "w-13-disrate",
+    "group": 13,
+    "word": "Disrate",
+    "definition": "To reduce someone in rank",
+    "arabicTranslation": "يخفّض من الرتبة"
+  },
+  {
+    "id": "w-13-extemporaneous",
+    "group": 13,
+    "word": "Extemporaneous",
+    "definition": "Spoken or done without preparation",
+    "arabicTranslation": "ارتجالي، بلا تحضير مسبق"
+  },
+  {
+    "id": "w-13-acuity",
+    "group": 13,
+    "word": "Acuity",
+    "definition": "Sharpness of thought, vision, or hearing",
+    "arabicTranslation": "حدة الذهن أو الحواس"
+  },
+  {
+    "id": "w-13-crystalline",
+    "group": 13,
+    "word": "Crystalline",
+    "definition": "Very clear; like crystal",
+    "arabicTranslation": "شفاف كالبلور، واضح جدًا"
+  },
+  {
+    "id": "w-13-revilement",
+    "group": 13,
+    "word": "Revilement",
+    "definition": "Abusive criticism or insult",
+    "arabicTranslation": "شتم، إهانة لاذعة"
+  },
+  {
+    "id": "w-13-fawning",
+    "group": 13,
+    "word": "Fawning",
+    "definition": "Displaying excessive flattery or affection",
+    "arabicTranslation": "متملق بإفراط"
+  },
+  {
+    "id": "w-13-apparent",
+    "group": 13,
+    "word": "Apparent",
+    "definition": "Clearly visible or understood; seeming true but maybe not",
+    "arabicTranslation": "واضح، ظاهر (قد لا يكون حقيقيًا)"
+  },
+  {
+    "id": "w-13-verdict",
+    "group": 13,
+    "word": "Verdict",
+    "definition": "A formal decision or judgment, especially by a jury",
+    "arabicTranslation": "حكم، قرار رسمي"
+  },
+  {
+    "id": "w-13-objurgate",
+    "group": 13,
+    "word": "Objurgate",
+    "definition": "To scold or criticize harshly",
+    "arabicTranslation": "يوبّخ بشدة"
+  },
+  {
+    "id": "w-13-waggish",
+    "group": 13,
+    "word": "Waggish",
+    "definition": "Playful and humorous in a mischievous way",
+    "arabicTranslation": "مرح مشاغب، فكه"
+  },
+  {
+    "id": "w-13-aftermath",
+    "group": 13,
+    "word": "Aftermath",
+    "definition": "The period following a harmful event",
+    "arabicTranslation": "أعقاب، فترة ما بعد حدث ضار"
+  },
+  {
+    "id": "w-13-colourable",
+    "group": 13,
+    "word": "Colourable",
+    "definition": "Appearing genuine or plausible, but possibly deceptive",
+    "arabicTranslation": "يبدو مشروعًا لكنه قد يكون مضللًا"
+  },
+  {
+    "id": "w-13-restraint",
+    "group": 13,
+    "word": "Restraint",
+    "definition": "Self-control; a measure that restricts action",
+    "arabicTranslation": "ضبط النفس، قيد يحدّ من التصرف"
+  },
+  {
+    "id": "w-13-rebelling",
+    "group": 13,
+    "word": "Rebelling",
+    "definition": "Resisting authority or control",
+    "arabicTranslation": "التمرد على السلطة"
+  },
+  {
+    "id": "w-13-gabby",
+    "group": 13,
+    "word": "Gabby",
+    "definition": "Talking a lot; excessively talkative",
+    "arabicTranslation": "ثرثار"
+  },
+  {
+    "id": "w-13-unspoken",
+    "group": 13,
+    "word": "Unspoken",
+    "definition": "Not expressed in words, though understood",
+    "arabicTranslation": "غير معلن، مفهوم دون كلام"
+  },
+  {
+    "id": "w-13-misdemeanour",
+    "group": 13,
+    "word": "Misdemeanour",
+    "definition": "A minor crime, less serious than a felony",
+    "arabicTranslation": "جنحة، مخالفة قانونية بسيطة"
+  },
+  {
+    "id": "w-13-melange",
+    "group": 13,
+    "word": "Melange",
+    "definition": "A mixture of different things",
+    "arabicTranslation": "خليط متنوع"
+  },
+  {
+    "id": "w-13-upbeat",
+    "group": 13,
+    "word": "Upbeat",
+    "definition": "Cheerful and optimistic",
+    "arabicTranslation": "متفائل، مرح"
+  },
+  {
+    "id": "w-13-expeditious",
+    "group": 13,
+    "word": "Expeditious",
+    "definition": "Done with speed and efficiency",
+    "arabicTranslation": "سريع وفعّال"
+  },
+  {
+    "id": "w-13-orthodoxy",
+    "group": 13,
+    "word": "Orthodoxy",
+    "definition": "Conventional or traditionally accepted beliefs",
+    "arabicTranslation": "الأرثوذكسية، الالتزام بالمعتقدات التقليدية"
+  },
+  {
+    "id": "w-13-akin",
+    "group": 13,
+    "word": "Akin",
+    "definition": "Similar in nature; related",
+    "arabicTranslation": "مشابه، ذو صلة قرابة"
+  },
+  {
+    "id": "w-13-raze",
+    "group": 13,
+    "word": "Raze",
+    "definition": "To completely destroy a building or town",
+    "arabicTranslation": "يهدم بالكامل، يسوّي بالأرض"
+  },
+  {
+    "id": "w-13-wimpy",
+    "group": 13,
+    "word": "Wimpy",
+    "definition": "Weak and lacking courage",
+    "arabicTranslation": "ضعيف، جبان"
+  },
+  {
+    "id": "w-13-lumbersome",
+    "group": 13,
+    "word": "Lumbersome",
+    "definition": "Slow and clumsy due to size or weight (cumbersome)",
+    "arabicTranslation": "بطيء وثقيل الحركة"
+  },
+  {
+    "id": "w-13-resonant",
+    "group": 13,
+    "word": "Resonant",
+    "definition": "Deep, full, and echoing in sound; evocative",
+    "arabicTranslation": "رنّان، مدوٍ ومؤثر"
+  },
+  {
+    "id": "w-13-briskness",
+    "group": 13,
+    "word": "Briskness",
+    "definition": "Quickness and energy in movement or manner",
+    "arabicTranslation": "سرعة ونشاط في الحركة"
+  },
+  {
+    "id": "w-13-embryonic",
+    "group": 13,
+    "word": "Embryonic",
+    "definition": "In an early stage of development",
+    "arabicTranslation": "في مرحلة مبكرة من التطور"
+  },
+  {
+    "id": "w-13-intricate",
+    "group": 13,
+    "word": "Intricate",
+    "definition": "Very complicated or detailed",
+    "arabicTranslation": "معقّد، دقيق التفاصيل"
+  },
+  {
+    "id": "w-13-cartography",
+    "group": 13,
+    "word": "Cartography",
+    "definition": "The science or practice of making maps",
+    "arabicTranslation": "علم رسم الخرائط"
+  },
+  {
+    "id": "w-13-underhanded",
+    "group": 13,
+    "word": "Underhanded",
+    "definition": "Acting in a secret, dishonest way",
+    "arabicTranslation": "خفي، غير نزيه"
+  },
+  {
+    "id": "w-13-goosebumps",
+    "group": 13,
+    "word": "Goosebumps",
+    "definition": "Small bumps on skin caused by cold or fear",
+    "arabicTranslation": "قشعريرة الجلد"
+  },
+  {
+    "id": "w-13-plutocracy",
+    "group": 13,
+    "word": "Plutocracy",
+    "definition": "Government controlled by the wealthy",
+    "arabicTranslation": "حكم الأثرياء، ثراطية"
+  },
+  {
+    "id": "w-13-demean",
+    "group": 13,
+    "word": "Demean",
+    "definition": "To lower the dignity or reputation of someone",
+    "arabicTranslation": "يحطّ من كرامة، يُذلّ"
+  },
+  {
+    "id": "w-13-defame",
+    "group": 13,
+    "word": "Defame",
+    "definition": "To damage someone's reputation by false statements",
+    "arabicTranslation": "يشهّر بـ، يفتري على"
+  },
+  {
+    "id": "w-13-bifurcated",
+    "group": 13,
+    "word": "Bifurcated",
+    "definition": "Divided into two branches or parts",
+    "arabicTranslation": "منقسم إلى فرعين"
+  },
+  {
+    "id": "w-13-parlous",
+    "group": 13,
+    "word": "Parlous",
+    "definition": "Full of danger or risk; precarious",
+    "arabicTranslation": "محفوف بالخطر، خطير"
+  },
+  {
+    "id": "w-13-hectic",
+    "group": 13,
+    "word": "Hectic",
+    "definition": "Full of frantic activity",
+    "arabicTranslation": "مزدحم بالنشاط الصاخب"
+  },
+  {
+    "id": "w-13-awe",
+    "group": 13,
+    "word": "Awe",
+    "definition": "A feeling of reverential wonder mixed with fear",
+    "arabicTranslation": "رهبة ودهشة ممزوجتان بالإجلال"
+  },
+  {
+    "id": "w-13-quintessential",
+    "group": 13,
+    "word": "Quintessential",
+    "definition": "Representing the most perfect example of a quality",
+    "arabicTranslation": "نموذج مثالي، جوهري تمامًا"
+  },
+  {
+    "id": "w-13-inapt",
+    "group": 13,
+    "word": "Inapt",
+    "definition": "Not suitable; inappropriate",
+    "arabicTranslation": "غير مناسب"
+  },
+  {
+    "id": "w-14-flippancy",
+    "group": 14,
+    "word": "Flippancy",
+    "definition": "A lack of proper seriousness",
+    "arabicTranslation": "استخفاف، عدم جدية"
+  },
+  {
+    "id": "w-14-distasteful",
+    "group": 14,
+    "word": "Distasteful",
+    "definition": "Unpleasant and offensive",
+    "arabicTranslation": "منفّر، غير مستساغ"
+  },
+  {
+    "id": "w-14-unwavering",
+    "group": 14,
+    "word": "Unwavering",
+    "definition": "Steady and firm; not changing",
+    "arabicTranslation": "ثابت لا يتزعزع"
+  },
+  {
+    "id": "w-14-abstinent",
+    "group": 14,
+    "word": "Abstinent",
+    "definition": "Deliberately avoiding indulgence, especially in food or drink",
+    "arabicTranslation": "متعفف، ممتنع عن الملذات"
+  },
+  {
+    "id": "w-14-vanilla",
+    "group": 14,
+    "word": "Vanilla",
+    "definition": "(informal) Plain and ordinary; lacking distinctive character",
+    "arabicTranslation": "عادي جدًا، بلا مميزات"
+  },
+  {
+    "id": "w-14-simoniac",
+    "group": 14,
+    "word": "Simoniac",
+    "definition": "Relating to the buying or selling of religious favors",
+    "arabicTranslation": "متعلق ببيع المناصب الدينية"
+  },
+  {
+    "id": "w-14-epitome",
+    "group": 14,
+    "word": "Epitome",
+    "definition": "A perfect example of a particular quality",
+    "arabicTranslation": "النموذج الأمثل، تجسيد كامل"
+  },
+  {
+    "id": "w-14-kindred",
+    "group": 14,
+    "word": "Kindred",
+    "definition": "Similar in nature; related by blood",
+    "arabicTranslation": "متشابه الطبع، ذو قرابة"
+  },
+  {
+    "id": "w-14-machinate",
+    "group": 14,
+    "word": "Machinate",
+    "definition": "To plan secretly, usually for a harmful purpose",
+    "arabicTranslation": "يدبّر مكيدة سرًا"
+  },
+  {
+    "id": "w-14-culpability",
+    "group": 14,
+    "word": "Culpability",
+    "definition": "The state of being responsible for wrongdoing",
+    "arabicTranslation": "المسؤولية عن الذنب، إدانة"
+  },
+  {
+    "id": "w-14-astronomical",
+    "group": 14,
+    "word": "Astronomical",
+    "definition": "Extremely large in amount",
+    "arabicTranslation": "ضخم جدًا، فلكي الحجم"
+  },
+  {
+    "id": "w-14-culmination",
+    "group": 14,
+    "word": "Culmination",
+    "definition": "The highest or final point of a process",
+    "arabicTranslation": "الذروة، نهاية تراكمية"
+  },
+  {
+    "id": "w-14-inertia",
+    "group": 14,
+    "word": "Inertia",
+    "definition": "A tendency to remain unchanged; resistance to motion or change",
+    "arabicTranslation": "الخمول، مقاومة التغيير أو الحركة"
+  },
+  {
+    "id": "w-14-patchwork",
+    "group": 14,
+    "word": "Patchwork",
+    "definition": "Something made of many different, mismatched pieces",
+    "arabicTranslation": "خليط متنافر من قطع مختلفة"
+  },
+  {
+    "id": "w-14-revel-in",
+    "group": 14,
+    "word": "Revel In",
+    "definition": "To take great pleasure in something",
+    "arabicTranslation": "يستمتع بشدة بـ"
+  },
+  {
+    "id": "w-14-adamant",
+    "group": 14,
+    "word": "Adamant",
+    "definition": "Refusing to change one's mind; firmly insistent",
+    "arabicTranslation": "متصلب الرأي، عنيد بإصرار"
+  },
+  {
+    "id": "w-14-gentility",
+    "group": 14,
+    "word": "Gentility",
+    "definition": "Refined and polite manners",
+    "arabicTranslation": "لباقة ورقي في السلوك"
+  },
+  {
+    "id": "w-14-pungent",
+    "group": 14,
+    "word": "Pungent",
+    "definition": "Having a strong, sharp smell or taste",
+    "arabicTranslation": "حاد الرائحة أو الطعم"
+  },
+  {
+    "id": "w-14-abridged",
+    "group": 14,
+    "word": "Abridged",
+    "definition": "Shortened while keeping the main content",
+    "arabicTranslation": "مختصر مع الاحتفاظ بالمضمون"
+  },
+  {
+    "id": "w-14-paramount",
+    "group": 14,
+    "word": "Paramount",
+    "definition": "More important than anything else",
+    "arabicTranslation": "الأهم على الإطلاق"
+  },
+  {
+    "id": "w-14-ancillary",
+    "group": 14,
+    "word": "Ancillary",
+    "definition": "Providing support to the main activity; supplementary",
+    "arabicTranslation": "مساعد، ثانوي داعم"
+  },
+  {
+    "id": "w-14-countermand",
+    "group": 14,
+    "word": "Countermand",
+    "definition": "To cancel a previous order",
+    "arabicTranslation": "يلغي أمرًا سابقًا"
+  },
+  {
+    "id": "w-14-cardinal",
+    "group": 14,
+    "word": "Cardinal",
+    "definition": "Of fundamental importance; principal",
+    "arabicTranslation": "أساسي، رئيسي جدًا"
+  },
+  {
+    "id": "w-14-besiege",
+    "group": 14,
+    "word": "Besiege",
+    "definition": "To surround with military forces; to overwhelm with requests",
+    "arabicTranslation": "يحاصر، يغمر بطلبات"
+  },
+  {
+    "id": "w-14-nondescript",
+    "group": 14,
+    "word": "Nondescript",
+    "definition": "Lacking distinctive features; unremarkable",
+    "arabicTranslation": "عادي، بلا سمات مميزة"
+  },
+  {
+    "id": "w-14-contrivance",
+    "group": 14,
+    "word": "Contrivance",
+    "definition": "A clever device or plan, often artificial",
+    "arabicTranslation": "حيلة، جهاز مبتكر أو مصطنع"
+  },
+  {
+    "id": "w-14-stygian",
+    "group": 14,
+    "word": "Stygian",
+    "definition": "Extremely dark or gloomy, like the underworld",
+    "arabicTranslation": "شديد الظلام، كئيب جدًا"
+  },
+  {
+    "id": "w-14-sanitize",
+    "group": 14,
+    "word": "Sanitize",
+    "definition": "To make clean and hygienic; to remove offensive parts",
+    "arabicTranslation": "يعقّم، يهذّب من العناصر المسيئة"
+  },
+  {
+    "id": "w-14-onslaught",
+    "group": 14,
+    "word": "Onslaught",
+    "definition": "A fierce or destructive attack",
+    "arabicTranslation": "هجوم عنيف وكاسح"
+  },
+  {
+    "id": "w-14-dolorous",
+    "group": 14,
+    "word": "Dolorous",
+    "definition": "Feeling or expressing great sorrow",
+    "arabicTranslation": "حزين عميقًا، مفجع"
+  },
+  {
+    "id": "w-14-endue",
+    "group": 14,
+    "word": "Endue",
+    "definition": "To provide someone with a quality or power",
+    "arabicTranslation": "يمنح صفة أو قدرة"
+  },
+  {
+    "id": "w-14-soupcon",
+    "group": 14,
+    "word": "Soupcon",
+    "definition": "A very small amount of something",
+    "arabicTranslation": "قدر ضئيل جدًا من شيء"
+  },
+  {
+    "id": "w-14-exponible",
+    "group": 14,
+    "word": "Exponible",
+    "definition": "Able to be explained or interpreted",
+    "arabicTranslation": "قابل للتفسير أو الشرح"
+  },
+  {
+    "id": "w-14-frumpish",
+    "group": 14,
+    "word": "Frumpish",
+    "definition": "Unfashionable and dull in dress or appearance",
+    "arabicTranslation": "غير أنيق، عتيق الطراز"
+  },
+  {
+    "id": "w-14-fugitive",
+    "group": 14,
+    "word": "Fugitive",
+    "definition": "A person fleeing from capture; also, fleeting",
+    "arabicTranslation": "هارب من العدالة؛ زائل سريعًا"
+  },
+  {
+    "id": "w-14-canon",
+    "group": 14,
+    "word": "Canon",
+    "definition": "A recognized set of rules or accepted works",
+    "arabicTranslation": "قاعدة معتمدة، مجموعة أعمال معترف بها"
+  },
+  {
+    "id": "w-14-decency",
+    "group": 14,
+    "word": "Decency",
+    "definition": "Behavior that conforms to accepted moral standards",
+    "arabicTranslation": "اللياقة، الالتزام بالمعايير الأخلاقية"
+  },
+  {
+    "id": "w-14-truncated",
+    "group": 14,
+    "word": "Truncated",
+    "definition": "Shortened by cutting off part",
+    "arabicTranslation": "مقتطع، مختصر بقطع جزء"
+  },
+  {
+    "id": "w-14-mutinous",
+    "group": 14,
+    "word": "Mutinous",
+    "definition": "Rebellious; disposed to revolt against authority",
+    "arabicTranslation": "متمرد على السلطة"
+  },
+  {
+    "id": "w-14-avow",
+    "group": 14,
+    "word": "Avow",
+    "definition": "To openly declare or admit something",
+    "arabicTranslation": "يعترف صراحة، يجاهر بـ"
+  },
+  {
+    "id": "w-14-tautological",
+    "group": 14,
+    "word": "Tautological",
+    "definition": "Repeating the same idea in different words unnecessarily",
+    "arabicTranslation": "حشو لفظي، تكرار المعنى بلا فائدة"
+  },
+  {
+    "id": "w-14-ridicule",
+    "group": 14,
+    "word": "Ridicule",
+    "definition": "Mockery or contemptuous laughter",
+    "arabicTranslation": "سخرية، استهزاء"
+  },
+  {
+    "id": "w-14-draw-out",
+    "group": 14,
+    "word": "Draw Out",
+    "definition": "To extend the length of something; to elicit information",
+    "arabicTranslation": "يطيل، يستخلص معلومة"
+  },
+  {
+    "id": "w-14-slapdash",
+    "group": 14,
+    "word": "Slapdash",
+    "definition": "Done quickly and carelessly",
+    "arabicTranslation": "متسرع ومهمل"
+  },
+  {
+    "id": "w-14-allegorical",
+    "group": 14,
+    "word": "Allegorical",
+    "definition": "Using symbolic figures to represent deeper truths",
+    "arabicTranslation": "رمزي، يستخدم قصة لتمثيل معنى أعمق"
+  },
+  {
+    "id": "w-14-ragbag",
+    "group": 14,
+    "word": "Ragbag",
+    "definition": "A confused mixture of unrelated things",
+    "arabicTranslation": "خليط عشوائي غير مترابط"
+  },
+  {
+    "id": "w-14-tolerate",
+    "group": 14,
+    "word": "Tolerate",
+    "definition": "To accept or endure something without complaint",
+    "arabicTranslation": "يتحمّل، يتسامح مع"
+  },
+  {
+    "id": "w-14-ramify",
+    "group": 14,
+    "word": "Ramify",
+    "definition": "To branch out into complex parts",
+    "arabicTranslation": "يتشعب، يتفرع بتعقيد"
+  },
+  {
+    "id": "w-14-casuistry",
+    "group": 14,
+    "word": "Casuistry",
+    "definition": "Clever but misleading reasoning, especially on moral issues",
+    "arabicTranslation": "مغالطة أخلاقية ذكية لتبرير الخطأ"
+  },
+  {
+    "id": "w-14-vim",
+    "group": 14,
+    "word": "Vim",
+    "definition": "Energy and enthusiasm",
+    "arabicTranslation": "حيوية ونشاط"
+  },
+  {
+    "id": "w-14-satiated",
+    "group": 14,
+    "word": "Satiated",
+    "definition": "Fully satisfied, especially with food; unable to consume more",
+    "arabicTranslation": "مشبع تمامًا، مكتفٍ"
+  },
+  {
+    "id": "w-14-dejected",
+    "group": 14,
+    "word": "Dejected",
+    "definition": "Sad and discouraged",
+    "arabicTranslation": "محبَط، منكسر النفس"
+  },
+  {
+    "id": "w-14-zestful",
+    "group": 14,
+    "word": "Zestful",
+    "definition": "Full of energy and enthusiasm",
+    "arabicTranslation": "مفعم بالحماس والحيوية"
+  },
+  {
+    "id": "w-14-parting",
+    "group": 14,
+    "word": "Parting",
+    "definition": "The act of leaving or separating",
+    "arabicTranslation": "فراق، رحيل"
+  },
+  {
+    "id": "w-14-dissonance",
+    "group": 14,
+    "word": "Dissonance",
+    "definition": "A lack of harmony; conflicting elements",
+    "arabicTranslation": "تنافر، عدم انسجام"
+  },
+  {
+    "id": "w-14-connate",
+    "group": 14,
+    "word": "Connate",
+    "definition": "Existing in someone from birth; innate",
+    "arabicTranslation": "فطري، موجود منذ الولادة"
+  },
+  {
+    "id": "w-14-tolerable",
+    "group": 14,
+    "word": "Tolerable",
+    "definition": "Able to be endured; acceptable but not great",
+    "arabicTranslation": "محتمل، مقبول نسبيًا"
+  },
+  {
+    "id": "w-14-repertory",
+    "group": 14,
+    "word": "Repertory",
+    "definition": "A stock of skills, works, or techniques ready to use",
+    "arabicTranslation": "مخزون من المهارات أو الأعمال الجاهزة"
+  },
+  {
+    "id": "w-14-thrift",
+    "group": 14,
+    "word": "Thrift",
+    "definition": "Careful management of money; economical use of resources",
+    "arabicTranslation": "اقتصاد، حسن تدبير المال"
+  },
+  {
+    "id": "w-14-discomfiting",
+    "group": 14,
+    "word": "Discomfiting",
+    "definition": "Causing embarrassment or unease",
+    "arabicTranslation": "مسبب للحرج أو الانزعاج"
+  },
+  {
+    "id": "w-15-penniless",
+    "group": 15,
+    "word": "Penniless",
+    "definition": "Having no money; very poor",
+    "arabicTranslation": "معدم، بلا مال"
+  },
+  {
+    "id": "w-15-scandalous",
+    "group": 15,
+    "word": "Scandalous",
+    "definition": "Shocking and morally offensive",
+    "arabicTranslation": "فاضح، مخزٍ أخلاقيًا"
+  },
+  {
+    "id": "w-15-glare",
+    "group": 15,
+    "word": "Glare",
+    "definition": "An intense, angry stare; a harsh light",
+    "arabicTranslation": "نظرة غاضبة حادة؛ وهج ساطع"
+  },
+  {
+    "id": "w-15-checkered",
+    "group": 15,
+    "word": "Checkered",
+    "definition": "Marked by both good and bad periods; varied",
+    "arabicTranslation": "متقلب، مليء بالنجاح والفشل"
+  },
+  {
+    "id": "w-15-incubation",
+    "group": 15,
+    "word": "Incubation",
+    "definition": "A period of development before something becomes apparent",
+    "arabicTranslation": "فترة حضانة أو تطور خفي"
+  },
+  {
+    "id": "w-15-adjure",
+    "group": 15,
+    "word": "Adjure",
+    "definition": "To urge or command someone solemnly",
+    "arabicTranslation": "يستحلف، يأمر بجدية"
+  },
+  {
+    "id": "w-15-ravaged",
+    "group": 15,
+    "word": "Ravaged",
+    "definition": "Severely damaged or destroyed",
+    "arabicTranslation": "مدمَّر بشدة، منكوب"
+  },
+  {
+    "id": "w-15-advent",
+    "group": 15,
+    "word": "Advent",
+    "definition": "The arrival or beginning of something notable",
+    "arabicTranslation": "قدوم، بداية شيء مهم"
+  },
+  {
+    "id": "w-15-impassive",
+    "group": 15,
+    "word": "Impassive",
+    "definition": "Showing no emotion; calm and unreactive",
+    "arabicTranslation": "عديم التعبير عن المشاعر، هادئ بلا انفعال"
+  },
+  {
+    "id": "w-15-repose",
+    "group": 15,
+    "word": "Repose",
+    "definition": "A state of rest or peace",
+    "arabicTranslation": "راحة، سكينة"
+  },
+  {
+    "id": "w-15-calmative",
+    "group": 15,
+    "word": "Calmative",
+    "definition": "Something that soothes or calms",
+    "arabicTranslation": "مهدئ، مسكّن"
+  },
+  {
+    "id": "w-15-lordly",
+    "group": 15,
+    "word": "Lordly",
+    "definition": "Behaving in an arrogant, superior manner",
+    "arabicTranslation": "متعالٍ، متكبر كالسيد"
+  },
+  {
+    "id": "w-15-drastic",
+    "group": 15,
+    "word": "Drastic",
+    "definition": "Extreme and severe, especially as a measure",
+    "arabicTranslation": "جذري، حاد الأثر"
+  },
+  {
+    "id": "w-15-lighthearted",
+    "group": 15,
+    "word": "Lighthearted",
+    "definition": "Cheerful and carefree",
+    "arabicTranslation": "مرح، خفيف الروح"
+  },
+  {
+    "id": "w-15-raucous",
+    "group": 15,
+    "word": "Raucous",
+    "definition": "Loud and disorderly",
+    "arabicTranslation": "صاخب وفوضوي"
+  },
+  {
+    "id": "w-15-colour",
+    "group": 15,
+    "word": "Colour",
+    "definition": "(verb) To influence or distort perception; (noun) hue",
+    "arabicTranslation": "يؤثر على أو يشوّه الرأي؛ لون"
+  },
+  {
+    "id": "w-15-insinuate",
+    "group": 15,
+    "word": "Insinuate",
+    "definition": "To suggest something indirectly, often unpleasant",
+    "arabicTranslation": "يلمّح بخبث إلى"
+  },
+  {
+    "id": "w-15-draconian",
+    "group": 15,
+    "word": "Draconian",
+    "definition": "Excessively harsh or severe, especially laws",
+    "arabicTranslation": "صارم جدًا، قاسٍ في القوانين"
+  },
+  {
+    "id": "w-15-abolish",
+    "group": 15,
+    "word": "Abolish",
+    "definition": "To formally put an end to a law or system",
+    "arabicTranslation": "يلغي رسميًا، يُبطل نظامًا"
+  },
+  {
+    "id": "w-15-inadvertent",
+    "group": 15,
+    "word": "Inadvertent",
+    "definition": "Not intentional; accidental",
+    "arabicTranslation": "غير مقصود، عن غير عمد"
+  },
+  {
+    "id": "w-15-defray",
+    "group": 15,
+    "word": "Defray",
+    "definition": "To provide money to pay for costs",
+    "arabicTranslation": "يسدد التكاليف، يغطي نفقات"
+  },
+  {
+    "id": "w-15-frail",
+    "group": 15,
+    "word": "Frail",
+    "definition": "Physically weak and delicate",
+    "arabicTranslation": "ضعيف البنية، هش"
+  },
+  {
+    "id": "w-15-indict",
+    "group": 15,
+    "word": "Indict",
+    "definition": "To formally charge someone with a crime",
+    "arabicTranslation": "يوجّه اتهامًا رسميًا"
+  },
+  {
+    "id": "w-15-saturate",
+    "group": 15,
+    "word": "Saturate",
+    "definition": "To fill something completely, leaving no room for more",
+    "arabicTranslation": "يشبع تمامًا، يغمر بالكامل"
+  },
+  {
+    "id": "w-15-voracious",
+    "group": 15,
+    "word": "Voracious",
+    "definition": "Having a very eager appetite for something",
+    "arabicTranslation": "شره، نهم شديد"
+  },
+  {
+    "id": "w-15-jargon",
+    "group": 15,
+    "word": "Jargon",
+    "definition": "Specialized language used by a particular group",
+    "arabicTranslation": "مصطلحات تخصصية"
+  },
+  {
+    "id": "w-15-lascivious",
+    "group": 15,
+    "word": "Lascivious",
+    "definition": "Showing excessive sexual desire",
+    "arabicTranslation": "شهواني، فاحش"
+  },
+  {
+    "id": "w-15-dignified",
+    "group": 15,
+    "word": "Dignified",
+    "definition": "Having or showing a calm, serious manner deserving respect",
+    "arabicTranslation": "مهيب، وقور"
+  },
+  {
+    "id": "w-15-importunate",
+    "group": 15,
+    "word": "Importunate",
+    "definition": "Persistent to the point of annoyance in making requests",
+    "arabicTranslation": "ملحّ بإزعاج في طلبه"
+  },
+  {
+    "id": "w-15-mettle",
+    "group": 15,
+    "word": "Mettle",
+    "definition": "Courage and strength of character",
+    "arabicTranslation": "شجاعة وقوة شخصية"
+  },
+  {
+    "id": "w-15-aggravate",
+    "group": 15,
+    "word": "Aggravate",
+    "definition": "To make a problem worse; to annoy",
+    "arabicTranslation": "يفاقم، يستفز"
+  },
+  {
+    "id": "w-15-fanatic",
+    "group": 15,
+    "word": "Fanatic",
+    "definition": "A person with extreme, uncritical enthusiasm for a cause",
+    "arabicTranslation": "متعصب لقضية بحماس مفرط"
+  },
+  {
+    "id": "w-15-infatuate",
+    "group": 15,
+    "word": "Infatuate",
+    "definition": "To inspire an intense but short-lived passion in someone",
+    "arabicTranslation": "يفتن، يثير إعجابًا شديدًا وعابرًا"
+  },
+  {
+    "id": "w-15-pedant",
+    "group": 15,
+    "word": "Pedant",
+    "definition": "A person overly concerned with minor rules or details",
+    "arabicTranslation": "متحذلق، مدقق تافه بالتفاصيل"
+  },
+  {
+    "id": "w-15-resound",
+    "group": 15,
+    "word": "Resound",
+    "definition": "To fill an area with a loud, echoing sound",
+    "arabicTranslation": "يدوّي، يتردد صداه"
+  },
+  {
+    "id": "w-15-prevail-over",
+    "group": 15,
+    "word": "Prevail Over",
+    "definition": "To triumph over an opponent or difficulty",
+    "arabicTranslation": "يتغلب على، ينتصر على"
+  },
+  {
+    "id": "w-15-disheartened",
+    "group": 15,
+    "word": "Disheartened",
+    "definition": "Having lost enthusiasm or hope",
+    "arabicTranslation": "محبَط، فاقد الأمل"
+  },
+  {
+    "id": "w-15-sectarian",
+    "group": 15,
+    "word": "Sectarian",
+    "definition": "Relating to rigid divisions between religious or political groups",
+    "arabicTranslation": "طائفي، متعصب لفئة"
+  },
+  {
+    "id": "w-15-fall-guy",
+    "group": 15,
+    "word": "Fall Guy",
+    "definition": "A person unfairly blamed for something",
+    "arabicTranslation": "كبش فداء، متحمل اللوم ظلمًا"
+  },
+  {
+    "id": "w-15-pithiness",
+    "group": 15,
+    "word": "Pithiness",
+    "definition": "The quality of being brief and forcefully expressive",
+    "arabicTranslation": "الإيجاز البليغ"
+  },
+  {
+    "id": "w-15-obfuscated",
+    "group": 15,
+    "word": "Obfuscated",
+    "definition": "Made unclear or difficult to understand, often deliberately",
+    "arabicTranslation": "مُبهَم عمدًا، مشوَّش"
+  },
+  {
+    "id": "w-15-self-denying",
+    "group": 15,
+    "word": "Self-Denying",
+    "definition": "Willing to sacrifice one's own desires for others",
+    "arabicTranslation": "زاهد، منكر لذاته لأجل الغير"
+  },
+  {
+    "id": "w-15-ally",
+    "group": 15,
+    "word": "Ally",
+    "definition": "A person or group that cooperates with another for a common goal",
+    "arabicTranslation": "حليف"
+  },
+  {
+    "id": "w-15-egoistic",
+    "group": 15,
+    "word": "Egoistic",
+    "definition": "Excessively concerned with oneself",
+    "arabicTranslation": "أناني، مفرط في حب الذات"
+  },
+  {
+    "id": "w-15-sully",
+    "group": 15,
+    "word": "Sully",
+    "definition": "To damage the purity or reputation of something",
+    "arabicTranslation": "يلطّخ، يدنّس سمعة"
+  },
+  {
+    "id": "w-15-novice",
+    "group": 15,
+    "word": "Novice",
+    "definition": "A person new to a skill or activity; a beginner",
+    "arabicTranslation": "مبتدئ"
+  },
+  {
+    "id": "w-15-euphuism",
+    "group": 15,
+    "word": "Euphuism",
+    "definition": "An excessively elaborate and ornate style of writing",
+    "arabicTranslation": "أسلوب كتابة مزخرف بإفراط"
+  },
+  {
+    "id": "w-15-exemplify",
+    "group": 15,
+    "word": "Exemplify",
+    "definition": "To be a typical example of something",
+    "arabicTranslation": "يُجسّد، يُمثّل نموذجًا لـ"
+  },
+  {
+    "id": "w-15-piercing",
+    "group": 15,
+    "word": "Piercing",
+    "definition": "Sharp and penetrating, especially of sound, cold, or insight",
+    "arabicTranslation": "ثاقب، حاد الاختراق"
+  },
+  {
+    "id": "w-15-homely",
+    "group": 15,
+    "word": "Homely",
+    "definition": "Plain and unattractive; also, simple and comfortable",
+    "arabicTranslation": "بسيط غير جذاب؛ مريح وبسيط"
+  },
+  {
+    "id": "w-15-mortal",
+    "group": 15,
+    "word": "Mortal",
+    "definition": "Subject to death; extremely serious, as in danger",
+    "arabicTranslation": "فانٍ، بشري؛ قاتل الخطورة"
+  },
+  {
+    "id": "w-15-unassuming",
+    "group": 15,
+    "word": "Unassuming",
+    "definition": "Modest; not pretentious",
+    "arabicTranslation": "متواضع، غير متكلّف"
+  },
+  {
+    "id": "w-15-desist",
+    "group": 15,
+    "word": "Desist",
+    "definition": "To stop doing something",
+    "arabicTranslation": "يكفّ عن، يتوقف عن"
+  },
+  {
+    "id": "w-15-fusion",
+    "group": 15,
+    "word": "Fusion",
+    "definition": "The joining of different things into one",
+    "arabicTranslation": "اندماج، انصهار"
+  },
+  {
+    "id": "w-15-lure",
+    "group": 15,
+    "word": "Lure",
+    "definition": "To tempt someone into doing something, often through deceit",
+    "arabicTranslation": "يغري، يستدرج"
+  },
+  {
+    "id": "w-15-monocratic",
+    "group": 15,
+    "word": "Monocratic",
+    "definition": "Governed by a single ruler with absolute power",
+    "arabicTranslation": "حكم فردي مطلق"
+  },
+  {
+    "id": "w-15-fluctuant",
+    "group": 15,
+    "word": "Fluctuant",
+    "definition": "Tending to change irregularly; unstable",
+    "arabicTranslation": "متقلب، غير مستقر"
+  },
+  {
+    "id": "w-15-resurgent",
+    "group": 15,
+    "word": "Resurgent",
+    "definition": "Increasing or reviving after a period of decline",
+    "arabicTranslation": "منتعش من جديد بعد تراجع"
+  },
+  {
+    "id": "w-15-conscientious",
+    "group": 15,
+    "word": "Conscientious",
+    "definition": "Careful to do things correctly, guided by a sense of duty",
+    "arabicTranslation": "دقيق وملتزم بالواجب"
+  },
+  {
+    "id": "w-15-humility",
+    "group": 15,
+    "word": "Humility",
+    "definition": "A modest view of one's own importance",
+    "arabicTranslation": "تواضع"
+  }
+]
