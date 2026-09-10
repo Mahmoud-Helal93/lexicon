@@ -1,6 +1,6 @@
 "use client"
 
-import { RotateCw, Check, X } from "lucide-react"
+import { Check, X, RotateCcw } from "lucide-react"
 import type { VocabWord } from "@/lib/types"
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
@@ -20,75 +20,104 @@ export function Flashcard({
   onUnknown: () => void
 }) {
   return (
-    <div className="flex flex-col items-center">
-      <div className="flip-card relative w-full">
-        <div
-          role="button"
-          tabIndex={0}
-          aria-label={flipped ? "Card revealed. Press space to flip back." : `Flashcard: ${word.word}. Press space to reveal.`}
-          onClick={onFlip}
-          onKeyDown={(e) => {
-            if (e.key === "Enter") {
-              e.preventDefault()
-              onFlip()
-            }
-          }}
-          className="group block h-96 w-full cursor-pointer select-none focus-visible:outline-none sm:h-[28rem]"
-        >
-          <div className={cn("flip-inner h-full w-full rounded-3xl", flipped && "is-flipped")}>
-            {/* Front */}
-            <div className="flip-face flex h-full w-full flex-col items-center justify-center rounded-3xl border border-border bg-card p-8 shadow-sm ring-1 ring-transparent transition-shadow group-focus-visible:ring-ring">
-              <span className="absolute right-4 top-4">
-                <BookmarkButton wordId={word.id} />
+    <div className="w-full">
+      <div className="flip-card w-full">
+        <div className={cn("flip-inner min-h-[380px] sm:min-h-[440px] lg:min-h-[480px]", flipped && "is-flipped")}>
+          {/* Front — the English word */}
+          <div
+            role="button"
+            tabIndex={0}
+            onClick={onFlip}
+            onKeyDown={(e) => {
+              if (e.key === "Enter") onFlip()
+            }}
+            aria-label="Reveal definition and translation"
+            className="flip-face flex w-full cursor-pointer flex-col items-center justify-center rounded-[2rem] border border-border/80 bg-card p-8 text-center shadow-xl shadow-foreground/5 ring-1 ring-border/30 transition-colors hover:border-primary/40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring sm:p-12"
+          >
+            <div className="absolute inset-x-6 top-6 flex items-center justify-between">
+              <span className="rounded-full bg-secondary px-3 py-1 text-xs font-medium text-muted-foreground">
+                Group {word.group}
               </span>
-              <span className="text-xs font-medium uppercase tracking-widest text-muted-foreground">Group {word.group}</span>
-              <h2 className="mt-4 text-4xl font-bold tracking-tight text-balance sm:text-5xl">{word.word}</h2>
-              <span className="mt-6 inline-flex items-center gap-1.5 text-sm text-muted-foreground">
-                <RotateCw className="size-4" /> Click or press Space to reveal
+              <span className="rounded-full border border-border px-3 py-1 text-[11px] font-semibold uppercase tracking-wider text-muted-foreground">
+                Study
               </span>
             </div>
+            <span className="text-5xl font-extrabold tracking-tight text-balance sm:text-6xl lg:text-7xl">
+              {word.word}
+            </span>
+            <span className="absolute inset-x-0 bottom-7 flex items-center justify-center gap-1.5 text-sm text-muted-foreground">
+              <RotateCcw className="size-4" />
+              Click or press <kbd className="rounded bg-secondary px-1.5 py-0.5 text-xs">Space</kbd> to reveal
+            </span>
+          </div>
 
-            {/* Back */}
-            <div className="flip-face flip-back flex h-full w-full flex-col items-center justify-center gap-3 rounded-3xl border border-primary/30 bg-gradient-to-br from-primary/8 via-card to-accent/25 p-8 shadow-sm">
-              <span className="absolute right-4 top-4">
-                <BookmarkButton wordId={word.id} />
-              </span>
-              <h3 className="text-2xl font-bold tracking-tight sm:text-3xl">{word.word}</h3>
-              <p className="text-arabic text-2xl font-semibold text-primary sm:text-3xl" lang="ar">
-                {word.arabicTranslation}
-              </p>
-              <p className="max-w-md text-pretty text-center text-base leading-relaxed text-muted-foreground sm:text-lg">
-                {word.definition}
-              </p>
+          {/* Back — definition & Arabic translation */}
+          <div
+            role="button"
+            tabIndex={flipped ? 0 : -1}
+            onClick={onFlip}
+            onKeyDown={(e) => {
+              if (e.key === "Enter") onFlip()
+            }}
+            aria-label="Show word"
+            className="flip-back flip-face flex w-full cursor-pointer flex-col justify-center rounded-[2rem] border border-border/80 bg-card p-8 text-center shadow-xl shadow-foreground/5 ring-1 ring-border/30 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring sm:p-12"
+          >
+            <div className="absolute right-6 top-6" onClick={(e) => e.stopPropagation()}>
+              <BookmarkButton wordId={word.id} />
+            </div>
+
+            <div className="mx-auto flex w-full max-w-xl flex-col gap-6">
+              <div>
+                <p className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">Word</p>
+                <p className="mt-1 text-3xl font-bold tracking-tight sm:text-4xl">{word.word}</p>
+              </div>
+
+              <div className="h-px w-full bg-border" />
+
+              <div>
+                <p className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">Arabic</p>
+                <p className="text-arabic mt-1 text-3xl font-semibold text-primary sm:text-4xl" lang="ar">
+                  {word.arabicTranslation}
+                </p>
+              </div>
+
+              <div className="h-px w-full bg-border" />
+
+              <div>
+                <p className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">Definition</p>
+                <p className="mt-1 text-lg leading-relaxed text-foreground/90 text-pretty sm:text-xl">
+                  {word.definition}
+                </p>
+              </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div className="mt-6 grid w-full grid-cols-2 gap-3">
+      {/* Known / Unknown controls */}
+      <div className="mt-6 grid grid-cols-2 gap-3 sm:gap-4">
         <Button
-          variant="outline"
           size="lg"
-          disabled={!flipped}
+          variant="outline"
           onClick={onUnknown}
-          className="h-14 border-destructive/40 text-destructive hover:bg-destructive/10 hover:text-destructive disabled:opacity-40"
+          className="h-16 border-destructive/40 text-base font-semibold text-destructive hover:bg-destructive/10 hover:text-destructive sm:text-lg"
         >
           <X className="size-5" /> Unknown
-          <kbd className="ml-1 hidden rounded bg-destructive/10 px-1.5 py-0.5 text-[11px] font-medium sm:inline">U</kbd>
+          <kbd className="ml-1 hidden rounded bg-destructive/10 px-1.5 py-0.5 text-xs sm:inline">U</kbd>
         </Button>
         <Button
           size="lg"
-          disabled={!flipped}
           onClick={onKnown}
-          className="h-14 bg-emerald-600 text-white hover:bg-emerald-700 disabled:opacity-40"
+          disabled={!flipped}
+          className="h-16 bg-success text-base font-semibold text-success-foreground hover:bg-success/90 sm:text-lg"
         >
           <Check className="size-5" /> Known
-          <kbd className="ml-1 hidden rounded bg-white/20 px-1.5 py-0.5 text-[11px] font-medium sm:inline">K</kbd>
+          <kbd className="ml-1 hidden rounded bg-black/10 px-1.5 py-0.5 text-xs sm:inline">K</kbd>
         </Button>
       </div>
-      {!flipped && (
-        <p className="mt-3 text-xs text-muted-foreground">Reveal the card to mark it Known or Unknown.</p>
-      )}
+      <p className="mt-3 text-center text-xs text-muted-foreground">
+        {flipped ? "Mark whether you knew this word." : "Reveal the card, then mark Known or Unknown."}
+      </p>
     </div>
   )
 }

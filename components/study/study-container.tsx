@@ -130,8 +130,8 @@ export function StudyContainer() {
     const word = wid ? getWord(wid) : undefined
     if (!word) return null
     return (
-      <div className="mx-auto flex min-h-[calc(100dvh-4rem)] max-w-4xl flex-col justify-center px-4 py-8 sm:px-6">
-        <div className="mb-6 flex items-center justify-between">
+      <div className="mx-auto flex min-h-[calc(100dvh-4rem)] w-full max-w-[960px] flex-col px-4 py-6 sm:px-6 lg:py-8">
+        <div className="mb-4 flex items-center justify-between">
           <Button variant="ghost" size="sm" onClick={() => setPhase("setup")}>
             <ArrowLeft className="size-4" /> Exit
           </Button>
@@ -140,7 +140,8 @@ export function StudyContainer() {
             <span className="tabular-nums">{session.total}</span>
           </span>
         </div>
-        <div className="grid gap-6 lg:grid-cols-[1fr_18rem]">
+        <StudyProgress session={session} />
+        <div className="mt-6 flex flex-1 items-center">
           <Flashcard
             key={word.id + session.queue.length}
             word={word}
@@ -149,9 +150,6 @@ export function StudyContainer() {
             onKnown={handleKnown}
             onUnknown={handleUnknown}
           />
-          <div className="order-first lg:order-last">
-            <StudyProgress session={session} />
-          </div>
         </div>
       </div>
     )

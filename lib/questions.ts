@@ -118,8 +118,13 @@ export function buildQuestion(target: VocabWord, pool: VocabWord[], config: Prac
   }
 }
 
-/** Generate one question per word, shuffled. */
+/**
+ * Generate one question per word, preserving the incoming word order.
+ * The caller (practice container) is responsible for choosing In Order vs.
+ * Random for the *vocabulary* sequence. Answer choices are always shuffled
+ * independently inside `buildQuestion`, so the correct option never sits in a
+ * fixed position regardless of word order.
+ */
 export function buildQuestionSet(words: VocabWord[], pool: VocabWord[], config: PracticeConfig): Question[] {
-  const order = shuffle(words)
-  return order.map((w) => buildQuestion(w, pool, config))
+  return words.map((w) => buildQuestion(w, pool, config))
 }
