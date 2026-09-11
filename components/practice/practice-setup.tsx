@@ -60,7 +60,17 @@ export function PracticeSetup({
         <RadioGroup
           className="mt-3 grid gap-2.5 sm:grid-cols-3"
           value={config.type}
-          onValueChange={(v) => onConfigChange({ ...config, type: v as QuestionTypeSetting })}
+          onValueChange={(v) => {
+            const type = v as QuestionTypeSetting
+            onConfigChange({
+              ...config,
+              type,
+              // Reset each direction to its neutral default whenever the question type
+              // changes, so no incompatible direction selection can linger in state.
+              definitionDirection: type === "definition" || type === "mixed" ? "mixed" : config.definitionDirection,
+              arabicDirection: type === "arabic" || type === "mixed" ? "mixed" : config.arabicDirection,
+            })
+          }}
         >
           <OptionRow value="definition" id="type-def" label="Definition" desc="English word ↔ definition" checked={config.type === "definition"} />
           <OptionRow value="arabic" id="type-ar" label="Arabic translation" desc="English word ↔ Arabic" checked={config.type === "arabic"} />
